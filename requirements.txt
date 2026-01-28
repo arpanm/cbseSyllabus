@@ -1,3 +1,11 @@
 requests>=2.28.0
 beautifulsoup4>=4.11.0
 lxml>=4.9.0
+
+# PDF parsing libraries (install at least one)
+# PyMuPDF is recommended for best PDF parsing
+pymupdf>=1.23.0
+
+# Alternative PDF parsers (fallbacks)
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
