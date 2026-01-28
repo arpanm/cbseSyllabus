@@ -1,0 +1,34 @@
+{
+  "generated_at": "2024-01-01T00:00:00",
+  "total_downloaded": 4,
+  "total_failed": 0,
+  "failed_urls": [],
+  "note": "Sample syllabus data for testing. Run download_syllabus.py to fetch more from web.",
+  "classes": {
+    "class_10": {
+      "class": 10,
+      "subjects": {
+        "science": {
+          "url": "https://byjus.com/cbse/cbse-class-10-science-syllabus/",
+          "md_file": "syllabus/class_10/class_10_science_syllabus.md",
+          "json_file": "syllabus/class_10/class_10_science_syllabus.json"
+        },
+        "maths": {
+          "url": "https://byjus.com/cbse/cbse-class-10-maths-syllabus/",
+          "md_file": "syllabus/class_10/class_10_maths_syllabus.md",
+          "json_file": "syllabus/class_10/class_10_maths_syllabus.json"
+        }
+      }
+    },
+    "class_12": {
+      "class": 12,
+      "subjects": {
+        "physics": {
+          "url": "https://byjus.com/cbse/cbse-class-12-physics-syllabus/",
+          "md_file": "syllabus/class_12/class_12_physics_syllabus.md",
+          "json_file": "syllabus/class_12/class_12_physics_syllabus.json"
+        }
+      }
+    }
+  }
+}
