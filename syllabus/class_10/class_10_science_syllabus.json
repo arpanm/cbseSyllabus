@@ -1,232 +1,107 @@
 {
-  "class": 10,
-  "subject": "Science",
-  "board": "CBSE",
-  "academic_year": "2024-25",
-  "total_marks": 80,
-  "internal_assessment": 20,
-  "time_duration": "3 hours",
+  "url": "https://byjus.com/cbse/cbse-class-10-science-syllabus/",
+  "title": "",
+  "description": "",
   "units": [
     {
-      "unit_number": 1,
-      "unit_name": "Chemical Substances - Nature and Behaviour",
-      "marks": 25,
-      "chapters": [
-        {
-          "chapter_number": 1,
-          "chapter_name": "Chemical Reactions and Equations",
-          "topics": [
-            "Chemical equation and balanced chemical equation",
-            "Types of chemical reactions: combination, decomposition, displacement, double displacement",
-            "Precipitation reactions",
-            "Exothermic and endothermic reactions",
-            "Oxidation and reduction"
-          ]
-        },
-        {
-          "chapter_number": 2,
-          "chapter_name": "Acids, Bases and Salts",
-          "topics": [
-            "Definitions in terms of H+ and OH- ions",
-            "General properties and uses",
-            "Neutralization reaction",
-            "pH scale and its importance",
-            "Preparation and uses of NaOH, bleaching powder, baking soda, washing soda, Plaster of Paris"
-          ]
-        },
-        {
-          "chapter_number": 3,
-          "chapter_name": "Metals and Non-metals",
-          "topics": [
-            "Properties of metals and non-metals",
-            "Reactivity series",
-            "Formation and properties of ionic compounds",
-            "Basic metallurgical processes",
-            "Corrosion and its prevention"
-          ]
-        },
-        {
-          "chapter_number": 4,
-          "chapter_name": "Carbon and its Compounds",
-          "topics": [
-            "Covalent bonding in carbon compounds",
-            "Versatile nature of carbon",
-            "Homologous series",
-            "Nomenclature with functional groups",
-            "Chemical properties of carbon compounds",
-            "Ethanol and Ethanoic acid",
-            "Soaps and detergents"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 2,
-      "unit_name": "World of Living",
-      "marks": 23,
-      "chapters": [
-        {
-          "chapter_number": 5,
-          "chapter_name": "Life Processes",
-          "topics": [
-            "Nutrition in plants and animals",
-            "Respiration - aerobic and anaerobic",
-            "Transportation in plants and animals",
-            "Excretion in plants and animals"
-          ]
-        },
-        {
-          "chapter_number": 6,
-          "chapter_name": "Control and Coordination",
-          "topics": [
-            "Tropic movements in plants",
-            "Plant hormones",
-            "Nervous system in animals",
-            "Voluntary, involuntary and reflex action",
-            "Animal hormones"
-          ]
-        },
-        {
-          "chapter_number": 7,
-          "chapter_name": "How do Organisms Reproduce?",
-          "topics": [
-            "Asexual reproduction methods",
-            "Sexual reproduction in plants and animals",
-            "Reproductive health",
-            "Family planning methods",
-            "HIV/AIDS awareness"
-          ]
-        },
-        {
-          "chapter_number": 8,
-          "chapter_name": "Heredity and Evolution",
-          "topics": [
-            "Mendel's contribution to genetics",
-            "Laws of inheritance",
-            "Sex determination",
-            "Basic concepts of evolution"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 3,
-      "unit_name": "Natural Phenomena",
-      "marks": 12,
-      "chapters": [
-        {
-          "chapter_number": 9,
-          "chapter_name": "Light - Reflection and Refraction",
-          "topics": [
-            "Reflection by curved surfaces",
-            "Images formed by spherical mirrors",
-            "Mirror formula and magnification",
-            "Laws of refraction",
-            "Refractive index",
-            "Lens formula and magnification",
-            "Power of a lens"
-          ]
-        },
-        {
-          "chapter_number": 10,
-          "chapter_name": "Human Eye and Colourful World",
-          "topics": [
-            "Functioning of human eye",
-            "Defects of vision - myopia, hypermetropia, presbyopia",
-            "Refraction through prism",
-            "Dispersion of light",
-            "Scattering of light"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 4,
-      "unit_name": "Effects of Current",
-      "marks": 13,
-      "chapters": [
-        {
-          "chapter_number": 11,
-          "chapter_name": "Electricity",
-          "topics": [
-            "Electric current and potential difference",
-            "Ohm's law",
-            "Resistance and resistivity",
-            "Series and parallel combination of resistors",
-            "Heating effect of electric current",
-            "Electric power"
-          ]
-        },
-        {
-          "chapter_number": 12,
-          "chapter_name": "Magnetic Effects of Electric Current",
-          "topics": [
-            "Magnetic field and field lines",
-            "Field due to current carrying conductor",
-            "Field due to solenoid",
-            "Force on current carrying conductor",
-            "Fleming's Left Hand Rule",
-            "AC vs DC",
-            "Domestic electric circuits"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 5,
-      "unit_name": "Natural Resources",
-      "marks": 7,
-      "chapters": [
-        {
-          "chapter_number": 13,
-          "chapter_name": "Our Environment",
-          "topics": [
-            "Ecosystem components",
-            "Food chains and food webs",
-            "Ozone depletion",
-            "Biodegradable and non-biodegradable waste"
-          ]
-        },
-        {
-          "chapter_number": 14,
-          "chapter_name": "Management of Natural Resources",
-          "topics": [
-            "Conservation of forests and wildlife",
-            "Conservation of coal and petroleum",
-            "Water harvesting",
-            "Sustainable development"
-          ]
-        }
+      "headers": [
+        "Units",
+        "Unit Names",
+        "Sections"
+      ],
+      "rows": [
+        [
+          "I",
+          "Chemical Substances – Nature and Behaviour",
+          "Chemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds"
+        ],
+        [
+          "II",
+          "World of Living",
+          "Life ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution"
+        ],
+        [
+          "III",
+          "Natural Phenomena",
+          "Reflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism"
+        ],
+        [
+          "IV",
+          "Effects of Current",
+          "Electric Current, Potential Difference and Electric CurrentMagnetic Effects of Current"
+        ],
+        [
+          "V",
+          "Natural Resources",
+          "Our Environment"
+        ]
       ]
     }
   ],
-  "practical_list": [
-    "Finding pH of various solutions",
-    "Properties of acids and bases",
-    "Types of chemical reactions",
-    "Reactivity series experiments",
-    "Ohm's law verification",
-    "Series and parallel resistance",
-    "Stomata preparation",
-    "Respiration experiment",
-    "Properties of acetic acid",
-    "Soap cleaning capacity",
-    "Focal length determination",
-    "Light refraction through glass slab",
-    "Light through prism",
-    "Convex lens image formation",
-    "Dicot seed embryo identification"
+  "chapters": [],
+  "topics": [
+    "Periodic Assessment – 5 marks + 5 marks",
+    "Subject Enrichment (Practical Work) – 05 marks",
+    "Portfolio – 05 marks",
+    "Litmus solution (Blue/Red)",
+    "Zinc metal",
+    "Solid sodium carbonate",
+    "ZnSO4(aq)",
+    "FeSO4(aq)",
+    "CuSO4(aq)",
+    "Al2(SO4)3(aq)"
   ],
-  "question_types": {
-    "very_short_answer": {"count": 20, "marks_each": 1},
-    "short_answer_1": {"count": 6, "marks_each": 2},
-    "short_answer_2": {"count": 7, "marks_each": 3},
-    "long_answer": {"count": 3, "marks_each": 5},
-    "diagram_based": {"count": 2, "marks_each": 6}
-  },
-  "difficulty_distribution": {
-    "easy": "20%",
-    "medium": "60%",
-    "hard": "20%"
-  }
+  "marking_scheme": [
+    {
+      "headers": [
+        "Units",
+        "Topics",
+        "Marks"
+      ],
+      "rows": [
+        [
+          "I",
+          "Chemical Substances – Nature and Behaviour",
+          "25"
+        ],
+        [
+          "II",
+          "World of Living",
+          "25"
+        ],
+        [
+          "III",
+          "Natural Phenomena",
+          "12"
+        ],
+        [
+          "IV",
+          "Effects of Current",
+          "13"
+        ],
+        [
+          "V",
+          "Natural Resources",
+          "05"
+        ],
+        [
+          "",
+          "Total",
+          "80"
+        ],
+        [
+          "",
+          "Internal Assessment",
+          "20"
+        ],
+        [
+          "",
+          "Grand Total",
+          "100"
+        ]
+      ]
+    }
+  ],
+  "raw_content": "CBSE Syllabus for Class 10 Sciencefor the academic year 2023-24 has been released by the CBSE Board. Class 10 is one of the most challenging years of a student’s life as they will be appearing for their first board exams. CBSE 10th Science syllabus for the academic year 2023-24 is compiled following the guidelines laid down by the Board. There are not many changes in the CBSE Class 10 Science syllabus for the academic year 2023-24 when compared with the 2022-23 syllabus. Therefore, download the direct link to the CBSE syllabus for Class 10 Science provided in this article. The annual exams will be conducted in accordance with the CBSE Science syllabus.\nStudents should go through the CBSE Class 10 Science Syllabus to learn about units, topics and marks allotted for each unit for better exam preparation. TheCBSE Syllabusalso includes details about practicals, assignments and projects so that students can understand the concept they are learning effectively. CBSE syllabus for Class 10 Science is designed in such a way that it helps students to plan their study plan according to the board exams. Students can download and follow CBSE Class 10 Science syllabus PDF to learn and prepare for the exams in a systematic way.\nCBSE Class 10 Science Syllabus 2023-24\nCBSE Syllabus for Class 10 Science is available for download in PDF for the 2023-24 academic year. The Board has released the Class 10 Science Syllabus and restored the original year-end exam. Students can access the CBSE Class 10 Science Syllabus for 2023- 24 by clicking on the PDF link below.\nCBSE Class 10 Science Syllabus 2023-24 PDF\nDownload PDF\nCBSE 10th Science Syllabus 2023-24\nBelow you will find the unit-wise Science syllabus for Class 10 students.\nUnitsUnit NamesSectionsIChemical Substances – Nature and BehaviourChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon CompoundsIIWorld of LivingLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and EvolutionIIINatural PhenomenaReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a PrismIVEffects of CurrentElectric Current, Potential Difference and Electric CurrentMagnetic Effects of CurrentVNatural ResourcesOur Environment\nUnitsUnit NamesSections\nUnits\nUnit Names\nSections\nIChemical Substances – Nature and BehaviourChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds\nChemical Substances – Nature and Behaviour\nChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds\nAcids, Bases and Salts\nMetals and Non-metals\nCarbon Compounds\nIIWorld of LivingLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution\nWorld of Living\nLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution\nControl and Co-ordination in Animals and Plants\nReproduction\nHeredity and Evolution\nIIINatural PhenomenaReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism\nIII\nNatural Phenomena\nReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism\nRefraction\nRefraction of Light by Spherical Lens\nRefraction of Light Through a Prism\nIVEffects of CurrentElectric Current, Potential Difference and Electric CurrentMagnetic Effects of Current\nEffects of Current\nElectric Current, Potential Difference and Electric CurrentMagnetic Effects of Current\nMagnetic Effects of Current\nVNatural ResourcesOur Environment\nNatural Resources\nOur Environment\nCBSE Class 10 Science Syllabus: Course Structure 2023-24 With Marking Scheme\nAs students can see in the table below that the Class 10 CBSE Science Syllabus is divided into 5 units, with units 1 and 2 carrying the higher weightage among all.\nUnitsTopicsMarksIChemical Substances – Nature and Behaviour25IIWorld of Living25IIINatural Phenomena12IVEffects of Current13VNatural Resources05Total80Internal Assessment20Grand Total100\nUnitsTopicsMarks\nUnits\nTopics\nMarks\nIChemical Substances – Nature and Behaviour25\nChemical Substances – Nature and Behaviour\nIIWorld of Living25\nWorld of Living\nIIINatural Phenomena12\nIII\nNatural Phenomena\nIVEffects of Current13\nEffects of Current\nVNatural Resources05\nNatural Resources\nTotal80\nTotal\nInternal Assessment20\nInternal Assessment\nGrand Total100\nGrand Total\n100\nStudents can also check the syllabus for all the subjects of Class 10 by clicking onCBSE Syllabus for Class 10page.\nCBSE Class 10 Science Syllabus: Question Paper Design (Theory)\nMaximum Marks:80 Marks\nThe CBSE 10th Science Syllabus covers the following assessment areas.\nCompetenciesTotalDemonstrate Knowledge and Understanding46%Application of Knowledge/Concepts22%Analyze, Evaluate and Create32%Total100%\nCompetenciesTotal\nCompetencies\nTotal\nDemonstrate Knowledge and Understanding46%\nDemonstrate Knowledge and Understanding\n46%\nApplication of Knowledge/Concepts22%\nApplication of Knowledge/Concepts\n22%\nAnalyze, Evaluate and Create32%\nAnalyze, Evaluate and Create\n32%\nTotal100%\nTotal\n100%\nInternal Assessment (20 Marks)\nThe internal assessment for the CBSE 10th Science Syllabus consists of 20 marks.\nPeriodic Assessment – 5 marks + 5 marks\nSubject Enrichment (Practical Work) – 05 marks\nPortfolio – 05 marks\nTo get all the study material related to class 10, visit theCBSE Class 10page.\nClass 10 CBSE Science Syllabus for Practicals\nAs internal assessment consists of a total of 20 marks so, students should not ignore the importance of practicals. Along with the theory CBSE Syllabus for Class 10 Science, they should also focus on practicals as well. This will help them score high marks and understand the theoretical concepts by practically performing the experiments. So, here we have provided the CBSE Class 10 Science Practical syllabus for students. They can also download theCBSE Class 10 Science Practicals.\nList of Unit-wise Class 10 Science Experiments\nThe experiment list provides an idea of new Science projects a list of experiments and activities. So, students must go through this Practical CBSE Syllabus for Class 10 Science.\nCBSE Class 10 Science Practical Syllabus\nUnit I\n1. A. Finding the pH of the following samples by using pH paper/universal indicator(i) Dilute Hydrochloric Acid(ii) Dilute NaOH solution(iii) Dilute Ethanoic Acid solution(iv) Lemon juice(v) Water(vi) Dilute Hydrogen Carbonate solution\nB. Studying the properties of acids and bases (HCl & NaOH) on the basis of their reaction with:\nLitmus solution (Blue/Red)\nZinc metal\nSolid sodium carbonate\n2. Performing and observing the following reactions and classifying them into:\nA. Combination reactionB. Decomposition reactionC. Displacement reactionD. Double displacement reaction\ni) Action of water on quicklimeii) Action of heat on ferrous sulphate crystalsiii) Iron nails kept in copper sulphate solutioniv) Reaction between sodium sulphate and barium chloride solutions\n3. A. Observing the action of Zn, Fe, Cu and Al metals on the following salt solutions:\nZnSO4(aq)\nFeSO4(aq)\nCuSO4(aq)\nAl2(SO4)3(aq)\nB. Arranging Zn, Fe, Cu and Al (metals) in the decreasing order of reactivity based on the above result.\n4. Study of the following properties of acetic acid (ethanoic acid)\ni) Odourii) solubility in wateriii) effect on litmusiv) reaction with Sodium Hydrogen Carbonate\n5. Study of the comparative cleaning capacity of a sample of soap in soft and hard water.\nUnit II\n1. Preparing a temporary mount of a leaf peel to show stomata.\n2. Experimentally show that carbon dioxide is given out during respiration.\n3. Studying (a) binary fission in Amoeba and (b) budding in yeast and Hydra with the help of prepared slides.\n4. Identification of the different parts of an embryo of a dicot seed (Peas, gram or red kidney bean).\nUnit III\n1.  Determination of the focal length of:i) Concave mirrorii) Convex lensby obtaining the image of a distant object.\n2. Tracing the path of a ray of light passing through a rectangular glass slab for different angles of incidence. Measure the angle of incidence, angle of refraction, and angle of emergence and interpret the result.\n3. Tracing the path of the rays of light through a glass prism.\nUnit IV\n1. Studying the dependence of potential difference (V) across a resistor on the current (I) passing through it and determining its resistance. Also, plotting a graph between V and I.\n2. Determination of the equivalent resistance of two resistors when connected in series and parallel.\nFrequently Asked Questions on CBSE Syllabus for Class 10 Science 2023-24Q1How many units are there in the CBSE Class 10 Science Syllabus?There are 5 units in the CBSE Class 10 Science Syllabus, such as World of Living, Chemical Substances – Nature and Behaviour, Natural Phenomena, Natural Resources and Effects of Current.Q2What are the total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus?The total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus is 100, out of which 20 is for internals and 80 is for theory and practicals.Q3How many experiments are there in the CBSE Science Syllabus of Class 10?There are 14 experiments in the CBSE Science Syllabus of Class 10 that must be focused on by the students in order to score maximum marks in the exam.\nFrequently Asked Questions on CBSE Syllabus for Class 10 Science 2023-24\nHow many units are there in the CBSE Class 10 Science Syllabus?\nWhat are the total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus?\nHow many experiments are there in the CBSE Science Syllabus of Class 10?",
+  "extracted_at": "2026-01-28T16:14:27.097551"
 }

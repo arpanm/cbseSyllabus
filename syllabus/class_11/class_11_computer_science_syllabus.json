@@ -1,0 +1,124 @@
+{
+  "url": "https://byjus.com/cbse/cbse-class-11-computer-science-syllabus/",
+  "title": "",
+  "description": "",
+  "units": [
+    {
+      "headers": [
+        "Unit",
+        "Unit Name",
+        "Section"
+      ],
+      "rows": [
+        [
+          "I",
+          "Computer Systems and Organisation",
+          "Basic Computer OrganisationTypes of SoftwareOperating SystemBoolean LogicNumber SystemEncoding Schemes"
+        ],
+        [
+          "II",
+          "Computational Thinking andProgramming -1",
+          "Introduction to Problem-SolvingFamiliarization with the Basics of Python ProgrammingKnowledge of Data TypesOperatorsExpressions, Statement, Type Conversion, and Input/outputErrorsFlow of ControlConditional StatementsIterative StatementStringsListsTuplesDictionaryIntroduction to Python Modules"
+        ],
+        [
+          "III",
+          "Society, Law, and Ethics",
+          "Digital FootprintsDigital Society and NetizenData ProtectionCyber CrimeCyber SafetyMalwareE-waste managementInformation Technology Act (IT Act)Technology and Society"
+        ]
+      ]
+    }
+  ],
+  "chapters": [],
+  "topics": [
+    "Input a welcome message and display it.",
+    "Input two numbers and display the larger / smaller number.",
+    "Input three numbers and display the largest / smallest number.",
+    "Generate the following patterns using nested loop",
+    "Write a program to input the value of x and n and print the sum of the following series:",
+    "Determine whether a number is a perfect number, an armstrong number or a palindrome.",
+    "Input a number and check if the number is a prime or composite number.",
+    "Display the terms of a Fibonacci series.",
+    "Compute the greatest common divisor and least common multiple of two integers.",
+    "Count and display the number of vowels, consonants, uppercase, lowercase characters in string.",
+    "Input a string and determine whether it is a palindrome or not; convert the case of characters in a string.",
+    "Find the largest/smallest number in a list/tuple",
+    "Input a list of numbers and swap elements at the even location with the elements at the odd location.",
+    "Input a list/tuple of elements, search for a given element in the list/tuple.",
+    "Input a list of numbers and find the smallest and largest number from the list.",
+    "Create a dictionary with the roll number, name and marks of n students in a class and display the names of students who have scored marks above 75."
+  ],
+  "marking_scheme": [
+    {
+      "headers": [
+        "Unit No.",
+        "Unit Name",
+        "Marks",
+        "Periods"
+      ],
+      "rows": [
+        [
+          "Theory",
+          "Practical"
+        ],
+        [
+          "1.",
+          "Computer Systems and Organisation",
+          "10",
+          "10",
+          "10"
+        ],
+        [
+          "2.",
+          "Computational Thinking and Programming – 1",
+          "45",
+          "80",
+          "60"
+        ],
+        [
+          "3.",
+          "Society, Law and Ethics",
+          "15",
+          "20",
+          "—"
+        ],
+        [
+          "",
+          "Total",
+          "70",
+          "110",
+          "70"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S. No.",
+        "Unit Name",
+        "Marks (Total=30)"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Python program (60% logic + 20% documentation + 20% code quality)",
+          "12"
+        ],
+        [
+          "2.",
+          "Report file: Minimum 20 Python programs",
+          "7"
+        ],
+        [
+          "Viva voce",
+          "3"
+        ],
+        [
+          "3.",
+          "Project (that uses most of the concepts that have been learnt)",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "raw_content": "CBSE Class 11 Computer Science Syllabusis of utmost importance in the educational field. Class 11 Computer Science syllabus covers topics such as computer systems and organization, data management, etc., which gives a basic understanding of the terms related to Computer Science. CBSE Syllabus for Class 11 Computer Science for the academic year 2023-24 is provided on this page. The syllabus is provided by the board. TheCBSE Syllabuscovers the marks distribution and time duration for each topic. It also includes a practical syllabus, assignments, and projects that need to be done in that particular academic year.\nCBSE Class 11 Computer Science Syllabus 2023-24\nThe CBSE Syllabus for Class 11 Computer Science 2023-24 is released by the board. Students can download the syllabus PDF and go through it to plan their studies.\nCBSE Class 11 Computer Science Syllabus PDF 2023-24\nDownload PDF\nGiven below is theCBSE Class 11Computer Science theory as well as the practical syllabus for the academic year 2023-24.\n2023-24 CBSE Class 11 Computer Science Syllabus\nBelow you will find the CBSE Class 11 Computer Science Syllabus with unit name, marks allotment and the number of periods allotted for theory and practical.\nUnit No.Unit NameMarksPeriodsTheoryPractical1.Computer Systems and Organisation1010102.Computational Thinking and Programming – 14580603.Society, Law and Ethics1520—Total7011070\nUnit No.Unit NameMarksPeriods\nUnit No.\nUnit Name\nMarks\nPeriods\nTheoryPractical\nTheory\nPractical\n1.Computer Systems and Organisation101010\nComputer Systems and Organisation\n2.Computational Thinking and Programming – 1458060\nComputational Thinking and Programming – 1\n3.Society, Law and Ethics1520—\nSociety, Law and Ethics\nTotal7011070\nTotal\n110\nTo know the syllabus of all the subjects of class 11, visitCBSE Class 11 Syllabuspage at BYJU’S.\nUnit-wise CBSE Class 11 Computer Science Syllabus\nBelow you will find topics under each unit of the Computer Science Syllabus.\nUnitUnit NameSectionIComputer Systems and OrganisationBasic Computer OrganisationTypes of SoftwareOperating SystemBoolean LogicNumber SystemEncoding SchemesIIComputational Thinking andProgramming -1Introduction to Problem-SolvingFamiliarization with the Basics of Python ProgrammingKnowledge of Data TypesOperatorsExpressions, Statement, Type Conversion, and Input/outputErrorsFlow of ControlConditional StatementsIterative StatementStringsListsTuplesDictionaryIntroduction to Python ModulesIIISociety, Law, and EthicsDigital FootprintsDigital Society and NetizenData ProtectionCyber CrimeCyber SafetyMalwareE-waste managementInformation Technology Act (IT Act)Technology and Society\nUnitUnit NameSection\nUnit\nUnit Name\nSection\nIComputer Systems and OrganisationBasic Computer OrganisationTypes of SoftwareOperating SystemBoolean LogicNumber SystemEncoding Schemes\nComputer Systems and Organisation\nBasic Computer OrganisationTypes of SoftwareOperating SystemBoolean LogicNumber SystemEncoding Schemes\nTypes of Software\nOperating System\nBoolean Logic\nNumber System\nEncoding Schemes\nIIComputational Thinking andProgramming -1Introduction to Problem-SolvingFamiliarization with the Basics of Python ProgrammingKnowledge of Data TypesOperatorsExpressions, Statement, Type Conversion, and Input/outputErrorsFlow of ControlConditional StatementsIterative StatementStringsListsTuplesDictionaryIntroduction to Python Modules\nComputational Thinking andProgramming -1\nIntroduction to Problem-SolvingFamiliarization with the Basics of Python ProgrammingKnowledge of Data TypesOperatorsExpressions, Statement, Type Conversion, and Input/outputErrorsFlow of ControlConditional StatementsIterative StatementStringsListsTuplesDictionaryIntroduction to Python Modules\nFamiliarization with the Basics of Python Programming\nKnowledge of Data Types\nOperators\nExpressions, Statement, Type Conversion, and Input/output\nErrors\nFlow of Control\nConditional Statements\nIterative Statement\nStrings\nLists\nTuples\nDictionary\nIntroduction to Python Modules\nIIISociety, Law, and EthicsDigital FootprintsDigital Society and NetizenData ProtectionCyber CrimeCyber SafetyMalwareE-waste managementInformation Technology Act (IT Act)Technology and Society\nIII\nSociety, Law, and Ethics\nDigital FootprintsDigital Society and NetizenData ProtectionCyber CrimeCyber SafetyMalwareE-waste managementInformation Technology Act (IT Act)Technology and Society\nDigital Society and Netizen\nData Protection\nCyber Crime\nCyber Safety\nMalware\nE-waste management\nInformation Technology Act (IT Act)\nTechnology and Society\nPractical Syllabus for Computer Science Along with Marking Scheme\nS. No.Unit NameMarks (Total=30)1.Python program (60% logic + 20% documentation + 20% code quality)122.Report file: Minimum 20 Python programs7Viva voce33.Project (that uses most of the concepts that have been learnt)8\nS. No.Unit NameMarks (Total=30)\nS. No.\nUnit Name\nMarks (Total=30)\n1.Python program (60% logic + 20% documentation + 20% code quality)12\nPython program (60% logic + 20% documentation + 20% code quality)\n2.Report file: Minimum 20 Python programs7\nReport file: Minimum 20 Python programs\nViva voce3\nViva voce\n3.Project (that uses most of the concepts that have been learnt)8\nProject (that uses most of the concepts that have been learnt)\nSuggested Practical List of CBSE Class 11 Computer Science Syllabus\nPython Programming\nInput a welcome message and display it.\nInput two numbers and display the larger / smaller number.\nInput three numbers and display the largest / smallest number.\nGenerate the following patterns using nested loop\nWrite a program to input the value of x and n and print the sum of the following series:\nDetermine whether a number is a perfect number, an armstrong number or a palindrome.\nInput a number and check if the number is a prime or composite number.\nDisplay the terms of a Fibonacci series.\nCompute the greatest common divisor and least common multiple of two integers.\nCount and display the number of vowels, consonants, uppercase, lowercase characters in string.\nInput a string and determine whether it is a palindrome or not; convert the case of characters in a string.\nFind the largest/smallest number in a list/tuple\nInput a list of numbers and swap elements at the even location with the elements at the odd location.\nInput a list/tuple of elements, search for a given element in the list/tuple.\nInput a list of numbers and find the smallest and largest number from the list.\nCreate a dictionary with the roll number, name and marks of n students in a class and display the names of students who have scored marks above 75.\nLearn Maths & Science in interactive & a fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Class 11 Computer Science Syllabus 2023-24Q1How many units are present in the CBSE Class 11 Computer Science Syllabus 2023-24?There are 3 units present in the CBSE Class 11 Computer Science Syllabus 2023-24. Students can learn the units effortlessly with the help of various study materials given at BYJU’S.Q2Which unit carries more marks in the CBSE Class 11 Computer Science Syllabus?Unit II computational thinking and programming – 1 carries 45 marks in the CBSE Class 11 Computer Science Syllabus.Q3How many marks are allotted for practicals in the CBSE Class 11 Computer Science Syllabus?The practical in CBSE Class 11 Computer Science Syllabus is for 30 marks. Students can go through the experiments in order to score full marks.\nFrequently Asked Questions on CBSE Class 11 Computer Science Syllabus 2023-24\nHow many units are present in the CBSE Class 11 Computer Science Syllabus 2023-24?\nWhich unit carries more marks in the CBSE Class 11 Computer Science Syllabus?\nHow many marks are allotted for practicals in the CBSE Class 11 Computer Science Syllabus?",
+  "extracted_at": "2026-01-28T16:14:56.114500"
+}
