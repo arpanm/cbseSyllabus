@@ -50,9 +50,9 @@ HEADERS = {
 # Class-wise main syllabus pages
 CLASS_SYLLABUS_URLS = {
     1: "/cbse-class-1-syllabus/",
-    2: "/cbse/cbse-class-2-syllabus/",
+    2: "/cbse-class-2-syllabus/",  # Fixed: root level URL
     3: "/cbse/cbse-syllabus-for-class-3/",
-    4: "/cbse/cbse-syllabus-class-4/",  # Fixed URL pattern
+    4: "/cbse/cbse-syllabus-class-4/",
     5: "/cbse/cbse-class-5th-syllabus/",
     6: "/cbse/cbse-class-6-syllabus/",
     7: "/cbse/cbse-class-7-syllabus/",
@@ -83,70 +83,71 @@ SUBJECT_SYLLABUS_URLS = {
     (3, "evs"): "/cbse/class-3-science-syllabus/",  # Uses science URL for EVS
 
     # Class 4 - URLs with /cbse/ prefix for maths
-    (4, "maths"): "/cbse/class-4-maths-syllabus/",  # Fixed URL
+    (4, "maths"): "/cbse/class-4-maths-syllabus/",
     (4, "english"): "/cbse-class-4-english-syllabus/",
     (4, "hindi"): "/cbse-class-4-hindi-syllabus/",
     (4, "evs"): "/cbse/class-4-evs-syllabus/",
 
-    # Class 5 - URLs with /cbse/ prefix for maths
-    (5, "maths"): "/cbse/class-5-maths-syllabus/",  # Fixed URL
+    # Class 5 - URLs with /cbse/ prefix for maths and evs
+    (5, "maths"): "/cbse/class-5-maths-syllabus/",
     (5, "english"): "/cbse-class-5-english-syllabus/",
     (5, "hindi"): "/cbse-class-5-hindi-syllabus/",
-    (5, "evs"): "/cbse/class-5-evs-syllabus/",
+    (5, "evs"): "/cbse/class-5-science-syllabus/",  # Fixed: uses science URL
 
-    # Class 6 - Use /cbse/class-X-subject-syllabus/ pattern (no Hindi/Sanskrit on byjus)
+    # Class 6 - Mixed URL patterns
     (6, "maths"): "/cbse/class-6-maths-syllabus/",
-    (6, "english"): "/cbse/class-6-english-syllabus/",
-    (6, "science"): "/cbse/class-6-science-syllabus/",
-    (6, "social-science"): "/cbse/class-6-social-science-syllabus/",
+    (6, "english"): "/cbse-class-6-english-syllabus/",  # Fixed: root level URL
+    (6, "hindi"): "/cbse-class-6-hindi-syllabus/",  # Added back: exists at root level
+    (6, "science"): "/cbse/cbse-class-6-science-syllabus/",  # Fixed: with cbse- prefix
+    (6, "social-science"): "/cbse-class-6-social-science-syllabus/",  # Fixed: root level URL
 
-    # Class 7 - Use /cbse/class-X-subject-syllabus/ pattern (no Hindi/Sanskrit on byjus)
+    # Class 7 - Mixed URL patterns
     (7, "maths"): "/cbse/class-7-maths-syllabus/",
-    (7, "english"): "/cbse/class-7-english-syllabus/",
-    (7, "science"): "/cbse/class-7-science-syllabus/",
-    (7, "social-science"): "/cbse/class-7-social-science-syllabus/",
+    (7, "english"): "/cbse-class-7-english-syllabus/",  # Fixed: root level URL
+    (7, "science"): "/cbse/cbse-class-7-science-syllabus/",  # Fixed: with cbse- prefix
+    (7, "social-science"): "/cbse-class-7-social-science-syllabus/",  # Fixed: root level URL
 
-    # Class 8 - Use /cbse/class-X-subject-syllabus/ pattern (no Hindi/Sanskrit on byjus)
+    # Class 8 - Mixed URL patterns
     (8, "maths"): "/cbse/class-8-maths-syllabus/",
-    (8, "english"): "/cbse/class-8-english-syllabus/",
-    (8, "science"): "/cbse/class-8-science-syllabus/",
+    (8, "english"): "/cbse-class-8-english-syllabus/",  # Fixed: root level URL
+    (8, "science"): "/cbse/cbse-class-8-science-syllabus/",  # Fixed: with cbse- prefix
     (8, "social-science"): "/cbse-class-8-social-science-syllabus/",
 
-    # Class 9 - Use /cbse/class-X-subject-syllabus/ pattern (no Hindi/Sanskrit on byjus)
+    # Class 9 - Mixed URL patterns
     (9, "maths"): "/cbse/class-9-maths-syllabus/",
-    (9, "english"): "/cbse/class-9-english-syllabus/",
-    (9, "science"): "/cbse/class-9-science-syllabus/",
+    (9, "english"): "/cbse-class-9-english-syllabus/",  # Fixed: root level URL
+    (9, "science"): "/cbse/cbse-class-9-science-syllabus/",  # Fixed: with cbse- prefix
     (9, "social-science"): "/cbse/class-9-social-science-syllabus/",
 
-    # Class 10 - Use /cbse/class-X-subject-syllabus/ pattern (no Hindi/Sanskrit on byjus)
+    # Class 10 - Mixed URL patterns with different naming conventions
     (10, "maths"): "/cbse/class-10-maths-syllabus/",
-    (10, "english"): "/cbse/class-10-english-syllabus/",
-    (10, "science"): "/cbse/class-10-science-syllabus/",
-    (10, "social-science"): "/cbse/class-10-social-science-syllabus/",
+    (10, "english"): "/cbse/english-language-literature-class-10-syllabus/",  # Fixed: different pattern
+    (10, "science"): "/cbse/cbse-class-10-science-syllabus/",  # Fixed: with cbse- prefix
+    (10, "social-science"): "/cbse/social-science-class-10-syllabus/",  # Fixed: different pattern
 
-    # Class 11 - Mixed URL patterns (no Hindi on byjus)
+    # Class 11 - Mixed URL patterns
     (11, "maths"): "/cbse/class-11-maths-syllabus/",
     (11, "physics"): "/cbse/class-11-physics-syllabus/",
     (11, "chemistry"): "/cbse/class-11-chemistry-syllabus/",
     (11, "biology"): "/cbse/class-11-biology-syllabus/",
-    (11, "english"): "/cbse-class-11-english-syllabus/",  # Fixed: root level URL
+    (11, "english"): "/cbse-class-11-english-syllabus/",  # Root level URL
     (11, "accountancy"): "/cbse/class-11-accountancy-syllabus/",
     (11, "economics"): "/cbse/class-11-economics-syllabus/",
     (11, "business-studies"): "/cbse/class-11-business-studies-syllabus/",
-    (11, "computer-science"): "/cbse-class-11-computer-science-syllabus/",  # Fixed: root level URL
-    (11, "physical-education"): "/cbse-class-11-physical-education-syllabus/",  # Fixed: root level URL
+    (11, "computer-science"): "/cbse-class-11-computer-science-syllabus/",  # Root level URL
+    (11, "physical-education"): "/cbse-class-11-physical-education-syllabus/",  # Root level URL
 
-    # Class 12 - Mixed URL patterns (no Hindi/History/Geography/Political Science on byjus)
+    # Class 12 - Mixed URL patterns
     (12, "maths"): "/cbse/class-12-maths-syllabus/",
     (12, "physics"): "/cbse/class-12-physics-syllabus/",
     (12, "chemistry"): "/cbse/class-12-chemistry-syllabus/",
     (12, "biology"): "/cbse/class-12-biology-syllabus/",
-    (12, "english"): "/cbse-class-12-english-syllabus/",  # Fixed: root level URL
+    (12, "english"): "/cbse-class-12-english-syllabus/",  # Root level URL
     (12, "accountancy"): "/cbse/class-12-accountancy-syllabus/",
     (12, "economics"): "/cbse/class-12-economics-syllabus/",
     (12, "business-studies"): "/cbse/class-12-business-studies-syllabus/",
-    (12, "computer-science"): "/cbse-class-12-computer-science-syllabus/",  # Fixed: root level URL
-    (12, "physical-education"): "/cbse-class-12-physical-education-syllabus/",  # Fixed: root level URL
+    (12, "computer-science"): "/cbse-class-12-computer-science-syllabus/",  # Root level URL
+    (12, "physical-education"): "/cbse-class-12-physical-education-syllabus/",  # Root level URL
 }
 
 
