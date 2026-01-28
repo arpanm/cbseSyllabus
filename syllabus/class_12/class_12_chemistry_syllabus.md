@@ -5,7 +5,7 @@
 - **Class**: 12
 - **Subject**: Chemistry
 - **Source**: https://byjus.com/cbse/class-12-chemistry-syllabus/
-- **Extracted At**: 2026-01-28T17:53:52.260021
+- **Extracted At**: 2026-01-28T18:30:49.080989
 
 ## Marking Scheme
 

@@ -5,7 +5,7 @@
 - **Class**: 8
 - **Subject**: Social Science
 - **Source**: https://byjus.com/cbse-class-8-social-science-syllabus/
-- **Extracted At**: 2026-01-28T17:52:42.882925
+- **Extracted At**: 2026-01-28T18:30:03.992047
 
 ## Syllabus Structure
 

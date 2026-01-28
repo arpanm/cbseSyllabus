@@ -4,8 +4,8 @@
 
 - **Class**: 11
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-11-english-syllabus/
-- **Extracted At**: 2026-01-28T16:14:44.137682
+- **Source**: https://byjus.com/cbse-class-11-english-syllabus/
+- **Extracted At**: 2026-01-28T18:30:33.492520
 
 ## Topics
 

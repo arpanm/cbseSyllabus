@@ -5,7 +5,7 @@
 - **Class**: 10
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-10-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:53:06.567679
+- **Extracted At**: 2026-01-28T18:30:14.018123
 
 ## Marking Scheme
 

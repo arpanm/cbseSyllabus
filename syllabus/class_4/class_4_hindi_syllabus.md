@@ -5,7 +5,7 @@
 - **Class**: 4
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-4-hindi-syllabus/
-- **Extracted At**: 2026-01-28T17:51:47.580467
+- **Extracted At**: 2026-01-28T18:29:25.962879
 
 ## Detailed Content
 

@@ -4,135 +4,172 @@
 
 - **Class**: 10
 - **Subject**: Social Science
-- **Source**: https://byjus.com/cbse/class-10-social-science-syllabus/
-- **Extracted At**: 2026-01-28T17:53:19.034583
+- **Source**: https://byjus.com/cbse/social-science-class-10-syllabus/
+- **Extracted At**: 2026-01-28T18:30:22.290081
 
 ## Marking Scheme
 
-| Sl No | Unit | Marks | Periods |
-| --- | --- | --- | --- |
-| 1 | India: Resources | 10 | 20 |
-| 2 | Industry | 05 | 07 |
-| 3 | Transport,Communication & Foreign Trade | 05 | 06 |
-| 4 | Disaster Management | 05 | 05 |
-| 5 | Map-Reading and Marking | 05 | 05 |
-| 6 | First Struggle for Freedom and after | 10 | 15 |
-| 7 | Events related to the Independence Revolution | 10 | 15 |
-| 8 | Major Events of the Post-Independence period | 10 | 15 |
-| 9 | Indian Constitution | 06 | 12 |
-| 10 | Working of Indian Democracy | 07 | 12 |
-| 11 | Major Challenges before Democracy | 07 | 12 |
-| 12 | Story of Development | 05 | 10 |
-| 13 | Services Sector | 05 | 08 |
-| 14 | Consumer Awareness | 05 | 08 |
-| 15 | Economic Systems and Globalisation | 05 | 10 |
-|  | Revisions |  | 20 |
-|  | Total | 100 | 180 |
+| Max. Marks: 80 |
+| --- |
+| No. | Units | No. of Periods | Marks |
+| I | India and the Contemporary World – II | 60 | 20 |
+| II | Contemporary India – II | 55 | 20 |
+| III | Democratic Politics – II | 50 | 20 |
+| IV | Understanding Economic Development | 50 | 20 |
+| Total | 215 | 80 |
+
+| Type of Assessment | Description | Marks Allotted |
+| --- | --- | --- |
+| Periodic Assessment | Pen Paper Test. | 5 |
+| Multiple Assessment | Quiz, debate, role play, viva, group discussion, visual expression, interactive bulletin boards, gallery walks, exit cards, concept maps, peer assessment, Self-assessment etc., through interdisciplinary project | 5 |
+| Subject Enrichment Activity | Project Work on Consumer RightsORSocial IssuesORSustainable Development | 5 |
+| Portfolio | Classwork, Work done (activities/assignments), reflections, narrations, journals, etc. Achievements of the student in the subject throughout the year Participation of the student in different activities like the Heritage India quiz. | 5 |
+
+| S. No. | Aspects | Marks |
+| --- | --- | --- |
+| a. | Content accuracy, originality and analysis | 2 |
+| b. | Presentation and creativity | 2 |
+| c. | Viva Voce | 1 |
 
 ## Syllabus Structure
 
-| Sl No | Chapter Name | Topics |
-| --- | --- | --- |
-| 1 | Indian Resources | Types of Resources : Natural resources- Soil, Formation, types and distribution, soil conservation.Forest and WildLife – Forest types, Utility, Wild animals and their conservation Endangered animals.Agriculture – Main crops, Contribution of Agriculture to National Economy, Herbal Farms & their utility.Water Resource – Types, Sources, Distribution, Use, Protection & Conservation.Mineral Resource – Types, Distribution, Use, Conservation and Economic importance.Power Resource – Types : Conventional & Non-Conventional, Distribution, Utilisation & Conservation. |
-| 2 | Industry | Types, Description of Special Industries, Contribution of Industries to National Economy. Industrial Pollution, and the efforts for Solution. |
-| 3 | Transport, Communication and Foreign Trade | Transport-Utility and types – Railways, Roadways, Airways, Waterways, Pipelines, Ports & Harbours.Communication, Importance of Communication in modern days, Means of Communication.Contribution of foreign Trade to Indian Economy, Imports and Exports. |
-| 4 | Disaster Management | Natural Calamities – Drought, Flood, Earthquake, Landslides, Tsunami. Man Made Calamities – Nuclear, Biotic and Chemical, Bomb Blast. General Calamities – Precautions and Security. |
-| 5 | Maps:-Reading and Marking |  |
-| 6 | First struggle for Freedom and after | First struggle for Freedom of 1857. Introduction to important revolutionaries, birth of Indian National Congress, Moderates and Extremes. |
-| 7 | Events related to Independence Revolution | Important events of the Indian struggle for Independence, Revolution of Bange Bhang Partion of India in 1947 and its silent features, Contribution of Madhya Pradesh to the Freedom Struggle. |
-| 8 | Major events of the Post-Independence period | Kashmir Problem, India’s relation with neighbouring countries, Chinese war with India in 1962, India-pakistan war of 1965 and 1971, birth of Bangladesh, emergency in India, Rise of India as an atomic power. |
-| 9 | Indian Constitution | Organisation of Constitution Draft Committee, Salient Features of Indian Constitution. |
-| 10 | Working of Indian Democracy | Federal System, Division of Administrative Power between Centre and States, Organs of Government : Legeslature, Executive and Judiciary, Local Administration. |
-| 11 | Major Challenges before Democracy | Increase in Population, Unemployment, Communalism, Terrorists, drugaddication;Major hindrance in success of Democracy and measures for removal. |
-| 12 | Story of Economic Development | Ancient and modren concept of economic development. National Income & Per Capita Income, Indicators of human developement, developing States with examples, Economic Planning in India, physical and non pysical with examples.Money and Financial system : An Introduction to money in ancient time, Financial Institutions such as money lenders, zamindars, self helps groups, chit funds, private financial institutions and different types of banks. |
-| 13 | Service Sector | Service Sector – Meaning and Importance as a Component in Income. Infrastructure – Economic and Social Contribution of India’s Service sector in the World. |
-| 14 | Consumer Awareness | Consumer Awareness – Need and Importance, Consumer Exploitation, Causes and Remedies. Standardisation of Commodities, Government Role. |
-| 15 | Economic System and Globalisation | Economic System – Meaning, Capitalism, Socialism and Mixed Economy- Characteristics, Merits and Demerits.Globalisation – Meaning, Needs, Development Earlier to 1991 and Modern Reforms, Impact of Globalisation. |
+| Unit Name | Chapter Name |
+| --- | --- |
+| History (India and the Contemporary World – II) | The Rise of Nationalism in EuropeNationalism In IndiaThe Making of a Global WorldThe Age of IndustrializationPrint Culture and the Modern World |
+| Geography (Contemporary India – II) | Resources and DevelopmentForest and Wildlife ResourcesWater ResourcesAgricultureMinerals and Energy ResourcesManufacturing IndustriesLifelines of National Economy |
+| Political Science (Democratic Politics – II) | Power – sharingFederalismGender, Religion and CastePolitical PartiesOutcomes of Democracy |
+| Understanding Economic Development | DevelopmentSectors of the Indian EconomyMoney and CreditGlobalisation and The Indian EconomyConsumer Rights (Project Work) |
+
+## Topics
+
+- CBSE Class 10 Social Science Syllabus 2023-24 PDF
+- Consumer AwarenessOR
+- Social IssuesOR
+- Sustainable Development
+- objectives realized through individual work and group interactions
+- calendar of activities
+- innovative ideas generated in the process
+- list of questions asked in viva voce
 
 ## Detailed Content
 
 ```
-MP Board Class 10 Social Science syllabus is a document that outlines everything that will be covered in a class. By going through the curriculum, students will get a sense of what they will learn from the course. The MP Board 1oth Social Science course syllabus works as a roadmap with directions for succeeding in the class.
-It is always advisable to carefully read the MP 10th Social Science syllabus at the beginning of the semester and take note of the assignments, projects, etc. TheMP Board Class 10 syllabusof Social Science gives students an idea about the topics they need to study for that particular academic year. Students should check their syllabus of Class 10 Social Science subject before each class to gain an idea of the day’s topic.
-Students ofMP Board Class 10can download PDF of Social Science syllabus by clicking the below-mentioned link.
-Download MP Board Class 10 Social Science Revised Syllabus 2021-2022 PDF
-Find details of the revised syllabus for the current academic year from this screenshot below:
-Please find also details of deleted portion from the previous academic year for reference
-Download MP Board Class 10 Social Science Syllabus Deleted Portion 2020-21 PDF
-I India and the Contemporary World – IIII Contemporary India – IIIII Democratic Politics – IIIV Understanding Economic Development
-Unit Wise Marks Distribution 2021-22
-Sl NoUnitMarksPeriods1India: Resources10202Industry05073Transport,Communication & Foreign Trade05064Disaster Management05055Map-Reading and Marking05056First Struggle for Freedom and after10157Events related to the Independence Revolution10158Major Events of the Post-Independence period10159Indian Constitution061210Working of Indian Democracy071211Major Challenges before Democracy071212Story of Development051013Services Sector050814Consumer Awareness050815Economic Systems and Globalisation0510Revisions20Total100180
-Sl NoUnitMarksPeriods
-Sl No
-Unit
+CBSE Class 10 Syllabus of Social Sciencecovers all the important topics and sub-topics related to the subject. The Social Science subject covers the scientific study of human society and social relationships. TheCBSE Class 10 Syllabusis framed as per the guidelines of the CBSE board. It provides detailed information about the course structure, distribution of marks, time duration, projects, assignments and textbooks. While preparing for their final board exam the students should refer to CBSE Class 10 Social Science Syllabus. Studying as per the prescribed syllabus will keep students’ studies on track and help them score good marks in the exam.
+CBSE Class 10 Social Science Syllabus 2023-24
+CBSE Syllabus for Class 10 Social Science is available for download in PDF for the 2023-24 academic year. Students can access the CBSE Class 10 Social Science Syllabus for 2023- 24 by clicking on the PDF link below.
+CBSE Class 10 Social Science Syllabus 2023-24 PDF
+CBSE Class 10 Social Science Course Structure 2023-24 with Unit-Wise Marks Distribution
+Max. Marks: 80No.UnitsNo. of PeriodsMarksIIndia and the Contemporary World – II6020IIContemporary India – II5520IIIDemocratic Politics – II5020IVUnderstanding Economic Development5020Total21580
+Max. Marks: 80
+Max. Marks: 80
+No.UnitsNo. of PeriodsMarks
+No.
+Units
+No. of Periods
 Marks
-Periods
-1India: Resources1020
-India: Resources
-2Industry0507
-Industry
-3Transport,Communication & Foreign Trade0506
-Transport,Communication & Foreign Trade
-4Disaster Management0505
-Disaster Management
-5Map-Reading and Marking0505
-Map-Reading and Marking
-6First Struggle for Freedom and after1015
-First Struggle for Freedom and after
-7Events related to the Independence Revolution1015
-Events related to the Independence Revolution
-8Major Events of the Post-Independence period1015
-Major Events of the Post-Independence period
-9Indian Constitution0612
-Indian Constitution
-10Working of Indian Democracy0712
-Working of Indian Democracy
-11Major Challenges before Democracy0712
-Major Challenges before Democracy
-12Story of Development0510
-Story of Development
-13Services Sector0508
-Services Sector
-14Consumer Awareness0508
-Consumer Awareness
-15Economic Systems and Globalisation0510
-Economic Systems and Globalisation
-Revisions20
-Revisions
-Total100180
+IIndia and the Contemporary World – II6020
+India and the Contemporary World – II
+IIContemporary India – II5520
+Contemporary India – II
+IIIDemocratic Politics – II5020
+III
+Democratic Politics – II
+IVUnderstanding Economic Development5020
+Understanding Economic Development
+Total21580
 Total
-100
-180
-MP Board Class 10 Social Science syllabus 2021-22
-Sl NoChapter NameTopics1Indian ResourcesTypes of Resources : Natural resources- Soil, Formation, types and distribution, soil conservation.Forest and WildLife – Forest types, Utility, Wild animals and their conservation Endangered animals.Agriculture – Main crops, Contribution of Agriculture to National Economy, Herbal Farms & their utility.Water Resource – Types, Sources, Distribution, Use, Protection & Conservation.Mineral Resource – Types, Distribution, Use, Conservation and Economic importance.Power Resource – Types : Conventional & Non-Conventional, Distribution, Utilisation & Conservation.2IndustryTypes, Description of Special Industries, Contribution of Industries to National Economy. Industrial Pollution, and the efforts for Solution.3Transport, Communication and Foreign TradeTransport-Utility and types – Railways, Roadways, Airways, Waterways, Pipelines, Ports & Harbours.Communication, Importance of Communication in modern days, Means of Communication.Contribution of foreign Trade to Indian Economy, Imports and Exports.4Disaster ManagementNatural Calamities – Drought, Flood, Earthquake, Landslides, Tsunami. Man Made Calamities – Nuclear, Biotic and Chemical, Bomb Blast. General Calamities – Precautions and Security.5Maps:-Reading and Marking6First struggle for Freedom and afterFirst struggle for Freedom of 1857. Introduction to important revolutionaries, birth of Indian National Congress, Moderates and Extremes.7Events related to Independence RevolutionImportant events of the Indian struggle for Independence, Revolution of Bange Bhang Partion of India in 1947 and its silent features, Contribution of Madhya Pradesh to the Freedom Struggle.8Major events of the Post-Independence periodKashmir Problem, India’s relation with neighbouring countries, Chinese war with India in 1962, India-pakistan war of 1965 and 1971, birth of Bangladesh, emergency in India, Rise of India as an atomic power.9Indian ConstitutionOrganisation of Constitution Draft Committee, Salient Features of Indian Constitution.10Working of Indian DemocracyFederal System, Division of Administrative Power between Centre and States, Organs of Government : Legeslature, Executive and Judiciary, Local Administration.11Major Challenges before DemocracyIncrease in Population, Unemployment, Communalism, Terrorists, drugaddication;Major hindrance in success of Democracy and measures for removal.12Story of Economic DevelopmentAncient and modren concept of economic development. National Income & Per Capita Income, Indicators of human developement, developing States with examples, Economic Planning in India, physical and non pysical with examples.Money and Financial system : An Introduction to money in ancient time, Financial Institutions such as money lenders, zamindars, self helps groups, chit funds, private financial institutions and different types of banks.13Service SectorService Sector – Meaning and Importance as a Component in Income. Infrastructure – Economic and Social Contribution of India’s Service sector in the World.14Consumer AwarenessConsumer Awareness – Need and Importance, Consumer Exploitation, Causes and Remedies. Standardisation of Commodities, Government Role.15Economic System and GlobalisationEconomic System – Meaning, Capitalism, Socialism and Mixed Economy- Characteristics, Merits and Demerits.Globalisation – Meaning, Needs, Development Earlier to 1991 and Modern Reforms, Impact of Globalisation.
-Sl NoChapter NameTopics
-Sl No
+215
+Students can also check out theCBSE Syllabusfor classes 1 to 12 consisting of all the major subjects.
+CBSE Syllabus for Class 10 Social Science Chapter Names
+Below you will find the chapter names for the Class 10 Social Science Syllabus.
+Unit NameChapter NameHistory (India and the Contemporary World – II)The Rise of Nationalism in EuropeNationalism In IndiaThe Making of a Global WorldThe Age of IndustrializationPrint Culture and the Modern WorldGeography (Contemporary India – II)Resources and DevelopmentForest and Wildlife ResourcesWater ResourcesAgricultureMinerals and Energy ResourcesManufacturing IndustriesLifelines of National EconomyPolitical Science (Democratic Politics – II)Power – sharingFederalismGender, Religion and CastePolitical PartiesOutcomes of DemocracyUnderstanding Economic DevelopmentDevelopmentSectors of the Indian EconomyMoney and CreditGlobalisation and The Indian EconomyConsumer Rights (Project Work)
+Unit NameChapter Name
+Unit Name
 Chapter Name
-Topics
-1Indian ResourcesTypes of Resources : Natural resources- Soil, Formation, types and distribution, soil conservation.Forest and WildLife – Forest types, Utility, Wild animals and their conservation Endangered animals.Agriculture – Main crops, Contribution of Agriculture to National Economy, Herbal Farms & their utility.Water Resource – Types, Sources, Distribution, Use, Protection & Conservation.Mineral Resource – Types, Distribution, Use, Conservation and Economic importance.Power Resource – Types : Conventional & Non-Conventional, Distribution, Utilisation & Conservation.
-Indian Resources
-Types of Resources : Natural resources- Soil, Formation, types and distribution, soil conservation.Forest and WildLife – Forest types, Utility, Wild animals and their conservation Endangered animals.Agriculture – Main crops, Contribution of Agriculture to National Economy, Herbal Farms & their utility.Water Resource – Types, Sources, Distribution, Use, Protection & Conservation.Mineral Resource – Types, Distribution, Use, Conservation and Economic importance.Power Resource – Types : Conventional & Non-Conventional, Distribution, Utilisation & Conservation.
-Forest and WildLife – Forest types, Utility, Wild animals and their conservation Endangered animals.
-Agriculture – Main crops, Contribution of Agriculture to National Economy, Herbal Farms & their utility.
-Water Resource – Types, Sources, Distribution, Use, Protection & Conservation.
-Mineral Resource – Types, Distribution, Use, Conservation and Economic importance.
-Power Resource – Types : Conventional & Non-Conventional, Distribution, Utilisation & Conservation.
-2IndustryTypes, Description of Special Industries, Contribution of Industries to National Economy. Industrial Pollution, and the efforts for Solution.
-Industry
-Types, Description of Special Industries, Contribution of Industries to National Economy. Industrial Pollution, and the efforts for Solution.
-3Transport, Communication and Foreign TradeTransport-Utility and types – Railways, Roadways, Airways, Waterways, Pipelines, Ports & Harbours.Communication, Importance of Communication in modern days, Means of Communication.Contribution of foreign Trade to Indian Economy, Imports and Exports.
-Transport, Communication and Foreign Trade
-Transport-Utility and types – Railways, Roadways, Airways, Waterways, Pipelines, Ports & Harbours.Communication, Importance of Communication in modern days, Means of Communication.Contribution of foreign Trade to Indian Economy, Imports and Exports.
-Communication, Importance of Communication in modern days, Means of Communication.Contribution of foreign Trade to Indian Economy, Imports and Exports.
-4Disaster ManagementNatural Calamities – Drought, Flood, Earthquake, Landslides, Tsunami. Man Made Calamities – Nuclear, Biotic and Chemical, Bomb Blast. General Calamities – Precautions and Security.
-Disaster Management
-Natural Calamities – Drought, Flood, Earthquake, Landslides, Tsunami. Man Made Calamities – Nuclear, Biotic and Chemical, Bomb Blast. General Calamities – Precautions and Security.
-5Maps:-Reading and Marking
-Maps:-Reading and Marking
-6First struggle for Freedom and afterFirst struggle for Freedom of 1857. Introduction to important revolutionaries, birth of Indian National Congress, Moderates and Extremes.
-First struggle for Freedom and after
-First struggle for Freedom of 1857. Introduction to important revolutionaries, birth of Indian National Congress, Moderates and Extremes.
-7Events related to Independence RevolutionImportant events of the Indian struggle for Independence, 
+History (India and the Contemporary World – II)The Rise of Nationalism in EuropeNationalism In IndiaThe Making of a Global WorldThe Age of IndustrializationPrint Culture and the Modern World
+History (India and the Contemporary World – II)
+The Rise of Nationalism in EuropeNationalism In IndiaThe Making of a Global WorldThe Age of IndustrializationPrint Culture and the Modern World
+Nationalism In India
+The Making of a Global World
+The Age of Industrialization
+Print Culture and the Modern World
+Geography (Contemporary India – II)Resources and DevelopmentForest and Wildlife ResourcesWater ResourcesAgricultureMinerals and Energy ResourcesManufacturing IndustriesLifelines of National Economy
+Geography (Contemporary India – II)
+Resources and DevelopmentForest and Wildlife ResourcesWater ResourcesAgricultureMinerals and Energy ResourcesManufacturing IndustriesLifelines of National Economy
+Forest and Wildlife Resources
+Water Resources
+Agriculture
+Minerals and Energy Resources
+Manufacturing Industries
+Lifelines of National Economy
+Political Science (Democratic Politics – II)Power – sharingFederalismGender, Religion and CastePolitical PartiesOutcomes of Democracy
+Political Science (Democratic Politics – II)
+Power – sharingFederalismGender, Religion and CastePolitical PartiesOutcomes of Democracy
+Federalism
+Gender, Religion and Caste
+Political Parties
+Outcomes of Democracy
+Understanding Economic DevelopmentDevelopmentSectors of the Indian EconomyMoney and CreditGlobalisation and The Indian EconomyConsumer Rights (Project Work)
+Understanding Economic Development
+DevelopmentSectors of the Indian EconomyMoney and CreditGlobalisation and The Indian EconomyConsumer Rights (Project Work)
+Sectors of the Indian Economy
+Money and Credit
+Globalisation and The Indian Economy
+Consumer Rights (Project Work)
+CBSE Syllabus for Class 10 Social Science – Internal Assessment (20 Marks)
+Below you will find the CBSE Class 10 Syllabus for Social Science Internal Assessment.
+Type of AssessmentDescriptionMarks AllottedPeriodic AssessmentPen Paper Test.5Multiple AssessmentQuiz, debate, role play, viva, group discussion, visual expression, interactive bulletin boards, gallery walks, exit cards, concept maps, peer assessment, Self-assessment etc., through interdisciplinary project5Subject Enrichment ActivityProject Work on Consumer RightsORSocial IssuesORSustainable Development5PortfolioClasswork, Work done (activities/assignments), reflections, narrations, journals, etc. Achievements of the student in the subject throughout the year Participation of the student in different activities like the Heritage India quiz.5
+Type of AssessmentDescriptionMarks Allotted
+Type of Assessment
+Description
+Marks Allotted
+Periodic AssessmentPen Paper Test.5
+Periodic Assessment
+Pen Paper Test.
+Multiple AssessmentQuiz, debate, role play, viva, group discussion, visual expression, interactive bulletin boards, gallery walks, exit cards, concept maps, peer assessment, Self-assessment etc., through interdisciplinary project5
+Multiple Assessment
+Quiz, debate, role play, viva, group discussion, visual expression, interactive bulletin boards, gallery walks, exit cards, concept maps, peer assessment, Self-assessment etc., through interdisciplinary project
+Subject Enrichment ActivityProject Work on Consumer RightsORSocial IssuesORSustainable Development5
+Subject Enrichment Activity
+Project Work on Consumer RightsORSocial IssuesORSustainable Development
+Social Issues
+Sustainable Development
+PortfolioClasswork, Work done (activities/assignments), reflections, narrations, journals, etc. Achievements of the student in the subject throughout the year Participation of the student in different activities like the Heritage India quiz.5
+Portfolio
+Classwork, Work done (activities/assignments), reflections, narrations, journals, etc. Achievements of the student in the subject throughout the year Participation of the student in different activities like the Heritage India quiz.
+CBSE Class 10 Social Science Project Work 2023-24
+In the CBSE Syllabus PDF of Social Science, students will find the complete detail of the project work. These project works are added to the curriculum so that students get to know the problems related to social issues in society.
+1.Every student has to compulsorily undertake any one project on the following topics:
+Consumer AwarenessOR
+Social IssuesOR
+Sustainable Development
+2. Objective:The overall objective of the project work is to help students gain an insight and pragmatic understanding of the theme and see all the Social Science disciplines from an interdisciplinary perspective. It should also help in enhancing the Life Skills of the students.
+Students are expected to apply the Social Science concepts that they have learnt over the years in order to prepare the project report.
+If required, students may go out to collect data and use different primary and secondary resources to prepare the project. If possible, various forms of art may be integrated with the project work.
+3.The distribution of marks over different aspects relating to Project Work is as follows:
+S. No.AspectsMarksa.Content accuracy, originality and analysis2b.Presentation and creativity2c.Viva Voce1
+S. No.AspectsMarks
+S. No.
+Aspects
+Marks
+a.Content accuracy, originality and analysis2
+Content accuracy, originality and analysis
+b.Presentation and creativity2
+Presentation and creativity
+c.Viva Voce1
+Viva Voce
+4.The projects carried out by the students on different topics should subsequently be shared among themselves through interactive sessions such as exhibitions, panel discussions, etc.
+5.All documents pertaining to assessment under this activity should be meticulously maintained by concerned schools.
+6.A Summary Report should be prepared highlighting the following:
+objectives realized through individual work and group interactions
+calendar of activities
+innovative ideas generated in the process
+list of questions asked in viva voce
+7.It is to be noted here by all the teachers and students that the projects and models prepared should be made from eco-friendly products without incurring too much expenditure.
+8.The Project Report should be handwritten by the students themselves.
+9.The Project Work needs to enhance the cognitive, affective, and psychomotor skills of the learners. It will include self-assessment and peer assessment, and the progress of the child in project-based and inquiry-based learning, art-integrated activities, experiments, models, quizzes, role plays, group work, portfolios, etc., along with teacher assessment.
+10.Records pertaining to projects (internal assessment) of the students will be maintained for a period of three months from the date of declaration of result for verification at the discretion of the Board. Subjudiced cases, if any or those involving RTI / Grievances may, however, be retained beyond three months.
+Learn Maths & Science in an interactive & fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Class 10 Social Science Syllabus 2023-24Q1How are the marks distributed in internals according to the CBSE Class 10 Social Science Syllabus?The marks distribution in internals according to the CBSE Class 10 Social Science Syllabus is periodic assessment for 10 marks, portfolio for 5 marks and subject enrichment activity for 5 marks.Q2How many units are present in the CBSE Class 10 Socia
 ```
 
 ---

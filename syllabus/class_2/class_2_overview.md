@@ -3,8 +3,8 @@
 ## Metadata
 
 - **Class**: 2
-- **Source**: https://byjus.com/cbse/cbse-class-2-syllabus/
-- **Extracted At**: 2026-01-28T17:50:47.765071
+- **Source**: https://byjus.com/cbse-class-2-syllabus/
+- **Extracted At**: 2026-01-28T18:28:36.420033
 
 ## Topics
 

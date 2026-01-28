@@ -4,8 +4,8 @@
 
 - **Class**: 5
 - **Subject**: Maths
-- **Source**: https://byjus.com/cbse/cbse-class-5-maths-syllabus/
-- **Extracted At**: 2026-01-28T16:12:57.860460
+- **Source**: https://byjus.com/cbse/class-5-maths-syllabus/
+- **Extracted At**: 2026-01-28T18:29:30.907007
 
 ## Syllabus Structure
 
@@ -18,30 +18,32 @@
 | V | Data Handling | Data Handling |
 | VI | Patterns | Patterns |
 
-| Chapter No. | Chapter Name |
+| UNIT | Chapter Name |
 | --- | --- |
-| 1. | The Fish Tale |
-| 2. | Shapes and Angles |
-| 3. | How Many Squares? |
-| 4. | Parts and Wholes |
-| 5. | Does it look the same? |
-| 6. | Be My Multiple, I will be Your Factor |
-| 7. | Can You See the Pattern? |
-| 8. | Mapping Your Way |
-| 9. | Boxes and Sketches |
-| 10. | Tenths and Hundredths |
-| 11. | Area and its Boundary |
-| 12. | Smart Charts |
-| 13. | Ways to Multiply and Divide |
-| 14. | How Big? How Heavy? |
+| Lesson 1 | The Fish Tale |
+| Lesson 2 | Shapes and Angles |
+| Lesson 3 | How Many Squares? |
+| Lesson 4 | Parts and Wholes |
+| Lesson 5 | Does it Look the Same? |
+| Lesson 6 | Be My Multiple,I’ll be Your Factor |
+| Lesson 7 | Can You See the Pattern? |
+| Lesson 8 | Mapping Your Way |
+| Lesson 9 | Boxes and Sketches |
+| Lesson 10 | Tenths and Hundredths |
+| Lesson 11 | Area and its Boundary |
+| Lesson 12 | Smart Charts |
+| Lesson 13 | Ways to Multiply and Divide |
+| Lesson 14 | How Big? How Heavy? |
 
 ## Detailed Content
 
 ```
-The Central Board of Secondary Education (CBSE) is a prestigious educational board in India. The CBSE provides quality education and a well-structured syllabus. Central Board of Secondary Education takes appropriate steps to design the syllabus of each and every class, the syllabus is designed in such a way that it becomes engaging and useful for students. Schools affiliated with the Central Board of Secondary Education follow the syllabus prescribed and designed by the CBSE board.
-Mathematics is an important subject for the students of Class 5. In this class, new chapters and topics are added, which is helpful for them to practice math problems accurately. They can learn new formulas to carry out fast and accurate calculations. Most importantly, they will understand the simple math concepts effortlessly. Practising theCBSE syllabusdesigned for Class 5 Maths will help students score well in the subject and achieve their academic goals. To download the CBSE Syllabus for Class 5 Maths, click on the PDF link below.
-Download CBSE Class 5 Maths Syllabus PDF 2023-24
-Download PDF
+CBSE Class 5 Maths Syllabusis one of the important subjects for every student. Studying Mathematics helps students to think logically because Mathematics teaches logic and order. Every Mathematics question can be solved in various ways, and the approach to solving each question is different for different students.
+CBSE 5th Class Maths Syllabus is designed by experts following the latest pattern. Studying the prescribed syllabus and solvingCBSE Class 5 Maths Worksheetswill help the students to prepare for their Maths exam. Below is the Maths CBSE Syllabus for Class 5, along with the PDF.
+CBSE Class 5 Maths Syllabus for 2023-24 Academic Year
+To download the CBSE Syllabus for Class 5 Maths, click on the PDF link below.
+Download CBSE Class 5 Maths Syllabus PDF for 2023-2024
+Students can look at the Chapter names of theCBSE Class 5NCERT textbook. These chapters are taken from the NCERT book, which is as per the prescribed CBSE Class 5 Maths Syllabus.
 2023-24 CBSE Class 5 Maths Syllabus
 Below you will find the Maths syllabus for Class 5 students.
 UnitUnit NamesSectionsIGeometryShapes and Spatial UnderstandingIINumbersNumbers and OperationsMental ArithmeticFractional NumbersIIIMoneyMoneyIVMeasurementLengthVData HandlingData HandlingVIPatternsPatterns
@@ -71,46 +73,58 @@ VIPatternsPatterns
 Patterns
 Patterns
 CBSE Syllabus for Class 5 Maths 2023-24 Chapter Names
-CBSE Class 5 Maths Syllabus include the following chapters
-Chapter No.Chapter Name1.The Fish Tale2.Shapes and Angles3.How Many Squares?4.Parts and Wholes5.Does it look the same?6.Be My Multiple, I will be Your Factor7.Can You See the Pattern?8.Mapping Your Way9.Boxes and Sketches10.Tenths and Hundredths11.Area and its Boundary12.Smart Charts13.Ways to Multiply and Divide14.How Big? How Heavy?
-Chapter No.Chapter Name
-Chapter No.
+Students can look at the chapter names of the CBSE Class 5 Maths book below.
+UNITChapter NameLesson 1The Fish TaleLesson 2Shapes and AnglesLesson 3How Many Squares?Lesson 4Parts and WholesLesson 5Does it Look the Same?Lesson 6Be My Multiple,I’ll be Your FactorLesson 7Can You See the Pattern?Lesson 8Mapping Your WayLesson 9Boxes and SketchesLesson 10Tenths and HundredthsLesson 11Area and its BoundaryLesson 12Smart ChartsLesson 13Ways to Multiply and DivideLesson 14How Big? How Heavy?
+UNITChapter Name
+UNIT
 Chapter Name
-1.The Fish Tale
+Lesson 1The Fish Tale
+Lesson 1
 The Fish Tale
-2.Shapes and Angles
+Lesson 2Shapes and Angles
+Lesson 2
 Shapes and Angles
-3.How Many Squares?
+Lesson 3How Many Squares?
+Lesson 3
 How Many Squares?
-4.Parts and Wholes
+Lesson 4Parts and Wholes
+Lesson 4
 Parts and Wholes
-5.Does it look the same?
-Does it look the same?
-6.Be My Multiple, I will be Your Factor
-Be My Multiple, I will be Your Factor
-7.Can You See the Pattern?
+Lesson 5Does it Look the Same?
+Lesson 5
+Does it Look the Same?
+Lesson 6Be My Multiple,I’ll be Your Factor
+Lesson 6
+Be My Multiple,I’ll be Your Factor
+Lesson 7Can You See the Pattern?
+Lesson 7
 Can You See the Pattern?
-8.Mapping Your Way
+Lesson 8Mapping Your Way
+Lesson 8
 Mapping Your Way
-9.Boxes and Sketches
+Lesson 9Boxes and Sketches
+Lesson 9
 Boxes and Sketches
-10.Tenths and Hundredths
-10.
+Lesson 10Tenths and Hundredths
+Lesson 10
 Tenths and Hundredths
-11.Area and its Boundary
-11.
+Lesson 11Area and its Boundary
+Lesson 11
 Area and its Boundary
-12.Smart Charts
-12.
+Lesson 12Smart Charts
+Lesson 12
 Smart Charts
-13.Ways to Multiply and Divide
-13.
+Lesson 13Ways to Multiply and Divide
+Lesson 13
 Ways to Multiply and Divide
-14.How Big? How Heavy?
-14.
+Lesson 14How Big? How Heavy?
+Lesson 14
 How Big? How Heavy?
-Note: The above syllabus and names of the chapters are given according to the latest information from NCERT.
-Students are also advised to solve the previous year’s question papers andsample papers for class 5. Solving the previous year’s question paper and sample papers will help you to understand the types of questions asked in the examination and marking scheme. It is recommended to solve the sample papers by keeping an eye on the clock so that you can check how much time he/she is taking to solve a question.
+TheCBSE Syllabuscovers and explains everyday events with the facts of Maths. To finish all 14 chapters, keep solving chapter-wise exercises, sample papers, CBSE question papers and worksheets. For more Maths-related study materials and textbooks, check out the CBSE Class 5 page.Frequently Asked Questions on CBSE Syllabus for Class 5 Maths 2023-24Q1How many chapters are covered in the CBSE Syllabus for Class 5 Maths?The CBSE Syllabus for Class 5 Maths contains 14 chapters. Students can obtain accurate answers to textbook questions effortlessly at BYJU’S in PDF format for absolutely free of cost.Q2What will I learn from the Class 5 Maths as per CBSE Syllabus?Students can learn about geometrical shapes and Mathematical calculations, which have wide applications in our daily activities.Q3How to score well in the CBSE Syllabus for Class 5 Maths?Students can score well in Maths thoroughly using the CBSE Class 5 syllabus. It mainly offers an in-depth knowledge of basic concepts that are important for the exam.
+Frequently Asked Questions on CBSE Syllabus for Class 5 Maths 2023-24
+How many chapters are covered in the CBSE Syllabus for Class 5 Maths?
+What will I learn from the Class 5 Maths as per CBSE Syllabus?
+How to score well in the CBSE Syllabus for Class 5 Maths?
 ```
 
 ---

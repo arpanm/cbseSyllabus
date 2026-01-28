@@ -5,7 +5,7 @@
 - **Class**: 9
 - **Subject**: Social Science
 - **Source**: https://byjus.com/cbse/class-9-social-science-syllabus/
-- **Extracted At**: 2026-01-28T17:53:00.622218
+- **Extracted At**: 2026-01-28T18:30:12.032003
 
 ## Marking Scheme
 

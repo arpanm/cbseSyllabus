@@ -4,7 +4,7 @@
 
 - **Class**: 10
 - **Source**: https://byjus.com/cbse/cbse-class-10-syllabus/
-- **Extracted At**: 2026-01-28T17:51:06.848850
+- **Extracted At**: 2026-01-28T18:28:52.061458
 
 ## Topics
 

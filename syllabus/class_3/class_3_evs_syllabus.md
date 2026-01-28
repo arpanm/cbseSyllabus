@@ -5,7 +5,7 @@
 - **Class**: 3
 - **Subject**: Evs
 - **Source**: https://byjus.com/cbse/class-3-science-syllabus/
-- **Extracted At**: 2026-01-28T17:51:40.891606
+- **Extracted At**: 2026-01-28T18:29:18.647167
 
 ## Detailed Content
 

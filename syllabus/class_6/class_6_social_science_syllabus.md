@@ -4,80 +4,126 @@
 
 - **Class**: 6
 - **Subject**: Social Science
-- **Source**: https://byjus.com/cbse/class-6-social-science-syllabus/
-- **Extracted At**: 2026-01-28T17:52:11.338774
+- **Source**: https://byjus.com/cbse-class-6-social-science-syllabus/
+- **Extracted At**: 2026-01-28T18:29:48.001212
+
+## Syllabus Structure
+
+| Unit | Unit Names | Sections |
+| --- | --- | --- |
+| 1 | History | When, Where and HowThe Earliest SocietiesThe First Farmers and HerdersThe First CitiesDifferent Ways of LifeEarly StatesNew IdeasThe First EmpireLife in towns and villagesContacts with Distant landsPolitical DevelopmentsCulture and Science |
+| 2 | Social and Political Life | DiversityGovernmentLocal GovernmentMaking a Living |
+| 3 | Geography | PlanetGlobeMapsFour realms of the earth |
 
 ## Chapters
 
-1. Chapter 1 –What, Where, How And When?
-2. Chapter 2 –On The Trail Of The Earliest People
-3. Chapter 3 –From Gathering To Growing Food
-4. Chapter 4 –In The Earliest Cities
-5. Chapter 5 –What Books And Burials Tell Us
-6. Chapter 6 –Kingdoms, Kings And An Early Republic
-7. Chapter 7 –New Questions And Ideas
-8. Chapter 8 –Ashoka, The Emperor Who Gave Up War
-9. Chapter 9 –Vital Villages, Thriving Towns
-10. Chapter 10 –Traders, Kings And Pilgrims
-11. Chapter 11 –New Empires And Kingdoms
-12. Chapter 12 –Buildings, Paintings And Books
-13. Chapter 1 –Understanding Diversity
-14. Chapter 2 –Diversity and Discrimination
-15. Chapter 3 –What is Government?
-16. Chapter 4 –Key Elements of a Democratic Government
-17. Chapter 5 –Panchayati Raj
-18. Chapter 6 –Rural Administration
-19. Chapter 7 –Urban Administration
-20. Chapter 8 –Rural Livelihoods
-21. Chapter 9 –Urban Livelihoods
-22. Chapter 1 –The Earth in the Solar System
-23. Chapter 2 –Globe: Latitudes and Longitudes
-24. Chapter 3 –Motions of the Earth
-25. Chapter 4 –Maps
-26. Chapter 5 –Major Domains of the Earth
-27. Chapter 6 –Major Landforms of the Earth
-28. Chapter 7 –Our Country: India
-29. Chapter 8 –India: Climate, Vegetation and Wildlife
+1. Chapter 1 –What, Where, How and When?
+2. Chapter 2 –From Hunting – Gathering to Growing Food
+3. Chapter 3 –In the Earliest Cities
+4. Chapter 4 –What Books and Burials Tell Us
+5. Chapter 5 –Kingdoms, Kings and an Early Republic
+6. Chapter 6 –New Questions and Ideas
+7. Chapter 7 –From a Kingdom to an Empire
+8. Chapter 8 –Villages, Towns and Trade
+9. Chapter 9 –New Empires and Kingdoms
+10. Chapter 10 –Buildings, Paintings and Books
+11. Chapter 1 –Diversity
+12. Chapter 2 –Diversity and Discrimination
+13. Chapter 3 –Government
+14. Chapter 4 –Local Government and Administration
+15. Chapter 5 –Rural Administration
+16. Chapter 6 –Urban Administration
+17. Chapter 7 –Rural Livelihoods
+18. Chapter 8 –Urban Livelihoods
+19. Chapter 1 –The Earth in the Solar System
+20. Chapter 2 –Globe: Latitudes and Longitudes
+21. Chapter 3 –Motions of the Earth
+22. Chapter 4 –Maps
+23. Chapter 5 –Major Domains of the Earth
+24. Chapter 6 –Our Country: India
+
+## Topics
+
+- CBSE Class 6 History Syllabus PDF 2023-24
+- CBSE Class 6 Social and Political Life Syllabus PDF 2023-24
+- CBSE Class 6 Geography Syllabus PDF 2023-24
 
 ## Detailed Content
 
 ```
-For Class 6 students like any other significant subjects such as Maths and Science, Social Science is also an important subject. The subject of Social science carries equal weightage, as do Maths and Science. The marks obtained in this subject will affect the overall percentage of students. So, students must be well aware of their respectiveMP Board Class 6 syllabusof Social Science to fetch good marks. The Madhya Pradesh Board Class 6 Social Science syllabus is designed in a well-structured format so that students can quickly go through it and get an idea of the topics they will be taught in the classroom.
-Students can download the PDF ofMP Board Class 6Social Science 2021-2022 syllabus by clicking the below-mentioned link.
-Download MP Board Class 6th Social Science Syllabus 2021-22
-MP Board Class 6 Social Science Syllabus 2021-2022
-MP Board Class 6 History Chapters
-Chapter 1 –What, Where, How And When?
-Chapter 2 –On The Trail Of The Earliest People
-Chapter 3 –From Gathering To Growing Food
-Chapter 4 –In The Earliest Cities
-Chapter 5 –What Books And Burials Tell Us
-Chapter 6 –Kingdoms, Kings And An Early Republic
-Chapter 7 –New Questions And Ideas
-Chapter 8 –Ashoka, The Emperor Who Gave Up War
-Chapter 9 –Vital Villages, Thriving Towns
-Chapter 10 –Traders, Kings And Pilgrims
-Chapter 11 –New Empires And Kingdoms
-Chapter 12 –Buildings, Paintings And Books
-MP Board Class 6 Social & Political Life Chapters
-Chapter 1 –Understanding Diversity
+CBSE Class 6 Social Science Syllabusis an essential study material for Class 6 CBSE students. CBSE board designs the Class 6 Social Science syllabus according to the current educational demands in a proper way. TheCBSE Syllabusincludes detailed information about the Social Science subject and what are the chapters they are going to study under History, Social & Political Life and Geography. By knowing the syllabus, Class 6 students can gain knowledge which will be required for further studies.
+CBSE Class 6 Social Science Syllabus for 2023-24 Academic Year
+CBSE Class 6 Social Science Syllabus for 2023-2024, as per the guidelines of the NCERT, is provided below.
+CBSE Class 6 History Syllabus PDF 2023-24
+CBSE Class 6 Social and Political Life Syllabus PDF 2023-24
+CBSE Class 6 Geography Syllabus PDF 2023-24
+2023-24 CBSE Class 6 Syllabus for Science
+Go through the CBSE Class 6 Social Science Syllabus below.
+UnitUnit NamesSections1HistoryWhen, Where and HowThe Earliest SocietiesThe First Farmers and HerdersThe First CitiesDifferent Ways of LifeEarly StatesNew IdeasThe First EmpireLife in towns and villagesContacts with Distant landsPolitical DevelopmentsCulture and Science2Social and Political LifeDiversityGovernmentLocal GovernmentMaking a Living3GeographyPlanetGlobeMapsFour realms of the earth
+UnitUnit NamesSections
+Unit
+Unit Names
+Sections
+1HistoryWhen, Where and HowThe Earliest SocietiesThe First Farmers and HerdersThe First CitiesDifferent Ways of LifeEarly StatesNew IdeasThe First EmpireLife in towns and villagesContacts with Distant landsPolitical DevelopmentsCulture and Science
+History
+When, Where and HowThe Earliest SocietiesThe First Farmers and HerdersThe First CitiesDifferent Ways of LifeEarly StatesNew IdeasThe First EmpireLife in towns and villagesContacts with Distant landsPolitical DevelopmentsCulture and Science
+The Earliest Societies
+The First Farmers and Herders
+The First Cities
+Different Ways of Life
+Early States
+New Ideas
+The First Empire
+Life in towns and villages
+Contacts with Distant lands
+Political Developments
+Culture and Science
+2Social and Political LifeDiversityGovernmentLocal GovernmentMaking a Living
+Social and Political Life
+DiversityGovernmentLocal GovernmentMaking a Living
+Government
+Local Government
+Making a Living
+3GeographyPlanetGlobeMapsFour realms of the earth
+Geography
+PlanetGlobeMapsFour realms of the earth
+Globe
+Maps
+Four realms of the earth
+CBSE Class 6 Social Science Chapter Names
+Students can also have a look at the chapter names of the CBSE Class 6 Social Science NCERT textbook below.
+CBSE Class 6 History Chapters
+Chapter 1 –What, Where, How and When?
+Chapter 2 –From Hunting – Gathering to Growing Food
+Chapter 3 –In the Earliest Cities
+Chapter 4 –What Books and Burials Tell Us
+Chapter 5 –Kingdoms, Kings and an Early Republic
+Chapter 6 –New Questions and Ideas
+Chapter 7 –From a Kingdom to an Empire
+Chapter 8 –Villages, Towns and Trade
+Chapter 9 –New Empires and Kingdoms
+Chapter 10 –Buildings, Paintings and Books
+CBSE Class 6 Social & Political Life Chapters
+Chapter 1 –Diversity
 Chapter 2 –Diversity and Discrimination
-Chapter 3 –What is Government?
-Chapter 4 –Key Elements of a Democratic Government
-Chapter 5 –Panchayati Raj
-Chapter 6 –Rural Administration
-Chapter 7 –Urban Administration
-Chapter 8 –Rural Livelihoods
-Chapter 9 –Urban Livelihoods
-MP Board Class 6 Geography Chapters
+Chapter 3 –Government
+Chapter 4 –Local Government and Administration
+Chapter 5 –Rural Administration
+Chapter 6 –Urban Administration
+Chapter 7 –Rural Livelihoods
+Chapter 8 –Urban Livelihoods
+CBSE Class 6 Geography Chapters – The Earth: Our Habitat
 Chapter 1 –The Earth in the Solar System
 Chapter 2 –Globe: Latitudes and Longitudes
 Chapter 3 –Motions of the Earth
 Chapter 4 –Maps
 Chapter 5 –Major Domains of the Earth
-Chapter 6 –Major Landforms of the Earth
-Chapter 7 –Our Country: India
-Chapter 8 –India: Climate, Vegetation and Wildlife
+Chapter 6 –Our Country: India
+Get access toCBSE Class 6study material in one place. Keep learning and stay tuned with BYJU’S for the latest update on CBSE/ICSE/State Board/Competitive Exams. Also, download the BYJU’S App for interactive study videos.Frequently Asked Questions on CBSE Class 6 Social Science Syllabus 2023-24Q1How many chapters are present in the CBSE Class 6 Social Science Syllabus?There are 11 chapters in History, 8 chapters in Political Science and 6 chapters in Geography. By going through the CBSE Class 6 syllabus, students can perform well in their final exams.Q2How to study the CBSE Class 6 Social Science History Syllabus?Students can study the CBSE Class 6 Social Science History Syllabus using the PDF given at BYJU’S. It contains the required details for students to write their exams well.Q3Where can I find the CBSE Class 6 Social Science Syllabus for free?You can find the CBSE Class 6 Social Syllabus for each part separately for free at BYJU’S. The PDF can be downloaded by clicking the link which will help students to answer the difficult questions effectively.
+Frequently Asked Questions on CBSE Class 6 Social Science Syllabus 2023-24
+How many chapters are present in the CBSE Class 6 Social Science Syllabus?
+How to study the CBSE Class 6 Social Science History Syllabus?
+Where can I find the CBSE Class 6 Social Science Syllabus for free?
 ```
 
 ---

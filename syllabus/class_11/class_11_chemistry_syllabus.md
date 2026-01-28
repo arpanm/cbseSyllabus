@@ -5,7 +5,7 @@
 - **Class**: 11
 - **Subject**: Chemistry
 - **Source**: https://byjus.com/cbse/class-11-chemistry-syllabus/
-- **Extracted At**: 2026-01-28T17:53:27.826009
+- **Extracted At**: 2026-01-28T18:30:30.328126
 
 ## Marking Scheme
 

@@ -5,7 +5,7 @@
 - **Class**: 12
 - **Subject**: Biology
 - **Source**: https://byjus.com/cbse/class-12-biology-syllabus/
-- **Extracted At**: 2026-01-28T17:53:55.416926
+- **Extracted At**: 2026-01-28T18:30:50.548936
 
 ## Marking Scheme
 

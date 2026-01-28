@@ -4,7 +4,7 @@
 
 - **Class**: 11
 - **Source**: https://byjus.com/cbse/cbse-class-11-syllabus/
-- **Extracted At**: 2026-01-28T17:51:09.829829
+- **Extracted At**: 2026-01-28T18:28:53.757915
 
 ## Topics
 

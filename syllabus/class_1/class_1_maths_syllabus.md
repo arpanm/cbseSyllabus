@@ -5,7 +5,7 @@
 - **Class**: 1
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse-class-1-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:51:15.694087
+- **Extracted At**: 2026-01-28T18:28:59.685328
 
 ## Topics
 

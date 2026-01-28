@@ -5,7 +5,7 @@
 - **Class**: 12
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-12-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:53:49.645397
+- **Extracted At**: 2026-01-28T18:30:45.153939
 
 ## Marking Scheme
 

@@ -5,7 +5,7 @@
 - **Class**: 4
 - **Subject**: Evs
 - **Source**: https://byjus.com/cbse/class-4-evs-syllabus/
-- **Extracted At**: 2026-01-28T17:51:50.287811
+- **Extracted At**: 2026-01-28T18:29:28.780321
 
 ## Detailed Content
 

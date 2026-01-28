@@ -4,8 +4,8 @@
 
 - **Class**: 6
 - **Subject**: Hindi
-- **Source**: https://byjus.com/cbse/cbse-class-6-hindi-syllabus/
-- **Extracted At**: 2026-01-28T16:13:13.726211
+- **Source**: https://byjus.com/cbse-class-6-hindi-syllabus/
+- **Extracted At**: 2026-01-28T18:29:43.892426
 
 ## Detailed Content
 

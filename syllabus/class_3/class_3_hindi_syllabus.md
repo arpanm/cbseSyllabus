@@ -5,7 +5,7 @@
 - **Class**: 3
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-3-hindi-syllabus/
-- **Extracted At**: 2026-01-28T17:51:37.912029
+- **Extracted At**: 2026-01-28T18:29:16.235022
 
 ## Detailed Content
 

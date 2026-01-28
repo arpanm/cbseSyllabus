@@ -5,7 +5,7 @@
 - **Class**: 6
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-6-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:52:00.773659
+- **Extracted At**: 2026-01-28T18:29:41.092355
 
 ## Syllabus Structure
 

@@ -5,7 +5,7 @@
 - **Class**: 12
 - **Subject**: Physics
 - **Source**: https://byjus.com/cbse/class-12-physics-syllabus/
-- **Extracted At**: 2026-01-28T17:53:50.949540
+- **Extracted At**: 2026-01-28T18:30:46.749501
 
 ## Marking Scheme
 

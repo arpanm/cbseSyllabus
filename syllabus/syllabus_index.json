@@ -1,35 +1,8 @@
 {
-  "generated_at": "2026-01-28T17:54:21.310522",
-  "total_downloaded": 61,
-  "total_failed": 26,
-  "failed_urls": [
-    "https://byjus.com/cbse/cbse-syllabus-for-class-4/",
-    "https://byjus.com/cbse/class-1-evs-syllabus/",
-    "https://byjus.com/cbse/class-2-evs-syllabus/",
-    "https://byjus.com/cbse-class-4-maths-syllabus/",
-    "https://byjus.com/cbse-class-5-maths-syllabus/",
-    "https://byjus.com/cbse/class-6-hindi-syllabus/",
-    "https://byjus.com/cbse/class-6-sanskrit-syllabus/",
-    "https://byjus.com/cbse/class-7-hindi-syllabus/",
-    "https://byjus.com/cbse/class-7-sanskrit-syllabus/",
-    "https://byjus.com/cbse/class-8-hindi-syllabus/",
-    "https://byjus.com/cbse/class-8-sanskrit-syllabus/",
-    "https://byjus.com/cbse/class-9-hindi-syllabus/",
-    "https://byjus.com/cbse/class-9-sanskrit-syllabus/",
-    "https://byjus.com/cbse/class-10-hindi-syllabus/",
-    "https://byjus.com/cbse/class-10-sanskrit-syllabus/",
-    "https://byjus.com/cbse/class-11-english-syllabus/",
-    "https://byjus.com/cbse/class-11-hindi-syllabus/",
-    "https://byjus.com/cbse/class-11-computer-science-syllabus/",
-    "https://byjus.com/cbse/class-11-physical-education-syllabus/",
-    "https://byjus.com/cbse/class-12-english-syllabus/",
-    "https://byjus.com/cbse/class-12-hindi-syllabus/",
-    "https://byjus.com/cbse/class-12-computer-science-syllabus/",
-    "https://byjus.com/cbse/class-12-physical-education-syllabus/",
-    "https://byjus.com/cbse/class-12-history-syllabus/",
-    "https://byjus.com/cbse/class-12-geography-syllabus/",
-    "https://byjus.com/cbse/class-12-political-science-syllabus/"
-  ],
+  "generated_at": "2026-01-28T18:31:03.354349",
+  "total_downloaded": 71,
+  "total_failed": 0,
+  "failed_urls": [],
   "classes": {
     "class_1": {
       "class": 1,
@@ -56,7 +29,7 @@
     },
     "class_2": {
       "class": 2,
-      "overview_url": "https://byjus.com/cbse/cbse-class-2-syllabus/",
+      "overview_url": "https://byjus.com/cbse-class-2-syllabus/",
       "md_file": "syllabus/class_2/class_2_overview.md",
       "json_file": "syllabus/class_2/class_2_overview.json",
       "subjects": {
@@ -105,12 +78,45 @@
         }
       }
     },
+    "class_4": {
+      "class": 4,
+      "overview_url": "https://byjus.com/cbse/cbse-syllabus-class-4/",
+      "md_file": "syllabus/class_4/class_4_overview.md",
+      "json_file": "syllabus/class_4/class_4_overview.json",
+      "subjects": {
+        "maths": {
+          "url": "https://byjus.com/cbse/class-4-maths-syllabus/",
+          "md_file": "syllabus/class_4/class_4_maths_syllabus.md",
+          "json_file": "syllabus/class_4/class_4_maths_syllabus.json"
+        },
+        "english": {
+          "url": "https://byjus.com/cbse-class-4-english-syllabus/",
+          "md_file": "syllabus/class_4/class_4_english_syllabus.md",
+          "json_file": "syllabus/class_4/class_4_english_syllabus.json"
+        },
+        "hindi": {
+          "url": "https://byjus.com/cbse-class-4-hindi-syllabus/",
+          "md_file": "syllabus/class_4/class_4_hindi_syllabus.md",
+          "json_file": "syllabus/class_4/class_4_hindi_syllabus.json"
+        },
+        "evs": {
+          "url": "https://byjus.com/cbse/class-4-evs-syllabus/",
+          "md_file": "syllabus/class_4/class_4_evs_syllabus.md",
+          "json_file": "syllabus/class_4/class_4_evs_syllabus.json"
+        }
+      }
+    },
     "class_5": {
       "class": 5,
       "overview_url": "https://byjus.com/cbse/cbse-class-5th-syllabus/",
       "md_file": "syllabus/class_5/class_5_overview.md",
       "json_file": "syllabus/class_5/class_5_overview.json",
       "subjects": {
+        "maths": {
+          "url": "https://byjus.com/cbse/class-5-maths-syllabus/",
+          "md_file": "syllabus/class_5/class_5_maths_syllabus.md",
+          "json_file": "syllabus/class_5/class_5_maths_syllabus.json"
+        },
         "english": {
           "url": "https://byjus.com/cbse-class-5-english-syllabus/",
           "md_file": "syllabus/class_5/class_5_english_syllabus.md",
@@ -122,7 +128,7 @@
           "json_file": "syllabus/class_5/class_5_hindi_syllabus.json"
         },
         "evs": {
-          "url": "https://byjus.com/cbse/class-5-evs-syllabus/",
+          "url": "https://byjus.com/cbse/class-5-science-syllabus/",
           "md_file": "syllabus/class_5/class_5_evs_syllabus.md",
           "json_file": "syllabus/class_5/class_5_evs_syllabus.json"
         }
@@ -140,17 +146,22 @@
           "json_file": "syllabus/class_6/class_6_maths_syllabus.json"
         },
         "english": {
-          "url": "https://byjus.com/cbse/class-6-english-syllabus/",
+          "url": "https://byjus.com/cbse-class-6-english-syllabus/",
           "md_file": "syllabus/class_6/class_6_english_syllabus.md",
           "json_file": "syllabus/class_6/class_6_english_syllabus.json"
         },
+        "hindi": {
+          "url": "https://byjus.com/cbse-class-6-hindi-syllabus/",
+          "md_file": "syllabus/class_6/class_6_hindi_syllabus.md",
+          "json_file": "syllabus/class_6/class_6_hindi_syllabus.json"
+        },
         "science": {
-          "url": "https://byjus.com/cbse/class-6-science-syllabus/",
+          "url": "https://byjus.com/cbse/cbse-class-6-science-syllabus/",
           "md_file": "syllabus/class_6/class_6_science_syllabus.md",
           "json_file": "syllabus/class_6/class_6_science_syllabus.json"
         },
         "social-science": {
-          "url": "https://byjus.com/cbse/class-6-social-science-syllabus/",
+          "url": "https://byjus.com/cbse-class-6-social-science-syllabus/",
           "md_file": "syllabus/class_6/class_6_social_science_syllabus.md",
           "json_file": "syllabus/class_6/class_6_social_science_syllabus.json"
         }
@@ -168,17 +179,17 @@
           "json_file": "syllabus/class_7/class_7_maths_syllabus.json"
         },
         "english": {
-          "url": "https://byjus.com/cbse/class-7-english-syllabus/",
+          "url": "https://byjus.com/cbse-class-7-english-syllabus/",
           "md_file": "syllabus/class_7/class_7_english_syllabus.md",
           "json_file": "syllabus/class_7/class_7_english_syllabus.json"
         },
         "science": {
-          "url": "https://byjus.com/cbse/class-7-science-syllabus/",
+          "url": "https://byjus.com/cbse/cbse-class-7-science-syllabus/",
           "md_file": "syllabus/class_7/class_7_science_syllabus.md",
           "json_file": "syllabus/class_7/class_7_science_syllabus.json"
         },
         "social-science": {
-          "url": "https://byjus.com/cbse/class-7-social-science-syllabus/",
+          "url": "https://byjus.com/cbse-class-7-social-science-syllabus/",
           "md_file": "syllabus/class_7/class_7_social_science_syllabus.md",
           "json_file": "syllabus/class_7/class_7_social_science_syllabus.json"
         }
@@ -196,12 +207,12 @@
           "json_file": "syllabus/class_8/class_8_maths_syllabus.json"
         },
         "english": {
-          "url": "https://byjus.com/cbse/class-8-english-syllabus/",
+          "url": "https://byjus.com/cbse-class-8-english-syllabus/",
           "md_file": "syllabus/class_8/class_8_english_syllabus.md",
           "json_file": "syllabus/class_8/class_8_english_syllabus.json"
         },
         "science": {
-          "url": "https://byjus.com/cbse/class-8-science-syllabus/",
+          "url": "https://byjus.com/cbse/cbse-class-8-science-syllabus/",
           "md_file": "syllabus/class_8/class_8_science_syllabus.md",
           "json_file": "syllabus/class_8/class_8_science_syllabus.json"
         },
@@ -224,12 +235,12 @@
           "json_file": "syllabus/class_9/class_9_maths_syllabus.json"
         },
         "english": {
-          "url": "https://byjus.com/cbse/class-9-english-syllabus/",
+          "url": "https://byjus.com/cbse-class-9-english-syllabus/",
           "md_file": "syllabus/class_9/class_9_english_syllabus.md",
           "json_file": "syllabus/class_9/class_9_english_syllabus.json"
         },
         "science": {
-          "url": "https://byjus.com/cbse/class-9-science-syllabus/",
+          "url": "https://byjus.com/cbse/cbse-class-9-science-syllabus/",
           "md_file": "syllabus/class_9/class_9_science_syllabus.md",
           "json_file": "syllabus/class_9/class_9_science_syllabus.json"
         },
@@ -252,17 +263,17 @@
           "json_file": "syllabus/class_10/class_10_maths_syllabus.json"
         },
         "english": {
-          "url": "https://byjus.com/cbse/class-10-english-syllabus/",
+          "url": "https://byjus.com/cbse/english-language-literature-class-10-syllabus/",
           "md_file": "syllabus/class_10/class_10_english_syllabus.md",
           "json_file": "syllabus/class_10/class_10_english_syllabus.json"
         },
         "science": {
-          "url": "https://byjus.com/cbse/class-10-science-syllabus/",
+          "url": "https://byjus.com/cbse/cbse-class-10-science-syllabus/",
           "md_file": "syllabus/class_10/class_10_science_syllabus.md",
           "json_file": "syllabus/class_10/class_10_science_syllabus.json"
         },
         "social-science": {
-          "url": "https://byjus.com/cbse/class-10-social-science-syllabus/",
+          "url": "https://byjus.com/cbse/social-science-class-10-syllabus/",
           "md_file": "syllabus/class_10/class_10_social_science_syllabus.md",
           "json_file": "syllabus/class_10/class_10_social_science_syllabus.json"
         }
@@ -294,6 +305,11 @@
           "md_file": "syllabus/class_11/class_11_biology_syllabus.md",
           "json_file": "syllabus/class_11/class_11_biology_syllabus.json"
         },
+        "english": {
+          "url": "https://byjus.com/cbse-class-11-english-syllabus/",
+          "md_file": "syllabus/class_11/class_11_english_syllabus.md",
+          "json_file": "syllabus/class_11/class_11_english_syllabus.json"
+        },
         "accountancy": {
           "url": "https://byjus.com/cbse/class-11-accountancy-syllabus/",
           "md_file": "syllabus/class_11/class_11_accountancy_syllabus.md",
@@ -308,6 +324,16 @@
           "url": "https://byjus.com/cbse/class-11-business-studies-syllabus/",
           "md_file": "syllabus/class_11/class_11_business_studies_syllabus.md",
           "json_file": "syllabus/class_11/class_11_business_studies_syllabus.json"
+        },
+        "computer-science": {
+          "url": "https://byjus.com/cbse-class-11-computer-science-syllabus/",
+          "md_file": "syllabus/class_11/class_11_computer_science_syllabus.md",
+          "json_file": "syllabus/class_11/class_11_computer_science_syllabus.json"
+        },
+        "physical-education": {
+          "url": "https://byjus.com/cbse-class-11-physical-education-syllabus/",
+          "md_file": "syllabus/class_11/class_11_physical_education_syllabus.md",
+          "json_file": "syllabus/class_11/class_11_physical_education_syllabus.json"
         }
       }
     },
@@ -337,6 +363,11 @@
           "md_file": "syllabus/class_12/class_12_biology_syllabus.md",
           "json_file": "syllabus/class_12/class_12_biology_syllabus.json"
         },
+        "english": {
+          "url": "https://byjus.com/cbse-class-12-english-syllabus/",
+          "md_file": "syllabus/class_12/class_12_english_syllabus.md",
+          "json_file": "syllabus/class_12/class_12_english_syllabus.json"
+        },
         "accountancy": {
           "url": "https://byjus.com/cbse/class-12-accountancy-syllabus/",
           "md_file": "syllabus/class_12/class_12_accountancy_syllabus.md",
@@ -351,26 +382,16 @@
           "url": "https://byjus.com/cbse/class-12-business-studies-syllabus/",
           "md_file": "syllabus/class_12/class_12_business_studies_syllabus.md",
           "json_file": "syllabus/class_12/class_12_business_studies_syllabus.json"
-        }
-      }
-    },
-    "class_4": {
-      "class": 4,
-      "subjects": {
-        "english": {
-          "url": "https://byjus.com/cbse-class-4-english-syllabus/",
-          "md_file": "syllabus/class_4/class_4_english_syllabus.md",
-          "json_file": "syllabus/class_4/class_4_english_syllabus.json"
         },
-        "hindi": {
-          "url": "https://byjus.com/cbse-class-4-hindi-syllabus/",
-          "md_file": "syllabus/class_4/class_4_hindi_syllabus.md",
-          "json_file": "syllabus/class_4/class_4_hindi_syllabus.json"
+        "computer-science": {
+          "url": "https://byjus.com/cbse-class-12-computer-science-syllabus/",
+          "md_file": "syllabus/class_12/class_12_computer_science_syllabus.md",
+          "json_file": "syllabus/class_12/class_12_computer_science_syllabus.json"
         },
-        "evs": {
-          "url": "https://byjus.com/cbse/class-4-evs-syllabus/",
-          "md_file": "syllabus/class_4/class_4_evs_syllabus.md",
-          "json_file": "syllabus/class_4/class_4_evs_syllabus.json"
+        "physical-education": {
+          "url": "https://byjus.com/cbse-class-12-physical-education-syllabus/",
+          "md_file": "syllabus/class_12/class_12_physical_education_syllabus.md",
+          "json_file": "syllabus/class_12/class_12_physical_education_syllabus.json"
         }
       }
     }

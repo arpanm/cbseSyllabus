@@ -4,58 +4,41 @@
 
 - **Class**: 7
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/class-7-english-syllabus/
-- **Extracted At**: 2026-01-28T17:52:17.561122
+- **Source**: https://byjus.com/cbse-class-7-english-syllabus/
+- **Extracted At**: 2026-01-28T18:29:51.964603
 
 ## Detailed Content
 
 ```
-For Class 7 students while exam preparation Punjab Board Class 7 English syllabus is considered to be an essential resource. English syllabus consists of all the crucial topics and sub-topics that a Class 7 student should learn. Teachers also refer to the syllabus while teaching in the classroom. Even the final exam paper is prepared, as per the English syllabus. While designing the textbook of English subject experts refer to the syllabus. Knowing the entire PSEB Class 7 English Syllabus is the first step to preparing more proficiently for the English exams.
-Download the pdf of the English syllabus by clicking the highlighted links below. Students ofPunjab Board Class 7can score good marks with the help of syllabus.
-Download PSEB Class 7 English Syllabus 2021-22 PDF
-Get the detailedPSEB Class 7 syllabusof English subject from below:
-Unit- I Reading Skills
-Three unseen comprehension (passage, picture and dialogue) followed by questions.
-Unit-II (Textbook)
-Lessons
-1. Rent for Water
-2. Birbal’s Khichdi
-3. A Glass of Milk
-4. Mountaineers
-5. The Princess who never smiled
-6. Treasure Hunt
-7. A Hole in the Fence
-8. Hachiko- The world’s most loyal Dog
-Poems
-1. Trains
-2. The Hunter and the Deer
-3. An Earthquake
-4. There was a Naughty boy
-Unit-III (Grammar & Vocabulary)
-1. Noun
-2. Conjunctions
-3. Prefix and suffix
-4. Adverbs
-5. Adjectives with degrees
-6. Prepositions
-7. Determiners
-8. Subject Verb-Object
-9. Tense
-10. Arrange in alphabetical order
-11. Parts of Speech
-12. Sentence and its types
-13. Punctuation
-14. Comparison using ‘as’
-15. Synonyms
-16. Antonyms
-17. Verb (Conjugation)
-18. Translation
-Unit-IV (Composition)
-1. Letter Writing
-2. Creative Writing (Picture composition
-Guided Composition, Mind Mapping)
-3. Message Writing
-4. Notice Writing
+CBSE Class 7 English syllabusis framed as per the latest guidelines of the Board. The syllabus of English covers all the necessary chapters that need to be studied by Class 7 students. Students ofCBSE Class 7are advised to go through the syllabus before diving into the exam preparation so that they know what they are going to study and which unit to concentrate more. Even the final question paper of the English language will be prepared as per the prescribed syllabus.
+CBSE Class 7 English Syllabus for 2023-24 Academic Year
+To download the CBSE English Syllabus for Class 7 students, click on the link below.
+Download CBSE Class 7 English Syllabus PDF 2023-24
+Download PDF
+2023-24 CBSE Class 7 English Syllabus
+For the benefit of students, we have provided the CBSE Syllabus of Class 7 syllabus for the academic year 2023-2024. They must also practise theunseen passages for Class 7and a list ofCBSE essaysto improve their writing section for the English exam.
+English: Honeycomb
+Chapter 1:Three Questions & The Squirrel
+Chapter 2:A Gift of Chappals & The Rebel
+Chapter 3:Gopal and the Hilsa Fish & The Shed
+Chapter 4:The Ashes That Made Trees Bloom & Chivvy
+Chapter 5:Quality & Trees
+Chapter 6:Expert Detectives & Mystery of the Talking Fan
+Chapter 7:The Invention of Vita-Wonk & Dad and the Cat and the Tree & Garden Snake
+Chapter 8:A Homage to Our Brave Soldiers & Meadow Surprises
+The Alien Hand
+Chapter 1:The Tiny Teacher
+Chapter 2:Bringing Up Kari
+Chapter 3:Golu Grows a Nose
+Chapter 4:Chandni
+Chapter 5:The Bear Story
+Chapter 6:A Tiger in the House
+Chapter 7:An Alien Hand English
+Access theCBSE Syllabusfor other classes from 1 to 12 and prepare for the exams as per the syllabus. Moreover, learn Maths & Science in an interactive & fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Class 7 English Syllabus 2023-24Q1What are the textbooks prescribed for the Class 7 CBSE English Syllabus?The English textbooks prescribed for the Class 7 CBSE Syllabus are Honeycomb and The Alien Hand.Q2In the CBSE Class 7 English Syllabus, how many chapters are covered?In the CBSE Class 7 English Syllabus, 15 chapters each are covered in both textbooks.Q3Why is the CBSE Class 7 English Syllabus the best study material?The CBSE Class 7 English Syllabus consists of concepts along with marks weightage which is important in each chapter. So, it is considered to be the best study material for the exam preparation.
+Frequently Asked Questions on CBSE Class 7 English Syllabus 2023-24
+What are the textbooks prescribed for the Class 7 CBSE English Syllabus?
+In the CBSE Class 7 English Syllabus, how many chapters are covered?
+Why is the CBSE Class 7 English Syllabus the best study material?
 ```
 
 ---

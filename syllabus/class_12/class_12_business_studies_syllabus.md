@@ -5,7 +5,7 @@
 - **Class**: 12
 - **Subject**: Business Studies
 - **Source**: https://byjus.com/cbse/class-12-business-studies-syllabus/
-- **Extracted At**: 2026-01-28T17:54:07.842592
+- **Extracted At**: 2026-01-28T18:30:59.451088
 
 ## Marking Scheme
 

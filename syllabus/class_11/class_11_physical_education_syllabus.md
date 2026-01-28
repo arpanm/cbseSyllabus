@@ -4,8 +4,8 @@
 
 - **Class**: 11
 - **Subject**: Physical Education
-- **Source**: https://byjus.com/cbse/cbse-class-11-physical-education-syllabus/
-- **Extracted At**: 2026-01-28T16:14:59.414551
+- **Source**: https://byjus.com/cbse-class-11-physical-education-syllabus/
+- **Extracted At**: 2026-01-28T18:30:43.360970
 
 ## Topics
 

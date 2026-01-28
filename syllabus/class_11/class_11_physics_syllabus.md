@@ -5,7 +5,7 @@
 - **Class**: 11
 - **Subject**: Physics
 - **Source**: https://byjus.com/cbse/class-11-physics-syllabus/
-- **Extracted At**: 2026-01-28T17:53:25.283622
+- **Extracted At**: 2026-01-28T18:30:28.289101
 
 ## Marking Scheme
 

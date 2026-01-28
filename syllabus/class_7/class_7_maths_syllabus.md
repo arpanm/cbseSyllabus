@@ -5,7 +5,7 @@
 - **Class**: 7
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-7-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:52:15.382861
+- **Extracted At**: 2026-01-28T18:29:49.893566
 
 ## Syllabus Structure
 

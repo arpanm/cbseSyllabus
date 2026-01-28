@@ -5,7 +5,7 @@
 - **Class**: 8
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-8-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:52:31.049041
+- **Extracted At**: 2026-01-28T18:29:58.282957
 
 ## Syllabus Structure
 

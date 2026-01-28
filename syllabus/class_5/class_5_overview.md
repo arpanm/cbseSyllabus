@@ -4,7 +4,7 @@
 
 - **Class**: 5
 - **Source**: https://byjus.com/cbse/cbse-class-5th-syllabus/
-- **Extracted At**: 2026-01-28T17:50:54.477190
+- **Extracted At**: 2026-01-28T18:28:42.874428
 
 ## Detailed Content
 

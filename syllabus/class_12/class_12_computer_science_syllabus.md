@@ -4,8 +4,8 @@
 
 - **Class**: 12
 - **Subject**: Computer Science
-- **Source**: https://byjus.com/cbse/cbse-class-12-computer-science-syllabus/
-- **Extracted At**: 2026-01-28T16:15:23.693004
+- **Source**: https://byjus.com/cbse-class-12-computer-science-syllabus/
+- **Extracted At**: 2026-01-28T18:31:01.907294
 
 ## Marking Scheme
 

@@ -5,7 +5,7 @@
 - **Class**: 9
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-9-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:52:47.831554
+- **Extracted At**: 2026-01-28T18:30:06.168139
 
 ## Marking Scheme
 

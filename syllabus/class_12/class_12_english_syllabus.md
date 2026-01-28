@@ -4,8 +4,8 @@
 
 - **Class**: 12
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-12-english-syllabus/
-- **Extracted At**: 2026-01-28T16:15:11.852559
+- **Source**: https://byjus.com/cbse-class-12-english-syllabus/
+- **Extracted At**: 2026-01-28T18:30:52.507390
 
 ## Topics
 

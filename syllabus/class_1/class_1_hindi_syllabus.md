@@ -5,7 +5,7 @@
 - **Class**: 1
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-1-hindi-syllabus/
-- **Extracted At**: 2026-01-28T17:51:18.851701
+- **Extracted At**: 2026-01-28T18:29:03.600118
 
 ## Detailed Content
 

@@ -5,7 +5,7 @@
 - **Class**: 11
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-11-maths-syllabus/
-- **Extracted At**: 2026-01-28T17:53:22.588204
+- **Extracted At**: 2026-01-28T18:30:25.326159
 
 ## Marking Scheme
 

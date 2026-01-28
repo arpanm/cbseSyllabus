@@ -5,7 +5,7 @@
 - **Class**: 11
 - **Subject**: Economics
 - **Source**: https://byjus.com/cbse/class-11-economics-syllabus/
-- **Extracted At**: 2026-01-28T17:53:40.994056
+- **Extracted At**: 2026-01-28T18:30:37.225046
 
 ## Marking Scheme
 

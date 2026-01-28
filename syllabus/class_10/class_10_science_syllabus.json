@@ -1,35 +1,107 @@
 {
-  "url": "https://byjus.com/cbse/class-10-science-syllabus/",
+  "url": "https://byjus.com/cbse/cbse-class-10-science-syllabus/",
   "title": "",
   "description": "",
-  "units": [],
+  "units": [
+    {
+      "headers": [
+        "Units",
+        "Unit Names",
+        "Sections"
+      ],
+      "rows": [
+        [
+          "I",
+          "Chemical Substances – Nature and Behaviour",
+          "Chemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds"
+        ],
+        [
+          "II",
+          "World of Living",
+          "Life ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution"
+        ],
+        [
+          "III",
+          "Natural Phenomena",
+          "Reflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism"
+        ],
+        [
+          "IV",
+          "Effects of Current",
+          "Electric Current, Potential Difference and Electric CurrentMagnetic Effects of Current"
+        ],
+        [
+          "V",
+          "Natural Resources",
+          "Our Environment"
+        ]
+      ]
+    }
+  ],
   "chapters": [],
   "topics": [
-    "Chapter 1: Laws of Motion",
-    "Chapter 2: Optics",
-    "Chapter 3: Thermal Physics",
-    "Chapter 4: Electricity",
-    "Chapter 5: Acoustics",
-    "Chapter 6: Nuclear Physics",
-    "Chapter 7: Atoms and Molecules",
-    "Chapter 8: Periodic Classification of Elements",
-    "Chapter 9: Solutions",
-    "Chapter 10: Types of Chemical Reactions",
-    "Chapter 11: Carbon and Its Compounds",
-    "Chapter 12: Plant Anatomy and Plant Physiology",
-    "Chapter 13:  Structural Organization of Animals",
-    "Chapter 14:  Transportation in Plants and Circulation in Animals",
-    "Chapter 15:  Nervous System",
-    "Chapter 16:  Plant and Animal Hormones",
-    "Chapter 17:  Reproduction in Plants and Animals",
-    "Chapter 18:  Heredity",
-    "Chapter 19:  Origin and Evolution of Life",
-    "Chapter 20:  Breeding and Biotechnology",
-    "Chapter 21:  Health and Diseases",
-    "Chapter 22: Environmental Management",
-    "Chapter 23:  Visual Communication"
+    "Periodic Assessment – 5 marks + 5 marks",
+    "Subject Enrichment (Practical Work) – 05 marks",
+    "Portfolio – 05 marks",
+    "Litmus solution (Blue/Red)",
+    "Zinc metal",
+    "Solid sodium carbonate",
+    "ZnSO4(aq)",
+    "FeSO4(aq)",
+    "CuSO4(aq)",
+    "Al2(SO4)3(aq)"
   ],
-  "marking_scheme": [],
-  "raw_content": "The State Board School Examinations (Sec.) & Board of Higher Secondary Examinations (TN Board devises theTN Class 10 syllabusfor Science. Samacheer Kalvi Tamil Nadu State Board Science Syllabus for Class 10 students helps to plan their course of study. As Science requires students to have practical knowledge along with theoretical, it becomes a necessity to have the Samacheer Kalvi Tamil Nadu State Board Class 10 Science Syllabus handy. The Tamil Nadu Board 10th Class Syllabus of Science gives the learner a clear picture of the topics learnt and their applications so that students can draw lines and keep track.\nKnowing the TN Board Class 10 Science Syllabus is the best way for the students to prepare more diligently for the exams. Here, in this article below, find the details of the latestTN Board SSLCClass 10 Science Syllabus.\nSamacheer Kalvi TN Board Class 10 Science Syllabus 2022-23\nHere is the updatedTN Board syllabusfor Class 10 Science.\nChapter 1: Laws of Motion\nChapter 2: Optics\nChapter 3: Thermal Physics\nChapter 4: Electricity\nChapter 5: Acoustics\nChapter 6: Nuclear Physics\nChapter 7: Atoms and Molecules\nChapter 8: Periodic Classification of Elements\nChapter 9: Solutions\nChapter 10: Types of Chemical Reactions\nChapter 11: Carbon and Its Compounds\nChapter 12: Plant Anatomy and Plant Physiology\nChapter 13:  Structural Organization of Animals\nChapter 14:  Transportation in Plants and Circulation in Animals\nChapter 15:  Nervous System\nChapter 16:  Plant and Animal Hormones\nChapter 17:  Reproduction in Plants and Animals\nChapter 18:  Heredity\nChapter 19:  Origin and Evolution of Life\nChapter 20:  Breeding and Biotechnology\nChapter 21:  Health and Diseases\nChapter 22: Environmental Management\nChapter 23:  Visual Communication\nFollowing is the earlier version of Tamil Nadu Syllabus for class 10 – Science:\nScience SyllabusPhysicsMeasuring MeasurementsLaws of Motion and GravitationElectricity and EnergyMagnetic effect of electric current and lightChemistrySolutionsAtoms and MoleculesChemical reactionsPeriodic classification of elementsCarbon and its compoundsBiologyHeredity and evolutionImmune systemStructure and functions of human body organ systemsReproduction in plantsRepresentative study of mammalsLife ProcessesConservation of environmentWastewater management\nScience Syllabus\nScience Syllabus\nPhysicsMeasuring Measurements\nPhysics\nMeasuring Measurements\nLaws of Motion and Gravitation\nLaws of Motion and Gravitation\nElectricity and Energy\nElectricity and Energy\nMagnetic effect of electric current and light\nMagnetic effect of electric current and light\nChemistrySolutions\nChemistry\nSolutions\nAtoms and Molecules\nAtoms and Molecules\nChemical reactions\nChemical reactions\nPeriodic classification of elements\nPeriodic classification of elements\nCarbon and its compounds\nCarbon and its compounds\nBiologyHeredity and evolution\nBiology\nHeredity and evolution\nImmune system\nImmune system\nStructure and functions of human body organ systems\nStructure and functions of human body organ systems\nReproduction in plants\nReproduction in plants\nRepresentative study of mammals\nRepresentative study of mammals\nLife Processes\nLife Processes\nConservation of environment\nConservation of environment\nWastewater management\nWastewater management\nRegister with BYJU’S to get the latest updates from theTN Boardand find interesting study materials like interactive Science videos, sample question papers and more.",
-  "extracted_at": "2026-01-28T17:53:16.030872"
+  "marking_scheme": [
+    {
+      "headers": [
+        "Units",
+        "Topics",
+        "Marks"
+      ],
+      "rows": [
+        [
+          "I",
+          "Chemical Substances – Nature and Behaviour",
+          "25"
+        ],
+        [
+          "II",
+          "World of Living",
+          "25"
+        ],
+        [
+          "III",
+          "Natural Phenomena",
+          "12"
+        ],
+        [
+          "IV",
+          "Effects of Current",
+          "13"
+        ],
+        [
+          "V",
+          "Natural Resources",
+          "05"
+        ],
+        [
+          "",
+          "Total",
+          "80"
+        ],
+        [
+          "",
+          "Internal Assessment",
+          "20"
+        ],
+        [
+          "",
+          "Grand Total",
+          "100"
+        ]
+      ]
+    }
+  ],
+  "raw_content": "CBSE Syllabus for Class 10 Sciencefor the academic year 2023-24 has been released by the CBSE Board. Class 10 is one of the most challenging years of a student’s life as they will be appearing for their first board exams. CBSE 10th Science syllabus for the academic year 2023-24 is compiled following the guidelines laid down by the Board. There are not many changes in the CBSE Class 10 Science syllabus for the academic year 2023-24 when compared with the 2022-23 syllabus. Therefore, download the direct link to the CBSE syllabus for Class 10 Science provided in this article. The annual exams will be conducted in accordance with the CBSE Science syllabus.\nStudents should go through the CBSE Class 10 Science Syllabus to learn about units, topics and marks allotted for each unit for better exam preparation. TheCBSE Syllabusalso includes details about practicals, assignments and projects so that students can understand the concept they are learning effectively. CBSE syllabus for Class 10 Science is designed in such a way that it helps students to plan their study plan according to the board exams. Students can download and follow CBSE Class 10 Science syllabus PDF to learn and prepare for the exams in a systematic way.\nCBSE Class 10 Science Syllabus 2023-24\nCBSE Syllabus for Class 10 Science is available for download in PDF for the 2023-24 academic year. The Board has released the Class 10 Science Syllabus and restored the original year-end exam. Students can access the CBSE Class 10 Science Syllabus for 2023- 24 by clicking on the PDF link below.\nCBSE Class 10 Science Syllabus 2023-24 PDF\nDownload PDF\nCBSE 10th Science Syllabus 2023-24\nBelow you will find the unit-wise Science syllabus for Class 10 students.\nUnitsUnit NamesSectionsIChemical Substances – Nature and BehaviourChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon CompoundsIIWorld of LivingLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and EvolutionIIINatural PhenomenaReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a PrismIVEffects of CurrentElectric Current, Potential Difference and Electric CurrentMagnetic Effects of CurrentVNatural ResourcesOur Environment\nUnitsUnit NamesSections\nUnits\nUnit Names\nSections\nIChemical Substances – Nature and BehaviourChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds\nChemical Substances – Nature and Behaviour\nChemical ReactionsAcids, Bases and SaltsMetals and Non-metalsCarbon Compounds\nAcids, Bases and Salts\nMetals and Non-metals\nCarbon Compounds\nIIWorld of LivingLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution\nWorld of Living\nLife ProcessesControl and Co-ordination in Animals and PlantsReproductionHeredity and Evolution\nControl and Co-ordination in Animals and Plants\nReproduction\nHeredity and Evolution\nIIINatural PhenomenaReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism\nIII\nNatural Phenomena\nReflection of Light by Curved SurfacesRefractionRefraction of Light by Spherical LensRefraction of Light Through a Prism\nRefraction\nRefraction of Light by Spherical Lens\nRefraction of Light Through a Prism\nIVEffects of CurrentElectric Current, Potential Difference and Electric CurrentMagnetic Effects of Current\nEffects of Current\nElectric Current, Potential Difference and Electric CurrentMagnetic Effects of Current\nMagnetic Effects of Current\nVNatural ResourcesOur Environment\nNatural Resources\nOur Environment\nCBSE Class 10 Science Syllabus: Course Structure 2023-24 With Marking Scheme\nAs students can see in the table below that the Class 10 CBSE Science Syllabus is divided into 5 units, with units 1 and 2 carrying the higher weightage among all.\nUnitsTopicsMarksIChemical Substances – Nature and Behaviour25IIWorld of Living25IIINatural Phenomena12IVEffects of Current13VNatural Resources05Total80Internal Assessment20Grand Total100\nUnitsTopicsMarks\nUnits\nTopics\nMarks\nIChemical Substances – Nature and Behaviour25\nChemical Substances – Nature and Behaviour\nIIWorld of Living25\nWorld of Living\nIIINatural Phenomena12\nIII\nNatural Phenomena\nIVEffects of Current13\nEffects of Current\nVNatural Resources05\nNatural Resources\nTotal80\nTotal\nInternal Assessment20\nInternal Assessment\nGrand Total100\nGrand Total\n100\nStudents can also check the syllabus for all the subjects of Class 10 by clicking onCBSE Syllabus for Class 10page.\nCBSE Class 10 Science Syllabus: Question Paper Design (Theory)\nMaximum Marks:80 Marks\nThe CBSE 10th Science Syllabus covers the following assessment areas.\nCompetenciesTotalDemonstrate Knowledge and Understanding46%Application of Knowledge/Concepts22%Analyze, Evaluate and Create32%Total100%\nCompetenciesTotal\nCompetencies\nTotal\nDemonstrate Knowledge and Understanding46%\nDemonstrate Knowledge and Understanding\n46%\nApplication of Knowledge/Concepts22%\nApplication of Knowledge/Concepts\n22%\nAnalyze, Evaluate and Create32%\nAnalyze, Evaluate and Create\n32%\nTotal100%\nTotal\n100%\nInternal Assessment (20 Marks)\nThe internal assessment for the CBSE 10th Science Syllabus consists of 20 marks.\nPeriodic Assessment – 5 marks + 5 marks\nSubject Enrichment (Practical Work) – 05 marks\nPortfolio – 05 marks\nTo get all the study material related to class 10, visit theCBSE Class 10page.\nClass 10 CBSE Science Syllabus for Practicals\nAs internal assessment consists of a total of 20 marks so, students should not ignore the importance of practicals. Along with the theory CBSE Syllabus for Class 10 Science, they should also focus on practicals as well. This will help them score high marks and understand the theoretical concepts by practically performing the experiments. So, here we have provided the CBSE Class 10 Science Practical syllabus for students. They can also download theCBSE Class 10 Science Practicals.\nList of Unit-wise Class 10 Science Experiments\nThe experiment list provides an idea of new Science projects a list of experiments and activities. So, students must go through this Practical CBSE Syllabus for Class 10 Science.\nCBSE Class 10 Science Practical Syllabus\nUnit I\n1. A. Finding the pH of the following samples by using pH paper/universal indicator(i) Dilute Hydrochloric Acid(ii) Dilute NaOH solution(iii) Dilute Ethanoic Acid solution(iv) Lemon juice(v) Water(vi) Dilute Hydrogen Carbonate solution\nB. Studying the properties of acids and bases (HCl & NaOH) on the basis of their reaction with:\nLitmus solution (Blue/Red)\nZinc metal\nSolid sodium carbonate\n2. Performing and observing the following reactions and classifying them into:\nA. Combination reactionB. Decomposition reactionC. Displacement reactionD. Double displacement reaction\ni) Action of water on quicklimeii) Action of heat on ferrous sulphate crystalsiii) Iron nails kept in copper sulphate solutioniv) Reaction between sodium sulphate and barium chloride solutions\n3. A. Observing the action of Zn, Fe, Cu and Al metals on the following salt solutions:\nZnSO4(aq)\nFeSO4(aq)\nCuSO4(aq)\nAl2(SO4)3(aq)\nB. Arranging Zn, Fe, Cu and Al (metals) in the decreasing order of reactivity based on the above result.\n4. Study of the following properties of acetic acid (ethanoic acid)\ni) Odourii) solubility in wateriii) effect on litmusiv) reaction with Sodium Hydrogen Carbonate\n5. Study of the comparative cleaning capacity of a sample of soap in soft and hard water.\nUnit II\n1. Preparing a temporary mount of a leaf peel to show stomata.\n2. Experimentally show that carbon dioxide is given out during respiration.\n3. Studying (a) binary fission in Amoeba and (b) budding in yeast and Hydra with the help of prepared slides.\n4. Identification of the different parts of an embryo of a dicot seed (Peas, gram or red kidney bean).\nUnit III\n1.  Determination of the focal length of:i) Concave mirrorii) Convex lensby obtaining the image of a distant object.\n2. Tracing the path of a ray of light passing through a rectangular glass slab for different angles of incidence. Measure the angle of incidence, angle of refraction, and angle of emergence and interpret the result.\n3. Tracing the path of the rays of light through a glass prism.\nUnit IV\n1. Studying the dependence of potential difference (V) across a resistor on the current (I) passing through it and determining its resistance. Also, plotting a graph between V and I.\n2. Determination of the equivalent resistance of two resistors when connected in series and parallel.\nFrequently Asked Questions on CBSE Syllabus for Class 10 Science 2023-24Q1How many units are there in the CBSE Class 10 Science Syllabus?There are 5 units in the CBSE Class 10 Science Syllabus, such as World of Living, Chemical Substances – Nature and Behaviour, Natural Phenomena, Natural Resources and Effects of Current.Q2What are the total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus?The total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus is 100, out of which 20 is for internals and 80 is for theory and practicals.Q3How many experiments are there in the CBSE Science Syllabus of Class 10?There are 14 experiments in the CBSE Science Syllabus of Class 10 that must be focused on by the students in order to score maximum marks in the exam.\nFrequently Asked Questions on CBSE Syllabus for Class 10 Science 2023-24\nHow many units are there in the CBSE Class 10 Science Syllabus?\nWhat are the total marks allotted for the final exam according to the CBSE Class 10 Science Syllabus?\nHow many experiments are there in the CBSE Science Syllabus of Class 10?",
+  "extracted_at": "2026-01-28T18:30:19.384819"
 }

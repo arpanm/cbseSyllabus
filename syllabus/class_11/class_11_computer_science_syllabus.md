@@ -4,8 +4,8 @@
 
 - **Class**: 11
 - **Subject**: Computer Science
-- **Source**: https://byjus.com/cbse/cbse-class-11-computer-science-syllabus/
-- **Extracted At**: 2026-01-28T16:14:56.114500
+- **Source**: https://byjus.com/cbse-class-11-computer-science-syllabus/
+- **Extracted At**: 2026-01-28T18:30:41.752892
 
 ## Marking Scheme
 

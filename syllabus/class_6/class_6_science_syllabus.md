@@ -4,86 +4,127 @@
 
 - **Class**: 6
 - **Subject**: Science
-- **Source**: https://byjus.com/cbse/class-6-science-syllabus/
-- **Extracted At**: 2026-01-28T17:52:08.064112
+- **Source**: https://byjus.com/cbse/cbse-class-6-science-syllabus/
+- **Extracted At**: 2026-01-28T18:29:45.398775
 
 ## Syllabus Structure
 
-| Unit | Chapter Name |
+| Unit | Unit Names | Sections |
+| --- | --- | --- |
+| 1 | Food | Sources of foodComponents of foodCleaning food |
+| 2 | Materials | Materials of daily useDifferent kinds of materialsHow things change/ react with one another |
+| 3 | The World of the Living | Things around usThe habitat of the livingPlants – form and functionAnimals – form and function |
+| 4 | Moving Things, People and Ideas | Moving |
+| 5 | How Things Work | Electric current and circuitsMagnets |
+| 6 | Natural Phenomena | Rain, thunder and lightningLight |
+| 7 | Natural Resources | Importance of waterImportance of airWaste |
+
+| Chapter No. | Chapter Name |
 | --- | --- |
-| Unit 1 | Chapter 1 Our Food |
-| Chapter 2 Playing With Magnets |
-| Chapter 3 Rain: Where Does It Come From? |
-| Unit 2 | Chapter 4 What Do Animals Eat? |
-| Chapter 5 Materials And Things |
-| Chapter 6 Habitat |
-| Chapter 7 Separation Of Substances |
-| Unit 3 | Chapter 8 Fibre To Fabric |
-| Chapter 9 Plants: Parts And Functions |
-| Chapter 10 Changes Around U |
-| Chapter 11 Water In Our Life |
-| Chapter 12 Simple Electric Circuits |
-| Unit 4 | Chapter 13 Learning How To Measure |
-| Chapter 14 Movements In Animals |
-| Chapter 15 Light, Shadows And Images |
-|  | Chapter 16 Living And Non Living |
-
-## Topics
-
-- Helps you understand what is expected throughout the course
-- Useful in planning an effective study routine for the exam
+| Chapter 1 | Components of Food |
+| Chapter 2 | Sorting Materials into Groups |
+| Chapter 3 | Separation of Substances |
+| Chapter 4 | Getting to Know Plants |
+| Chapter 5 | Body Movements |
+| Chapter 6 | The Living Organisms and their Surrounding |
+| Chapter 7 | Motion and Measurement of Distances |
+| Chapter 8 | Light, Shadows and Reflections |
+| Chapter 9 | Electricity and Circuits |
+| Chapter 10 | Fun with Magnets |
+| Chapter 11 | Air Around Us |
 
 ## Detailed Content
 
 ```
-The AP Board Science textbooks are developed to facilitate the construction of knowledge jointly, by the teacher and the pupil. The arrangement of chapters in anAP Board Class 6 textbookas per the AP Board Class 6 Science Syllabus is done in a way where it helps teachers keep a track of the learning progress of children.
-AP Board Class 6 Science Syllabus 2021-22
-These chapters include concepts as per the AP Board 6th Class Science Syllabus.  Provided below, is theAP Board syllabus, which is followed for Class 6 Science. Some topics as per the chapters are Our Food, What do Animals eat?, Living and Non-Living and more.
-The AP Board Class 6 syllabus of Science is a student’s tool to navigate his/her way through the course requirements. A few of the benefits of the syllabus are listed below:
-Helps you understand what is expected throughout the course
-Useful in planning an effective study routine for the exam
-To help you score better marks in the exam this time, here, we have provided the complete AP Class 6 Science Syllabus for your reference.
-UnitChapter NameUnit 1Chapter 1 Our FoodChapter 2 Playing With MagnetsChapter 3 Rain: Where Does It Come From?Unit 2Chapter 4 What Do Animals Eat?Chapter 5 Materials And ThingsChapter 6 HabitatChapter 7 Separation Of SubstancesUnit 3Chapter 8 Fibre To FabricChapter 9 Plants: Parts And FunctionsChapter 10 Changes Around UChapter 11 Water In Our LifeChapter 12 Simple Electric CircuitsUnit 4Chapter 13 Learning How To MeasureChapter 14 Movements In AnimalsChapter 15 Light, Shadows And ImagesChapter 16 Living And Non Living
-UnitChapter Name
+CBSE Class 6 Science Syllabusis crucial for the students. It provides an overview of the course curriculum, key concepts, resources and activities on each chapter and topic. Going through theCBSE Syllabus for Class 6, students will get to know what they are expected to understand. The science syllabus is beautifully designed in such a way that it introduces the basic concepts of science and its importance in our daily lives. The topics like food, electricity, circuit, separation of substances, motion and measurement of distance, etc., are included in the syllabus.
+Here we have provided the official CBSE Syllabus for Class 6 Science. They can download the CBSE Class 6 Science Syllabus for 2023-2024 in PDF format from the link provided below. Refer syllabus every time while studying.
+CBSE Class 6 Science Syllabus for 2023-24 Academic Year
+To download the CBSE Syllabus for Class 6 science, click on the link below.
+Download CBSE Class 6 Science Syllabus PDF for 2023-2024
+2023-24 CBSE Class 6 Science Syllabus
+Students can check the topics of the CBSE Class 6 science syllabus given below.
+UnitUnit NamesSections1FoodSources of foodComponents of foodCleaning food2MaterialsMaterials of daily useDifferent kinds of materialsHow things change/ react with one another3The World of the LivingThings around usThe habitat of the livingPlants – form and functionAnimals – form and function4Moving Things, People and IdeasMoving5How Things WorkElectric current and circuitsMagnets6Natural PhenomenaRain, thunder and lightningLight7Natural ResourcesImportance of waterImportance of airWaste
+UnitUnit NamesSections
 Unit
+Unit Names
+Sections
+1FoodSources of foodComponents of foodCleaning food
+Food
+Sources of foodComponents of foodCleaning food
+Components of food
+Cleaning food
+2MaterialsMaterials of daily useDifferent kinds of materialsHow things change/ react with one another
+Materials
+Materials of daily useDifferent kinds of materialsHow things change/ react with one another
+Different kinds of materials
+How things change/ react with one another
+3The World of the LivingThings around usThe habitat of the livingPlants – form and functionAnimals – form and function
+The World of the Living
+Things around usThe habitat of the livingPlants – form and functionAnimals – form and function
+The habitat of the living
+Plants – form and function
+Animals – form and function
+4Moving Things, People and IdeasMoving
+Moving Things, People and Ideas
+Moving
+5How Things WorkElectric current and circuitsMagnets
+How Things Work
+Electric current and circuitsMagnets
+Magnets
+6Natural PhenomenaRain, thunder and lightningLight
+Natural Phenomena
+Rain, thunder and lightningLight
+Light
+7Natural ResourcesImportance of waterImportance of airWaste
+Natural Resources
+Importance of waterImportance of airWaste
+Importance of air
+Waste
+CBSE Syllabus for Class 6 Science Chapter Names
+The table below shows the chapter listed in the CBSE Class 6 Science subject. AsCBSE Class 6students can see, there are total 16 chapters in Science.
+Chapter No.Chapter NameChapter 1Components of FoodChapter 2Sorting Materials into GroupsChapter 3Separation of SubstancesChapter 4Getting to Know PlantsChapter 5Body MovementsChapter 6The Living Organisms and their SurroundingChapter 7Motion and Measurement of DistancesChapter 8Light, Shadows and ReflectionsChapter 9Electricity and CircuitsChapter 10Fun with MagnetsChapter 11Air Around Us
+Chapter No.Chapter Name
+Chapter No.
 Chapter Name
-Unit 1Chapter 1 Our Food
-Unit 1
-Chapter 1 Our Food
-Chapter 2 Playing With Magnets
-Chapter 2 Playing With Magnets
-Chapter 3 Rain: Where Does It Come From?
-Chapter 3 Rain: Where Does It Come From?
-Unit 2Chapter 4 What Do Animals Eat?
-Unit 2
-Chapter 4 What Do Animals Eat?
-Chapter 5 Materials And Things
-Chapter 5 Materials And Things
-Chapter 6 Habitat
-Chapter 6 Habitat
-Chapter 7 Separation Of Substances
-Chapter 7 Separation Of Substances
-Unit 3Chapter 8 Fibre To Fabric
-Unit 3
-Chapter 8 Fibre To Fabric
-Chapter 9 Plants: Parts And Functions
-Chapter 9 Plants: Parts And Functions
-Chapter 10 Changes Around U
-Chapter 10 Changes Around U
-Chapter 11 Water In Our Life
-Chapter 11 Water In Our Life
-Chapter 12 Simple Electric Circuits
-Chapter 12 Simple Electric Circuits
-Unit 4Chapter 13 Learning How To Measure
-Unit 4
-Chapter 13 Learning How To Measure
-Chapter 14 Movements In Animals
-Chapter 14 Movements In Animals
-Chapter 15 Light, Shadows And Images
-Chapter 15 Light, Shadows And Images
-Chapter 16 Living And Non Living
-Chapter 16 Living And Non Living
-Stay tuned to BYJU’S to get the latest notification on Andhra State Board exam along with sample papers, exam pattern, marking scheme and more.
+Chapter 1Components of Food
+Chapter 1
+Components of Food
+Chapter 2Sorting Materials into Groups
+Chapter 2
+Sorting Materials into Groups
+Chapter 3Separation of Substances
+Chapter 3
+Separation of Substances
+Chapter 4Getting to Know Plants
+Chapter 4
+Getting to Know Plants
+Chapter 5Body Movements
+Chapter 5
+Body Movements
+Chapter 6The Living Organisms and their Surrounding
+Chapter 6
+The Living Organisms and their Surrounding
+Chapter 7Motion and Measurement of Distances
+Chapter 7
+Motion and Measurement of Distances
+Chapter 8Light, Shadows and Reflections
+Chapter 8
+Light, Shadows and Reflections
+Chapter 9Electricity and Circuits
+Chapter 9
+Electricity and Circuits
+Chapter 10Fun with Magnets
+Chapter 10
+Fun with Magnets
+Chapter 11Air Around Us
+Chapter 11
+Air Around Us
+Student can also find the list of activities, experiments and Science projects inCBSE Class 6 Science Lab Manual. Performing these experiments will help students to understand the practical aspect of the topic. Science is about exploring new things. The more students will do, the more they will know about it. Learning by doing can be achieved through performing experiments.
+Also, accessCBSE Syllabusfor Classes 1 to 12. Learn Maths & Science in an interactive & fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Class 6 Science Syllabus 2023-24Q1How many chapters are there in the CBSE Class 6 Science Syllabus?There are 11 chapters in the CBSE Class 6 Science Syllabus. It is available for all the chapters which can be referred to by the students to ace well in the annual examination.Q2Why is the CBSE Class 6 Science Syllabus for 2023-24 important for the exam?The CBSE Class 6 Science Syllabus for 2023-24 is important for the exam. It can be used by students to get clarity about the concepts which are important for exam preparation.Q3Can I score full marks using the CBSE Class 6 Science Syllabus?Yes, students can score full marks using the CBSE Class 6 Science Syllabus. Apart from the important concepts, students can also find the marks weightage and exam pattern, which is important from the exam point of view.
+Frequently Asked Questions on CBSE Class 6 Science Syllabus 2023-24
+How many chapters are there in the CBSE Class 6 Science Syllabus?
+Why is the CBSE Class 6 Science Syllabus for 2023-24 important for the exam?
+Can I score full marks using the CBSE Class 6 Science Syllabus?
 ```
 
 ---

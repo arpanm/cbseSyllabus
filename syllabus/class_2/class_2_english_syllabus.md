@@ -5,7 +5,7 @@
 - **Class**: 2
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-2-english-syllabus/
-- **Extracted At**: 2026-01-28T17:51:26.853981
+- **Extracted At**: 2026-01-28T18:29:07.532945
 
 ## Detailed Content
 

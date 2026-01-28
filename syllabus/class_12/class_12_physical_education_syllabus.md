@@ -4,8 +4,8 @@
 
 - **Class**: 12
 - **Subject**: Physical Education
-- **Source**: https://byjus.com/cbse/cbse-class-12-physical-education-syllabus/
-- **Extracted At**: 2026-01-28T16:15:26.409549
+- **Source**: https://byjus.com/cbse-class-12-physical-education-syllabus/
+- **Extracted At**: 2026-01-28T18:31:03.344314
 
 ## Marking Scheme
 

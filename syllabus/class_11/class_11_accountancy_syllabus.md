@@ -5,7 +5,7 @@
 - **Class**: 11
 - **Subject**: Accountancy
 - **Source**: https://byjus.com/cbse/class-11-accountancy-syllabus/
-- **Extracted At**: 2026-01-28T17:53:38.443166
+- **Extracted At**: 2026-01-28T18:30:35.393533
 
 ## Marking Scheme
 
