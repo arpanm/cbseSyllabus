@@ -4,8 +4,8 @@
 
 - **Class**: 4
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-4-english-syllabus/
-- **Extracted At**: 2026-01-28T16:12:48.440142
+- **Source**: https://byjus.com/cbse-class-4-english-syllabus/
+- **Extracted At**: 2026-01-28T17:51:45.803523
 
 ## Detailed Content
 

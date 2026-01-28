@@ -4,8 +4,8 @@
 
 - **Class**: 5
 - **Subject**: Hindi
-- **Source**: https://byjus.com/cbse/cbse-class-5-hindi-syllabus/
-- **Extracted At**: 2026-01-28T16:13:04.097985
+- **Source**: https://byjus.com/cbse-class-5-hindi-syllabus/
+- **Extracted At**: 2026-01-28T17:51:55.912300
 
 ## Chapters
 

@@ -4,8 +4,8 @@
 
 - **Class**: 5
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-5-english-syllabus/
-- **Extracted At**: 2026-01-28T16:13:00.532898
+- **Source**: https://byjus.com/cbse-class-5-english-syllabus/
+- **Extracted At**: 2026-01-28T17:51:54.088336
 
 ## Detailed Content
 

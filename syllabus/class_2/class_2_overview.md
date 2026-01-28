@@ -4,7 +4,7 @@
 
 - **Class**: 2
 - **Source**: https://byjus.com/cbse/cbse-class-2-syllabus/
-- **Extracted At**: 2026-01-28T16:11:53.087279
+- **Extracted At**: 2026-01-28T17:50:47.765071
 
 ## Topics
 

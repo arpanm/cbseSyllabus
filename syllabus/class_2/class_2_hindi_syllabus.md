@@ -4,8 +4,8 @@
 
 - **Class**: 2
 - **Subject**: Hindi
-- **Source**: https://byjus.com/cbse/cbse-class-2-hindi-syllabus/
-- **Extracted At**: 2026-01-28T16:12:30.395272
+- **Source**: https://byjus.com/cbse-class-2-hindi-syllabus/
+- **Extracted At**: 2026-01-28T17:51:29.189482
 
 ## Detailed Content
 

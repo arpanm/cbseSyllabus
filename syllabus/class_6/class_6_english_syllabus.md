@@ -4,49 +4,52 @@
 
 - **Class**: 6
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-6-english-syllabus/
-- **Extracted At**: 2026-01-28T16:13:11.878620
+- **Source**: https://byjus.com/cbse/class-6-english-syllabus/
+- **Extracted At**: 2026-01-28T17:52:03.489931
 
 ## Detailed Content
 
 ```
-CBSE syllabus for Class 6 Englishfor the academic year 2023-2024 introduces its students to the basic concepts of English grammar. The Class 6 English syllabus is designed to make the base of the students strong for future studies. The CBSE syllabus of Class 6 English starts with a chapter Noun and ends with a chapter Subject-Verb Agreement. All the chapters included inCBSE Class 6provide basic knowledge of topics related to English grammar. To know the detailed syllabus of Class 6 English syllabus read the detailed information below.
-CBSE Class 6 English Syllabus for 2023-24 Academic Year
-To download the CBSE Class 6 Syllabus for the English language, click on the link below.
-Download CBSE Class 6 English Syllabus PDF 2023-24
-Download PDF
-2023-24 CBSE Class 6 English Syllabus
-CBSE students can now get the latest CBSE Syllabus of Class 6 English 2023-2024 below. They must also practise theunseen passages for Class 6and list ofCBSE essaysto improve their writing section for the English exam.
-CBSE Class 6 English Chapters – Honeysuckle
-Unit 1:Who Did Patrick’s Homework?
-A House, A Home
-Unit 2:How the Dog Found Himself a New Master!
-The Kite
-Unit 3:Taro’s Reward
-The Quarrel
-Unit 4:An Indian – American Woman in Space: Kalpana Chawla
-Beauty
-Unit 5:A Different Kind of School
-Where Do All the Teachers Go?
-Unit 6:Who I Am
-The Wonderful Words
-Unit 7:Fair Play
-Vocation
-Unit 8:The Banyan Tree
-Students can also access theCBSE Class 6 Syllabusfor other subjects to prepare for their annual exams.
-CBSE Class 6 English Chapters – A Pact with the Sun
-Unit 1:A Tale of Two Birds
-Unit 2: The Friendly Mongoose
-Unit 3:The Shepherd’s Treasure
-Unit 4:Tansen
-Unit 5:The Monkey and the Crocodile
-Unit 6:The Wonder Called Sleep
-Unit 7:A Pact with the Sun
-To access the CBSE Syllabus for Classes 1 to 12,visit here. Learn Maths and Science in an interactive and fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Class 6 English Syllabus 2023-24Q1What are the 2 textbooks for the CBSE Class 6 English Syllabus?The 2 textbooks for the CBSE Class 6 English Syllabus are Honeysuckle and A Pact with the Sun.Q2Is the CBSE Class 6 English Syllabus PDF reliable study material?The CBSE Class 6 English Syllabus PDF is a reliable study material which can be used by students who aspire to perform well in their exams.Q3Why should I download the CBSE Class 6 English Syllabus for exam preparation?The CBSE Class 6 English Syllabus must be downloaded by students while preparing for their exams. It has all the details that students should focus on in order to appear for the exam confidently.
-Frequently Asked Questions on CBSE Class 6 English Syllabus 2023-24
-What are the 2 textbooks for the CBSE Class 6 English Syllabus?
-Is the CBSE Class 6 English Syllabus PDF reliable study material?
-Why should I download the CBSE Class 6 English Syllabus for exam preparation?
+The Punjab Board Class 6 English syllabus for the academic year 2021-22 pdf is provided in the table below. The syllabus of English covers the complete course structure, duration of each chapter and topics and sub-topics. While preparing for their exam, they should begin from the syllabus. The study materials of English are prepared according to the syllabus. To score good marks in their exam, students should be thorough with their prescribed syllabus of English PSEB Board Class 6. Access the pdf of English syllabus and download it for future reference.
+Here, in this article, we have provided separate PDF links to access the reduced PSEB Class 6 English Syllabus 2021-22 and details of the portions for the current academic year 2021-22.
+Download PSEB Class 6 English Syllabus 2021-22 PDF
+Students ofPunjab Board Class 6can get the detailed syllabus from below:
+Unit- I Reading Skills
+Three unseen comprehension (passage, picture and dialogue) followed by questions.
+Unit-II (Textbook)
+Lessons
+1. The Farmhouse Cows
+2. The Lake of the Moon
+3. The Giving Tree
+4. The Peacock and the Crow
+5. Playing Kabaddi
+6. Kabuliwala
+7. The Cracked Pot
+8. Rosy’s meeting with Nessy
+Poems
+1. My Furry Friend
+2. How Beautiful is the Rain!
+3. I am Writing a Letter
+4. I am Happy with Who I am
+Unit-III (Grammar & Vocabulary)
+1. Noun
+(i) Noun-Number
+(ii) Noun-Gender
+2. Sounds of animals
+3. Pronouns
+4. Antonyms
+5. Punctuation
+6. Verbs
+7. Preposition
+8. Articles
+9. Adjectives
+10. Conjunction
+11. Tenses
+Unit-IV (Composition)
+1. Letter Writing
+2. Creative writing (Picture composition)
+3. Guided Composition (Bar graph reading)
+4. Telephonic messages
 ```
 
 ---

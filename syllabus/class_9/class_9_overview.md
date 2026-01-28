@@ -4,7 +4,7 @@
 
 - **Class**: 9
 - **Source**: https://byjus.com/cbse/cbse-class-9-syllabus/
-- **Extracted At**: 2026-01-28T16:12:06.998363
+- **Extracted At**: 2026-01-28T17:51:04.063345
 
 ## Topics
 

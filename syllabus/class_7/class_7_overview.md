@@ -4,7 +4,7 @@
 
 - **Class**: 7
 - **Source**: https://byjus.com/cbse/cbse-class-7-syllabus/
-- **Extracted At**: 2026-01-28T16:12:03.493791
+- **Extracted At**: 2026-01-28T17:50:57.961013
 
 ## Detailed Content
 

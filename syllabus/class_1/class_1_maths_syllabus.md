@@ -4,8 +4,8 @@
 
 - **Class**: 1
 - **Subject**: Maths
-- **Source**: https://byjus.com/cbse/cbse-class-1-maths-syllabus/
-- **Extracted At**: 2026-01-28T16:12:14.971137
+- **Source**: https://byjus.com/cbse-class-1-maths-syllabus/
+- **Extracted At**: 2026-01-28T17:51:15.694087
 
 ## Topics
 

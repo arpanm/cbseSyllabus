@@ -4,8 +4,8 @@
 
 - **Class**: 3
 - **Subject**: English
-- **Source**: https://byjus.com/cbse/cbse-class-3-english-syllabus/
-- **Extracted At**: 2026-01-28T16:12:36.544252
+- **Source**: https://byjus.com/cbse-class-3-english-syllabus/
+- **Extracted At**: 2026-01-28T17:51:34.940408
 
 ## Detailed Content
 

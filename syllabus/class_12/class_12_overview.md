@@ -4,7 +4,7 @@
 
 - **Class**: 12
 - **Source**: https://byjus.com/cbse/cbse-class-12-syllabus/
-- **Extracted At**: 2026-01-28T16:12:13.031193
+- **Extracted At**: 2026-01-28T17:51:12.653996
 
 ## Topics
 

@@ -4,90 +4,75 @@
 
 - **Class**: 8
 - **Subject**: Science
-- **Source**: https://byjus.com/cbse/cbse-class-8-science-syllabus/
-- **Extracted At**: 2026-01-28T16:13:54.767960
+- **Source**: https://byjus.com/cbse/class-8-science-syllabus/
+- **Extracted At**: 2026-01-28T17:52:40.047419
 
-## Syllabus Structure
+## Topics
 
-| Unit | Unit Name | Sections |
-| --- | --- | --- |
-| 1 | Food | Crop productionMicro-organisms |
-| 2 | Material | Materials in daily lifeDifferent kinds of materials and their reactionsHow things change/ react with one another |
-| 3 | The World of the Living | Why ConserveThe CellHow Babies are formed |
-| 4 | Moving Things, People and Ideas | Idea of ForceFrictionPressureSound |
-| 5 | How Things Work | Electric Current and Circuits |
-| 6 | Natural Phenomena | Rain, Thunder and LighteningLightNight SkyEarthquakes |
-| 7 | Natural Resources | Man’s intervention in phenomena of naturePollution of air and water |
+- Better competencies in making observations.
+- Engage in discussions.
+- Formulate ideas.
+- Conduct experiments and draw suitable conclusions.
 
 ## Detailed Content
 
 ```
-CBSE Class 8 Science Syllabusis beneficial to the students who are preparing for their examinations. The CBSE Syllabus for Class 8 Science is designed by a team of experts after thorough research. Students must refer to the syllabus every time whenever they study. Knowing theCBSE Syllabushelps them to study the topics as per the exams. Moreover, they get to know the weightage of each unit of Science subject.
-CBSE Class 8 Science Syllabus for 2023-24 Academic Year
-To download the CBSE Class 8 Science Syllabus for students, click on the link given below.
-Download CBSE Class 8 Science Syllabus PDF 2023-24
-Download PDF
-2023-24 CBSE Class 8 Science Syllabus
-TheCBSE Class 8 Syllabusfor 2023-24 contains the following topics and sub-topics in Science. Students can find the complete detail of these topics, which also covers the questions, key concepts, resources, and activities/processes from the syllabus PDF.
-UnitUnit NameSections1FoodCrop productionMicro-organisms2MaterialMaterials in daily lifeDifferent kinds of materials and their reactionsHow things change/ react with one another3The World of the LivingWhy ConserveThe CellHow Babies are formed4Moving Things, People and IdeasIdea of ForceFrictionPressureSound5How Things WorkElectric Current and Circuits6Natural PhenomenaRain, Thunder and LighteningLightNight SkyEarthquakes7Natural ResourcesMan’s intervention in phenomena of naturePollution of air and water
-UnitUnit NameSections
-Unit
-Unit Name
-Sections
-1FoodCrop productionMicro-organisms
-Food
-Crop productionMicro-organisms
-Micro-organisms
-2MaterialMaterials in daily lifeDifferent kinds of materials and their reactionsHow things change/ react with one another
-Material
-Materials in daily lifeDifferent kinds of materials and their reactionsHow things change/ react with one another
-Different kinds of materials and their reactions
-How things change/ react with one another
-3The World of the LivingWhy ConserveThe CellHow Babies are formed
-The World of the Living
-Why ConserveThe CellHow Babies are formed
-The Cell
-How Babies are formed
-4Moving Things, People and IdeasIdea of ForceFrictionPressureSound
-Moving Things, People and Ideas
-Idea of ForceFrictionPressureSound
-Friction
-Pressure
-Sound
-5How Things WorkElectric Current and Circuits
-How Things Work
-Electric Current and Circuits
-6Natural PhenomenaRain, Thunder and LighteningLightNight SkyEarthquakes
-Natural Phenomena
-Rain, Thunder and LighteningLightNight SkyEarthquakes
-Light
-Night Sky
-Earthquakes
-7Natural ResourcesMan’s intervention in phenomena of naturePollution of air and water
-Natural Resources
-Man’s intervention in phenomena of naturePollution of air and water
-Pollution of air and water
-CBSE Syllabus for Class 8 Science Chapter Names
-Based on the above-mentioned CBSE Class 8 Syllabus topics, these chapters are provided in NCERT Class 8 Science textbook. Students must study these chapters in order to cover the Science Syllabus of Class 8.
-Chapter 1:Crop Production and Management
-Chapter 2:Microorganisms: Friend and Foe
-Chapter 3:Coal and Petroleum
-Chapter 4:Combustion and Flame
-Chapter 5:Conservation of Plants and Animals
-Chapter 6:Reproduction in Animals
-Chapter 7:Reaching the Age of Adolescence
-Chapter 8:Force and Pressure
-Chapter 9:Friction
-Chapter 10:Sound
-Chapter 11:Chemical Effects of Electric Current
-Chapter 12:Some Natural Phenomena
-Chapter 13:Light
-Along with learning theoretical concepts in science, it’s important that students also perform activities and experiments and create projects. This will build their interest in science and also help them understand the practical application.Class 6 to 8 Science Lab Manualwill help students in creating the Science project by providing them with guidelines.
-To learn Maths & Science in an interactive &  interesting way, download BYJU’S App.Frequently Asked Questions on CBSE Class 8 Science Syllabus 2023-24Q1What are the units in the CBSE Science Syllabus for Class 8?The units in the CBSE Science Class 8 Syllabus are materials, food, material, the world of the living, moving things, people and ideas, natural resources, how things work and natural phenomena.Q2In the Class 8 CBSE Science Syllabus for 2023-24, how many chapters are explained?In the Class 8 CBSE Science Syllabus for 2023-24, there are 18 chapters. Students can find precise answers for the chapters in PDF format free of cost.Q3Why should I use the CBSE Class 8 Science Syllabus?Before beginning with the CBSE exam preparation, syllabus PDF is an important tool to be used by students for a good score.
-Frequently Asked Questions on CBSE Class 8 Science Syllabus 2023-24
-What are the units in the CBSE Science Syllabus for Class 8?
-In the Class 8 CBSE Science Syllabus for 2023-24, how many chapters are explained?
-Why should I use the CBSE Class 8 Science Syllabus?
+The Andhra Pradesh Board Class 8 Science syllabus has been set by the officials and experts to help students develop the right knowledge, skills and attitudes as well as understand several basic concepts of Chemistry, Physics and Biology. The topics have been chosen carefully and included in theAP Board syllabus, so that students can enhance their logical thinking and at the same time have a practical approach to the concepts.
+AP Board Class 8 Science Syllabus 2021-22
+The AP Board Class 8 Science syllabus further has been designed to help students develop;
+Better competencies in making observations.
+Engage in discussions.
+Formulate ideas.
+Conduct experiments and draw suitable conclusions.
+Having said that, students can go through the syllabus and learn about the important topics. They will further get a clear idea of what topics to focus on, allocate proper time and devise a strong preparation strategy. Topics covered in the Physical Science section of the syllabus are Force, Coal and Petroleum, Sound and more, while Biological Science section consists of What is Science, Why do we fall ill and so on.
+Students can take a look at the 8th Class syllabus below;
+Physical ScienceChapter 1 ForceChapter 2 FrictionChapter 3 Synthetic Fibres And PlasticsChapter 4 Metals And Non-metalsChapter 5 Coal And PetroleumChapter 6 Combustion, Fuels And FlameChapter 7 Electric Conductivity Of LiquidsChapter 8 Some Natural PhenomenaChapter 9 Stars And Solar SystemChapter 10 Sound
+Physical Science
+Physical Science
+Chapter 1 Force
+Chapter 1 Force
+Chapter 2 Friction
+Chapter 2 Friction
+Chapter 3 Synthetic Fibres And Plastics
+Chapter 3 Synthetic Fibres And Plastics
+Chapter 4 Metals And Non-metals
+Chapter 4 Metals And Non-metals
+Chapter 5 Coal And Petroleum
+Chapter 5 Coal And Petroleum
+Chapter 6 Combustion, Fuels And Flame
+Chapter 6 Combustion, Fuels And Flame
+Chapter 7 Electric Conductivity Of Liquids
+Chapter 7 Electric Conductivity Of Liquids
+Chapter 8 Some Natural Phenomena
+Chapter 8 Some Natural Phenomena
+Chapter 9 Stars And Solar System
+Chapter 9 Stars And Solar System
+Chapter 10 Sound
+Chapter 10 Sound
+BiologyChapter 1 What is Science?Chapter 2 Cell – The Basic Unit Of LifeChapter 3 Story Of Micro-organismsChapter 4 Reproduction In AnimalsChapter 5 Reaching The Age Of AdolescenceChapter 6 Different EcosystemsChapter 7 Food Production In Plants: Methods Of ManagementChapter 8 Food Production In AnimalsChapter 9 Not For Drink Not For BreathChapter 10 Why Do We Fall ill
+Biology
+Biology
+Chapter 1 What is Science?
+Chapter 1 What is Science?
+Chapter 2 Cell – The Basic Unit Of Life
+Chapter 2 Cell – The Basic Unit Of Life
+Chapter 3 Story Of Micro-organisms
+Chapter 3 Story Of Micro-organisms
+Chapter 4 Reproduction In Animals
+Chapter 4 Reproduction In Animals
+Chapter 5 Reaching The Age Of Adolescence
+Chapter 5 Reaching The Age Of Adolescence
+Chapter 6 Different Ecosystems
+Chapter 6 Different Ecosystems
+Chapter 7 Food Production In Plants: Methods Of Management
+Chapter 7 Food Production In Plants: Methods Of Management
+Chapter 8 Food Production In Animals
+Chapter 8 Food Production In Animals
+Chapter 9 Not For Drink Not For Breath
+Chapter 9 Not For Drink Not For Breath
+Chapter 10 Why Do We Fall ill
+Chapter 10 Why Do We Fall ill
+Students can keep visiting BYJU’S to get the latest notifications about AP SSC Board and BIEAP Board along with the exam dates, hall tickets, and more.
 ```
 
 ---

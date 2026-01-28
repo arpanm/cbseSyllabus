@@ -1,288 +1,140 @@
 {
-  "class": 10,
-  "subject": "Mathematics",
-  "board": "CBSE",
-  "academic_year": "2024-25",
-  "total_marks": 80,
-  "internal_assessment": 20,
-  "time_duration": "3 hours",
+  "url": "https://byjus.com/cbse/class-10-maths-syllabus/",
+  "title": "",
+  "description": "",
   "units": [
     {
-      "unit_number": 1,
-      "unit_name": "Number Systems",
-      "marks": 6,
-      "chapters": [
-        {
-          "chapter_number": 1,
-          "chapter_name": "Real Numbers",
-          "topics": [
-            "Fundamental Theorem of Arithmetic",
-            "Euclid's division lemma",
-            "Proofs of irrationality",
-            "Decimal representation of rational numbers"
-          ],
-          "key_formulas": [
-            "HCF × LCM = Product of two numbers"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 2,
-      "unit_name": "Algebra",
-      "marks": 20,
-      "chapters": [
-        {
-          "chapter_number": 2,
-          "chapter_name": "Polynomials",
-          "topics": [
-            "Zeros of a polynomial",
-            "Relationship between zeros and coefficients",
-            "Division algorithm for polynomials"
-          ],
-          "key_formulas": [
-            "Sum of zeros (α + β) = -b/a",
-            "Product of zeros (αβ) = c/a"
-          ]
-        },
-        {
-          "chapter_number": 3,
-          "chapter_name": "Pair of Linear Equations in Two Variables",
-          "topics": [
-            "Graphical method of solution",
-            "Consistency and inconsistency",
-            "Substitution method",
-            "Elimination method",
-            "Cross-multiplication method"
-          ],
-          "key_formulas": [
-            "a₁/a₂ ≠ b₁/b₂: Unique solution",
-            "a₁/a₂ = b₁/b₂ = c₁/c₂: Infinite solutions",
-            "a₁/a₂ = b₁/b₂ ≠ c₁/c₂: No solution"
-          ]
-        },
-        {
-          "chapter_number": 4,
-          "chapter_name": "Quadratic Equations",
-          "topics": [
-            "Standard form ax² + bx + c = 0",
-            "Factorization method",
-            "Completing the square",
-            "Quadratic formula",
-            "Nature of roots using discriminant"
-          ],
-          "key_formulas": [
-            "x = (-b ± √(b²-4ac)) / 2a",
-            "Discriminant D = b² - 4ac",
-            "D > 0: Two distinct real roots",
-            "D = 0: Two equal real roots",
-            "D < 0: No real roots"
-          ]
-        },
-        {
-          "chapter_number": 5,
-          "chapter_name": "Arithmetic Progressions",
-          "topics": [
-            "Definition and examples of AP",
-            "nth term of an AP",
-            "Sum of first n terms",
-            "Applications in daily life"
-          ],
-          "key_formulas": [
-            "aₙ = a + (n-1)d",
-            "Sₙ = n/2[2a + (n-1)d]",
-            "Sₙ = n/2(a + l)"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 3,
-      "unit_name": "Coordinate Geometry",
-      "marks": 6,
-      "chapters": [
-        {
-          "chapter_number": 6,
-          "chapter_name": "Coordinate Geometry",
-          "topics": [
-            "Distance formula",
-            "Section formula",
-            "Area of triangle using coordinates",
-            "Collinearity of points"
-          ],
-          "key_formulas": [
-            "Distance = √[(x₂-x₁)² + (y₂-y₁)²]",
-            "Section formula: ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
-            "Midpoint: ((x₁+x₂)/2, (y₁+y₂)/2)",
-            "Area = ½|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 4,
-      "unit_name": "Geometry",
-      "marks": 15,
-      "chapters": [
-        {
-          "chapter_number": 7,
-          "chapter_name": "Triangles",
-          "topics": [
-            "Similar triangles",
-            "Basic Proportionality Theorem (BPT)",
-            "Criteria for similarity (AAA, SSS, SAS)",
-            "Areas of similar triangles",
-            "Pythagoras Theorem",
-            "Converse of Pythagoras Theorem"
-          ],
-          "key_theorems": [
-            "BPT: Line parallel to one side divides other two sides proportionally",
-            "Ratio of areas = Ratio of squares of corresponding sides",
-            "Pythagoras: a² + b² = c²"
-          ]
-        },
-        {
-          "chapter_number": 8,
-          "chapter_name": "Circles",
-          "topics": [
-            "Tangent to a circle",
-            "Properties of tangents",
-            "Tangent-radius perpendicularity",
-            "Equal tangents from external point"
-          ],
-          "key_theorems": [
-            "Tangent is perpendicular to radius at point of contact",
-            "Tangents from external point are equal in length"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 5,
-      "unit_name": "Trigonometry",
-      "marks": 12,
-      "chapters": [
-        {
-          "chapter_number": 9,
-          "chapter_name": "Introduction to Trigonometry",
-          "topics": [
-            "Trigonometric ratios",
-            "Values of ratios for standard angles",
-            "Trigonometric identities",
-            "Complementary angles"
-          ],
-          "key_formulas": [
-            "sin²A + cos²A = 1",
-            "sec²A - tan²A = 1",
-            "cosec²A - cot²A = 1",
-            "sin(90°-A) = cosA",
-            "cos(90°-A) = sinA"
-          ],
-          "trigonometric_values": {
-            "0°": {"sin": 0, "cos": 1, "tan": 0},
-            "30°": {"sin": "1/2", "cos": "√3/2", "tan": "1/√3"},
-            "45°": {"sin": "1/√2", "cos": "1/√2", "tan": 1},
-            "60°": {"sin": "√3/2", "cos": "1/2", "tan": "√3"},
-            "90°": {"sin": 1, "cos": 0, "tan": "undefined"}
-          }
-        },
-        {
-          "chapter_number": 10,
-          "chapter_name": "Some Applications of Trigonometry",
-          "topics": [
-            "Angle of elevation",
-            "Angle of depression",
-            "Heights and distances problems"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 6,
-      "unit_name": "Mensuration",
-      "marks": 10,
-      "chapters": [
-        {
-          "chapter_number": 11,
-          "chapter_name": "Areas Related to Circles",
-          "topics": [
-            "Area of sector",
-            "Area of segment",
-            "Length of arc",
-            "Combined figures"
-          ],
-          "key_formulas": [
-            "Area of sector = (θ/360°) × πr²",
-            "Length of arc = (θ/360°) × 2πr",
-            "Area of segment = Area of sector - Area of triangle"
-          ]
-        },
-        {
-          "chapter_number": 12,
-          "chapter_name": "Surface Areas and Volumes",
-          "topics": [
-            "Combination of solids",
-            "Conversion of solids",
-            "Frustum of a cone"
-          ],
-          "key_formulas": [
-            "Cylinder: V = πr²h, TSA = 2πr(r+h)",
-            "Cone: V = (1/3)πr²h, TSA = πr(l+r)",
-            "Sphere: V = (4/3)πr³, SA = 4πr²",
-            "Hemisphere: V = (2/3)πr³, CSA = 2πr²"
-          ]
-        }
-      ]
-    },
-    {
-      "unit_number": 7,
-      "unit_name": "Statistics and Probability",
-      "marks": 11,
-      "chapters": [
-        {
-          "chapter_number": 13,
-          "chapter_name": "Statistics",
-          "topics": [
-            "Mean of grouped data",
-            "Median of grouped data",
-            "Mode of grouped data",
-            "Direct method",
-            "Assumed mean method"
-          ],
-          "key_formulas": [
-            "Mean (Direct): x̄ = Σfᵢxᵢ/Σfᵢ",
-            "Median: l + [(n/2 - cf)/f] × h",
-            "Mode: l + [(f₁ - f₀)/(2f₁ - f₀ - f₂)] × h"
-          ]
-        },
-        {
-          "chapter_number": 14,
-          "chapter_name": "Probability",
-          "topics": [
-            "Classical definition",
-            "Probability of events",
-            "Complementary events",
-            "Simple probability problems"
-          ],
-          "key_formulas": [
-            "P(E) = Favorable outcomes / Total outcomes",
-            "P(E) + P(not E) = 1",
-            "0 ≤ P(E) ≤ 1"
-          ]
-        }
+      "headers": [
+        "Units",
+        "Unit Name",
+        "Sections"
+      ],
+      "rows": [
+        [
+          "I",
+          "Number Systems",
+          "Real Number"
+        ],
+        [
+          "II",
+          "Algebra",
+          "PolynomialsPair of Linear Equations in Two VariablesQuadratic EquationsArithmetic Progressions"
+        ],
+        [
+          "III",
+          "Coordinate Geometry",
+          "Coordinate Geometry"
+        ],
+        [
+          "IV",
+          "Geometry",
+          "TrianglesCircles"
+        ],
+        [
+          "V",
+          "Trigonometry",
+          "Introduction to TrigonometryTrigonometric IdentitiesHeights and Distances"
+        ],
+        [
+          "VI",
+          "Mensuration",
+          "Areas Related to CirclesSurface Areas and Volumes"
+        ],
+        [
+          "VII",
+          "Statistics and Probability",
+          "StatisticsProbability"
+        ]
       ]
     }
   ],
-  "question_types": {
-    "mcq": {"count": 20, "marks_each": 1},
-    "very_short_answer": {"count": 5, "marks_each": 2},
-    "short_answer": {"count": 6, "marks_each": 3},
-    "long_answer": {"count": 4, "marks_each": 5},
-    "case_study": {"count": 3, "marks_each": 4}
-  },
-  "difficulty_distribution": {
-    "easy": "20%",
-    "medium": "60%",
-    "hard": "20%"
-  }
+  "chapters": [],
+  "topics": [],
+  "marking_scheme": [
+    {
+      "headers": [
+        "Units",
+        "Unit Name",
+        "Marks"
+      ],
+      "rows": [
+        [
+          "I",
+          "Number Systems",
+          "06"
+        ],
+        [
+          "II",
+          "Algebra",
+          "20"
+        ],
+        [
+          "III",
+          "Coordinate Geometry",
+          "06"
+        ],
+        [
+          "IV",
+          "Geometry",
+          "15"
+        ],
+        [
+          "V",
+          "Trigonometry",
+          "12"
+        ],
+        [
+          "VI",
+          "Mensuration",
+          "10"
+        ],
+        [
+          "VII",
+          "Statistics and Probability",
+          "11"
+        ],
+        [
+          "",
+          "Total",
+          "80"
+        ],
+        [
+          "",
+          "Internal Assessment",
+          "20"
+        ],
+        [
+          "",
+          "Grand Total",
+          "100"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Internal Assessment",
+        "Marks"
+      ],
+      "rows": [
+        [
+          "Pen Paper Test and Multiple Assessment (5+5)",
+          "10"
+        ],
+        [
+          "Portfolio",
+          "05"
+        ],
+        [
+          "Lab Practical (Lab activities to be done from the prescribed books)",
+          "05"
+        ],
+        [
+          "Total",
+          "20 Marks"
+        ]
+      ]
+    }
+  ],
+  "raw_content": "CBSE Syllabus for Class 10 Mathsfor the academic year 2023-24 has been released by the CBSE board on their official website. Check out the syllabus for Class 10 students to develop their mathematical skills for better learning outcomes. The new CBSE Class 10 Maths Syllabus  2023-24 will not have many changes when compared to the 2022-23 syllabus. Download CBSE Class 10 Maths syllabus PDF to learn concepts such as Number Systems, Algebra, Coordinate Geometry, Geometry, Trigonometry, Mensuration, and Statistics and Probability.\nCBSE 10th Maths syllabus consists of topics they are going to study for the entire academic year. Also, they will get a clear idea about marks allotted for each unit and the number of periods assigned for the same. All the units mentioned in the syllabus are important as the final question paper is prepared based on theCBSE Syllabus. It also provides information about marks weightage, practicals, assignments, projects, etc.\nMaths is a subject that needs a lot of practice, memorisation of formulas and a clear understanding of mathematical concepts. It is a scoring subject for students of Class 10 if they practice it regularly. Students can download the CBSE syllabus for Class 10 Maths PDF provided in this article. They can also find the course structure, internal assessment, and marks allotment for each unit in the given PDF. ReferringCBSE Class 10 syllabusfor mathematics will help students familiarise themselves with concepts effectively.\nCBSE Class 10 Maths Syllabus for Academic Year 2023-24 PDF\nCBSE Syllabus for Class Maths is prescribed by the CBSE board. Therefore, click on the CBSE 10th Maths Syllabus PDF for Basic and Standard Maths from the direct link given below.\nDownload CBSE Class 10 Maths Syllabus 2023-24 PDF\nDownload PDF\nAfter downloading the CBSE 10th Maths syllabus, students are advised to print it out and paste it into their study room. It will help them keep track of topics they have covered till now. Also, they will focus on investing more time on the concepts they find it challenging to understand by practising regularly.\n2023-24 CBSE Class 10 Maths Syllabus\nUnitsUnit NameSectionsINumber SystemsReal NumberIIAlgebraPolynomialsPair of Linear Equations in Two VariablesQuadratic EquationsArithmetic ProgressionsIIICoordinate GeometryCoordinate GeometryIVGeometryTrianglesCirclesVTrigonometryIntroduction to TrigonometryTrigonometric IdentitiesHeights and DistancesVIMensurationAreas Related to CirclesSurface Areas and VolumesVIIStatistics and ProbabilityStatisticsProbability\nUnitsUnit NameSections\nUnits\nUnit Name\nSections\nINumber SystemsReal Number\nNumber Systems\nReal Number\nIIAlgebraPolynomialsPair of Linear Equations in Two VariablesQuadratic EquationsArithmetic Progressions\nAlgebra\nPolynomialsPair of Linear Equations in Two VariablesQuadratic EquationsArithmetic Progressions\nPair of Linear Equations in Two Variables\nQuadratic Equations\nArithmetic Progressions\nIIICoordinate GeometryCoordinate Geometry\nIII\nCoordinate Geometry\nCoordinate Geometry\nIVGeometryTrianglesCircles\nGeometry\nTrianglesCircles\nCircles\nVTrigonometryIntroduction to TrigonometryTrigonometric IdentitiesHeights and Distances\nTrigonometry\nIntroduction to TrigonometryTrigonometric IdentitiesHeights and Distances\nTrigonometric Identities\nHeights and Distances\nVIMensurationAreas Related to CirclesSurface Areas and Volumes\nMensuration\nAreas Related to CirclesSurface Areas and Volumes\nSurface Areas and Volumes\nVIIStatistics and ProbabilityStatisticsProbability\nVII\nStatistics and Probability\nStatisticsProbability\nProbability\nCBSE Syllabus for Class 10 Maths 2023-24 with Marking Scheme\nAs students can see in the table below, the CBSE 10th Maths syllabus is divided into 7 units. The marks weightage for each unit is also indicated in the table. The CBSE Syllabus for Class 10 Basic Maths and Standard Maths with Marking Scheme is also added in the PDF link provided above.\nUnitsUnit NameMarksINumber Systems06IIAlgebra20IIICoordinate Geometry06IVGeometry15VTrigonometry12VIMensuration10VIIStatistics and Probability11Total80Internal Assessment20Grand Total100\nUnitsUnit NameMarks\nUnits\nUnit Name\nMarks\nINumber Systems06\nNumber Systems\nIIAlgebra20\nAlgebra\nIIICoordinate Geometry06\nIII\nCoordinate Geometry\nIVGeometry15\nGeometry\nVTrigonometry12\nTrigonometry\nVIMensuration10\nMensuration\nVIIStatistics and Probability11\nVII\nStatistics and Probability\nTotal80\nTotal\nInternal Assessment20\nInternal Assessment\nGrand Total100\nGrand Total\n100\nStudents can have a look at the CBSE Class 10 Maths Internal Assessment below.\nInternal AssessmentMarksPen Paper Test and Multiple Assessment (5+5)10Portfolio05Lab Practical (Lab activities to be done from the prescribed books)05Total20 Marks\nInternal AssessmentMarks\nInternal Assessment\nMarks\nPen Paper Test and Multiple Assessment (5+5)10\nPen Paper Test and Multiple Assessment (5+5)\nPortfolio05\nPortfolio\nLab Practical (Lab activities to be done from the prescribed books)05\nLab Practical (Lab activities to be done from the prescribed books)\nTotal20 Marks\nTotal\n20 Marks\nTo practise more questions, download theCBSE Sample Papers for Class 10 Maths. Learn Maths & Science in an interactive & fun-loving way with BYJU’S App/Tablet.Frequently Asked Questions on CBSE Syllabus of Class 10 Maths 2023-24Q1How much time will it take to complete the CBSE Class 10 Maths Syllabus?There is no specific time limit to complete the CBSE Class 10 Maths Syllabus. It can be decided based on the understanding capacity of students and the marks allotted.Q2How many units are present in the CBSE Class 10 Maths Syllabus?There are 7 units in the CBSE Class 10 Maths Syllabus, such as Number Systems, Algebra, Coordinate Geometry, Geometry, Trigonometry, Mensuration, and Statistics and Probability.Q3How many marks are allotted for the internal assessment as per the CBSE Maths Syllabus of Class 10?The marks allotted for the internal assessment as per the CBSE Maths Syllabus of Class 10 is 20.\nFrequently Asked Questions on CBSE Syllabus of Class 10 Maths 2023-24\nHow much time will it take to complete the CBSE Class 10 Maths Syllabus?\nHow many units are present in the CBSE Class 10 Maths Syllabus?\nHow many marks are allotted for the internal assessment as per the CBSE Maths Syllabus of Class 10?",
+  "extracted_at": "2026-01-28T17:53:06.567679"
 }

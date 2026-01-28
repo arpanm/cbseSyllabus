@@ -4,8 +4,8 @@
 
 - **Class**: 3
 - **Subject**: Maths
-- **Source**: https://byjus.com/cbse/cbse-class-3-maths-syllabus/
-- **Extracted At**: 2026-01-28T16:12:34.939051
+- **Source**: https://byjus.com/cbse-class-3-maths-syllabus/
+- **Extracted At**: 2026-01-28T17:51:32.856448
 
 ## Syllabus Structure
 
