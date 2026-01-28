@@ -1,0 +1,232 @@
+{
+  "class": 10,
+  "subject": "Science",
+  "board": "CBSE",
+  "academic_year": "2024-25",
+  "total_marks": 80,
+  "internal_assessment": 20,
+  "time_duration": "3 hours",
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_name": "Chemical Substances - Nature and Behaviour",
+      "marks": 25,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Chemical Reactions and Equations",
+          "topics": [
+            "Chemical equation and balanced chemical equation",
+            "Types of chemical reactions: combination, decomposition, displacement, double displacement",
+            "Precipitation reactions",
+            "Exothermic and endothermic reactions",
+            "Oxidation and reduction"
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Acids, Bases and Salts",
+          "topics": [
+            "Definitions in terms of H+ and OH- ions",
+            "General properties and uses",
+            "Neutralization reaction",
+            "pH scale and its importance",
+            "Preparation and uses of NaOH, bleaching powder, baking soda, washing soda, Plaster of Paris"
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Metals and Non-metals",
+          "topics": [
+            "Properties of metals and non-metals",
+            "Reactivity series",
+            "Formation and properties of ionic compounds",
+            "Basic metallurgical processes",
+            "Corrosion and its prevention"
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Carbon and its Compounds",
+          "topics": [
+            "Covalent bonding in carbon compounds",
+            "Versatile nature of carbon",
+            "Homologous series",
+            "Nomenclature with functional groups",
+            "Chemical properties of carbon compounds",
+            "Ethanol and Ethanoic acid",
+            "Soaps and detergents"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_name": "World of Living",
+      "marks": 23,
+      "chapters": [
+        {
+          "chapter_number": 5,
+          "chapter_name": "Life Processes",
+          "topics": [
+            "Nutrition in plants and animals",
+            "Respiration - aerobic and anaerobic",
+            "Transportation in plants and animals",
+            "Excretion in plants and animals"
+          ]
+        },
+        {
+          "chapter_number": 6,
+          "chapter_name": "Control and Coordination",
+          "topics": [
+            "Tropic movements in plants",
+            "Plant hormones",
+            "Nervous system in animals",
+            "Voluntary, involuntary and reflex action",
+            "Animal hormones"
+          ]
+        },
+        {
+          "chapter_number": 7,
+          "chapter_name": "How do Organisms Reproduce?",
+          "topics": [
+            "Asexual reproduction methods",
+            "Sexual reproduction in plants and animals",
+            "Reproductive health",
+            "Family planning methods",
+            "HIV/AIDS awareness"
+          ]
+        },
+        {
+          "chapter_number": 8,
+          "chapter_name": "Heredity and Evolution",
+          "topics": [
+            "Mendel's contribution to genetics",
+            "Laws of inheritance",
+            "Sex determination",
+            "Basic concepts of evolution"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_name": "Natural Phenomena",
+      "marks": 12,
+      "chapters": [
+        {
+          "chapter_number": 9,
+          "chapter_name": "Light - Reflection and Refraction",
+          "topics": [
+            "Reflection by curved surfaces",
+            "Images formed by spherical mirrors",
+            "Mirror formula and magnification",
+            "Laws of refraction",
+            "Refractive index",
+            "Lens formula and magnification",
+            "Power of a lens"
+          ]
+        },
+        {
+          "chapter_number": 10,
+          "chapter_name": "Human Eye and Colourful World",
+          "topics": [
+            "Functioning of human eye",
+            "Defects of vision - myopia, hypermetropia, presbyopia",
+            "Refraction through prism",
+            "Dispersion of light",
+            "Scattering of light"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_name": "Effects of Current",
+      "marks": 13,
+      "chapters": [
+        {
+          "chapter_number": 11,
+          "chapter_name": "Electricity",
+          "topics": [
+            "Electric current and potential difference",
+            "Ohm's law",
+            "Resistance and resistivity",
+            "Series and parallel combination of resistors",
+            "Heating effect of electric current",
+            "Electric power"
+          ]
+        },
+        {
+          "chapter_number": 12,
+          "chapter_name": "Magnetic Effects of Electric Current",
+          "topics": [
+            "Magnetic field and field lines",
+            "Field due to current carrying conductor",
+            "Field due to solenoid",
+            "Force on current carrying conductor",
+            "Fleming's Left Hand Rule",
+            "AC vs DC",
+            "Domestic electric circuits"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_name": "Natural Resources",
+      "marks": 7,
+      "chapters": [
+        {
+          "chapter_number": 13,
+          "chapter_name": "Our Environment",
+          "topics": [
+            "Ecosystem components",
+            "Food chains and food webs",
+            "Ozone depletion",
+            "Biodegradable and non-biodegradable waste"
+          ]
+        },
+        {
+          "chapter_number": 14,
+          "chapter_name": "Management of Natural Resources",
+          "topics": [
+            "Conservation of forests and wildlife",
+            "Conservation of coal and petroleum",
+            "Water harvesting",
+            "Sustainable development"
+          ]
+        }
+      ]
+    }
+  ],
+  "practical_list": [
+    "Finding pH of various solutions",
+    "Properties of acids and bases",
+    "Types of chemical reactions",
+    "Reactivity series experiments",
+    "Ohm's law verification",
+    "Series and parallel resistance",
+    "Stomata preparation",
+    "Respiration experiment",
+    "Properties of acetic acid",
+    "Soap cleaning capacity",
+    "Focal length determination",
+    "Light refraction through glass slab",
+    "Light through prism",
+    "Convex lens image formation",
+    "Dicot seed embryo identification"
+  ],
+  "question_types": {
+    "very_short_answer": {"count": 20, "marks_each": 1},
+    "short_answer_1": {"count": 6, "marks_each": 2},
+    "short_answer_2": {"count": 7, "marks_each": 3},
+    "long_answer": {"count": 3, "marks_each": 5},
+    "diagram_based": {"count": 2, "marks_each": 6}
+  },
+  "difficulty_distribution": {
+    "easy": "20%",
+    "medium": "60%",
+    "hard": "20%"
+  }
+}
