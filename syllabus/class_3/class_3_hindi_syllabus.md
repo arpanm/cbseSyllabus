@@ -45,7 +45,7 @@ How to score well in the Class 3 Hindi exam using the CBSE Syllabus at BYJU’S?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-April-20-Hindi-2023-24.pdf ===
+=== PDF: class_3_hindi_1.pdf ===
 --- Page 1 ---
  
  

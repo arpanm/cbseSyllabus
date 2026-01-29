@@ -94,7 +94,7 @@ Why is the CBSE Class 7 Science Syllabus important for the students?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Science-2023-24.pdf ===
+=== PDF: class_7_science_1.pdf ===
 --- Page 1 ---
 146
 Questions

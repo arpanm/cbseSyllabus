@@ -161,7 +161,7 @@ Visit theCBSE Syllabuspage to get the syllabus of all subjects from Classes 1 to
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-11-Biology-2023-24.pdf ===
+=== PDF: class_11_biology_1.pdf ===
 --- Page 1 ---
 1 
 BIOLOGY (Code No. 044) 

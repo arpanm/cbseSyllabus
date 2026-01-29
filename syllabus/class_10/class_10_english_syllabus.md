@@ -152,7 +152,7 @@ Two out of three extracts from prose/poetry for reference to the context. Very S
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-10-English-Language-and-Literature-Syllabus-2023-24.pdf ===
+=== PDF: class_10_english_1.pdf ===
 --- Page 1 ---
 Page 8 of 14 
 ENGLISH LANGUAGE AND LITERATURE (Code No. 184) 
@@ -657,7 +657,7 @@ year.
 the school.
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-10-Communicative-English-Syllabus-2023-24.pdf ===
+=== PDF: class_10_english_2.pdf ===
 --- Page 1 ---
 Page 14 of 18 
 COMMUNICATIVE ENGLISH 

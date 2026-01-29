@@ -115,7 +115,7 @@ Chapter 10:Exponents and Powers12.1Introduction12.2Powers with Negative Exponent
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-April-12-Class-8-Maths-2023-24.pdf ===
+=== PDF: class_8_maths_1.pdf ===
 --- Page 1 ---
  
  

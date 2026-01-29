@@ -49,7 +49,7 @@ Why is the CBSE Class 7 English Syllabus the best study material?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-English-2023-24.pdf ===
+=== PDF: class_7_english_1.pdf ===
 --- Page 1 ---
  
  

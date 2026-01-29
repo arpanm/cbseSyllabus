@@ -192,7 +192,7 @@ How to score well in the Class 12 exam using the CBSE Syllabus for Physics?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Physics-Syllabus-2023-24.pdf ===
+=== PDF: class_12_physics_1.pdf ===
 --- Page 1 ---
  PHYSICS (THEORY) 
  Time: 3 hrs. 

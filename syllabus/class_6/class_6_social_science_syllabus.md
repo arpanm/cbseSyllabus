@@ -136,7 +136,7 @@ Where can I find the CBSE Class 6 Social Science Syllabus for free?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-History-2023-24.pdf ===
+=== PDF: class_6_social-science_1.pdf ===
 --- Page 1 ---
 165
 CBSE Class 6 Syllabus for History 
@@ -296,7 +296,7 @@ temples, sculpture, painting (Ajanta);
 (c) Science.
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Social-and-Political-Life-2023-24.pdf ===
+=== PDF: class_6_social-science_2.pdf ===
 --- Page 1 ---
 178
 Themes
@@ -466,7 +466,7 @@ life strategies of various groups of people,
 for making a living are not equally available to all.
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Geography-2023-24.pdf ===
+=== PDF: class_6_social-science_3.pdf ===
 --- Page 1 ---
 173
 CBSE Class 6 Syllabus for Geography 

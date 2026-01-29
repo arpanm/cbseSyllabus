@@ -69,7 +69,7 @@ Can I freely download the CBSE Syllabus for Class 5 Hindi at BYJU’S?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Hindi-2023-24.pdf ===
+=== PDF: class_5_hindi_1.pdf ===
 --- Page 1 ---
  
  

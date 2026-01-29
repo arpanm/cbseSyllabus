@@ -53,7 +53,7 @@ How to attain good marks in the Class 4 English exam using the CBSE Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-English-2023-24.pdf ===
+=== PDF: class_4_english_1.pdf ===
 --- Page 1 ---
  
  

@@ -109,7 +109,7 @@ What are the chapters covered in Unit III of the CBSE Class 11 Maths Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-11-Mathematics-2023-24.pdf ===
+=== PDF: class_11_maths_1.pdf ===
 --- Page 1 ---
 COURSE STRUCTURE 
 CLASS XI (2023-24) 

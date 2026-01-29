@@ -100,7 +100,7 @@ Which is the scoring chapter in Chemistry as per CBSE Class 12 syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Chemistry-Syllabus-2023-24.pdf ===
+=== PDF: class_12_chemistry_1.pdf ===
 --- Page 1 ---
 CLASS XII (2023-24) (THEORY) 
 Time : 3 Hours 

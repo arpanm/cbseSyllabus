@@ -69,7 +69,7 @@ Can I refer to the CBSE Class 2 English Syllabus to get good marks?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-2-English-2023-24.pdf ===
+=== PDF: class_2_english_1.pdf ===
 --- Page 1 ---
  
  

@@ -93,7 +93,7 @@ Why is the CBSE Syllabus for Class 12 Computer Science important for students?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Computer-Science-Syllabus-2023-24.pdf ===
+=== PDF: class_12_computer-science_1.pdf ===
 --- Page 1 ---
 Computer Science 
 CLASS-XII 

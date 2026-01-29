@@ -92,7 +92,7 @@ To know the syllabus of all the subjects of Class 9, go through theCBSE Syllabus
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-9-Communicative-English-Syllabus-2023-24.pdf ===
+=== PDF: class_9_english_1.pdf ===
 --- Page 1 ---
 Page 1 of 18 
 COMMUNICATIVE ENGLISH 
@@ -739,7 +739,7 @@ For the details of Internal Assessment of 20 marks, please refer to circular no.
 Acad-11/2019, dated March 06,2019. 
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-9-English-Language-and-Literature-Syllabus-2023-24.pdf ===
+=== PDF: class_9_english_2.pdf ===
 --- Page 1 ---
 Page 1 of 14 
 ENGLISH LANGUAGE AND LITERATURE 

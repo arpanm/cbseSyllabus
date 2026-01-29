@@ -85,7 +85,7 @@ Why is the CBSE Class 6 Hindi Syllabus at BYJU’S an essential material for stu
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Hindi-2023-24.pdf ===
+=== PDF: class_6_hindi_1.pdf ===
 --- Page 1 ---
  
  

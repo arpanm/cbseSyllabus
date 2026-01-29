@@ -196,7 +196,7 @@ Learn Maths & Science as perCBSE Syllabusin an interactive and fun-loving way, w
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-English-Core-Syllabus-2023-24.pdf ===
+=== PDF: class_11_english_1.pdf ===
 --- Page 1 ---
 ENGLISH CORE 
 CODE NO. 301 
@@ -1133,7 +1133,7 @@ creative &
 exceptional 
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-English-Elective-Syllabus-2023-24.pdf ===
+=== PDF: class_11_english_2.pdf ===
 --- Page 1 ---
 ENGLISH ELECTIVE 
 (Code No. 001) 

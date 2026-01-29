@@ -825,6 +825,130 @@ class CBSESyllabusScraper:
         with open(index_file, 'w', encoding='utf-8') as f:
             json.dump(master_index, f, indent=2, ensure_ascii=False)
 
+    def reparse_local_pdfs(self):
+        """Parse all local PDFs and update corresponding JSON/MD files"""
+        if not PDF_PARSER_AVAILABLE:
+            logger.error("No PDF parser available. Install pymupdf, pdfplumber, or PyPDF2")
+            return 0, 0
+
+        logger.info("=" * 60)
+        logger.info("Re-parsing Local PDFs and Updating JSON/MD Files")
+        logger.info("=" * 60)
+
+        updated = 0
+        failed = 0
+
+        # Get all PDF files
+        pdf_files = []
+        if os.path.exists(self.pdf_dir):
+            pdf_files = [f for f in os.listdir(self.pdf_dir) if f.endswith('.pdf')]
+
+        logger.info(f"Found {len(pdf_files)} PDF files in {self.pdf_dir}")
+
+        # Group PDFs by class and subject
+        pdf_groups = {}
+        for pdf_file in pdf_files:
+            # Parse filename: class_{num}_{subject}_{index}.pdf
+            match = re.match(r'class_(\d+)_(.+?)_(\d+)\.pdf', pdf_file)
+            if match:
+                class_num = int(match.group(1))
+                subject = match.group(2)
+                key = (class_num, subject)
+                if key not in pdf_groups:
+                    pdf_groups[key] = []
+                pdf_groups[key].append(pdf_file)
+
+        # Process each class/subject combination
+        for (class_num, subject), pdfs in pdf_groups.items():
+            logger.info(f"\nProcessing Class {class_num} {subject}: {len(pdfs)} PDF(s)")
+
+            # Read and parse all PDFs for this subject
+            all_pdf_text = []
+            pdf_urls = []
+
+            for pdf_file in sorted(pdfs):
+                pdf_path = os.path.join(self.pdf_dir, pdf_file)
+                try:
+                    with open(pdf_path, 'rb') as f:
+                        pdf_bytes = f.read()
+
+                    text = self._parse_pdf(pdf_bytes, pdf_path)
+                    if text:
+                        all_pdf_text.append(f"=== PDF: {pdf_file} ===\n{text}")
+                        pdf_urls.append(pdf_path)
+                        logger.info(f"  ✓ Parsed {pdf_file}: {len(text)} chars")
+                    else:
+                        logger.warning(f"  Could not extract text from {pdf_file}")
+                except Exception as e:
+                    logger.error(f"  Error reading {pdf_file}: {e}")
+
+            if not all_pdf_text:
+                logger.warning(f"  No text extracted for Class {class_num} {subject}")
+                failed += 1
+                continue
+
+            pdf_content = "\n\n".join(all_pdf_text)
+
+            # Find corresponding JSON file
+            class_dir = os.path.join(self.output_dir, f"class_{class_num}")
+            clean_subject = subject.replace('-', '_')
+
+            # Try different filename patterns
+            json_patterns = [
+                f"class_{class_num}_{clean_subject}_syllabus.json",
+                f"class_{class_num}_{subject}_syllabus.json",
+                f"class_{class_num}_{clean_subject}.json",
+                f"class_{class_num}_overview.json" if subject == "overview" else None,
+            ]
+
+            json_file = None
+            for pattern in json_patterns:
+                if pattern:
+                    candidate = os.path.join(class_dir, pattern)
+                    if os.path.exists(candidate):
+                        json_file = candidate
+                        break
+
+            if not json_file:
+                logger.warning(f"  No JSON file found for Class {class_num} {subject}")
+                failed += 1
+                continue
+
+            # Update JSON file
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    content = json.load(f)
+
+                # Update PDF content
+                content["pdf_content"] = pdf_content
+                content["pdf_local_files"] = [os.path.join(self.pdf_dir, p) for p in pdfs]
+                content["pdf_parsed_at"] = datetime.now().isoformat()
+
+                with open(json_file, 'w', encoding='utf-8') as f:
+                    json.dump(content, f, indent=2, ensure_ascii=False)
+
+                logger.info(f"  ✓ Updated JSON: {json_file}")
+
+                # Update corresponding MD file
+                md_file = json_file.replace('.json', '.md')
+                if os.path.exists(md_file):
+                    md_content = self._content_to_markdown(content, class_num, subject if subject != "overview" else None)
+                    with open(md_file, 'w', encoding='utf-8') as f:
+                        f.write(md_content)
+                    logger.info(f"  ✓ Updated MD: {md_file}")
+
+                updated += 1
+
+            except Exception as e:
+                logger.error(f"  Error updating files for Class {class_num} {subject}: {e}")
+                failed += 1
+
+        logger.info("\n" + "=" * 60)
+        logger.info(f"Re-parse Summary: Updated {updated}, Failed {failed}")
+        logger.info("=" * 60)
+
+        return updated, failed
+
         # Print summary
         logger.info("\n" + "=" * 60)
         logger.info("Download Summary")
@@ -844,6 +968,24 @@ class CBSESyllabusScraper:
 
 def main():
     """Main entry point"""
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="CBSE Syllabus Downloader - Downloads syllabus from byjus.com as MD/JSON files"
+    )
+    parser.add_argument(
+        '--reparse-pdfs',
+        action='store_true',
+        help='Re-parse local PDF files and update JSON/MD files with extracted content'
+    )
+    parser.add_argument(
+        '--download',
+        action='store_true',
+        help='Download syllabus from byjus.com (default action if no flags specified)'
+    )
+
+    args = parser.parse_args()
+
     print("""
 ╔══════════════════════════════════════════════════════════════╗
 ║           CBSE Syllabus Downloader for LLM                   ║
@@ -854,19 +996,32 @@ def main():
     scraper = CBSESyllabusScraper()
 
     try:
-        total_downloaded, total_failed = scraper.download_all()
+        if args.reparse_pdfs:
+            # Re-parse local PDFs and update JSON/MD files
+            updated, failed = scraper.reparse_local_pdfs()
 
-        print(f"\n{'='*60}")
-        print("Download Complete!")
-        print(f"{'='*60}")
-        print(f"Successfully downloaded: {total_downloaded} syllabus files")
-        print(f"Failed: {total_failed}")
-        print(f"\nFiles saved to: {os.path.abspath(OUTPUT_DIR)}")
-        print(f"Index file: {os.path.join(OUTPUT_DIR, INDEX_FILE)}")
-        print("\nYou can now use these files with an LLM to generate question papers.")
+            print(f"\n{'='*60}")
+            print("PDF Re-parsing Complete!")
+            print(f"{'='*60}")
+            print(f"Successfully updated: {updated} files")
+            print(f"Failed: {failed}")
+            print(f"\nFiles updated in: {os.path.abspath(OUTPUT_DIR)}")
+        else:
+            # Default: download all syllabus
+            total_downloaded, total_failed = scraper.download_all()
+
+            print(f"\n{'='*60}")
+            print("Download Complete!")
+            print(f"{'='*60}")
+            print(f"Successfully downloaded: {total_downloaded} syllabus files")
+            print(f"Failed: {total_failed}")
+            print(f"\nFiles saved to: {os.path.abspath(OUTPUT_DIR)}")
+            print(f"Index file: {os.path.join(OUTPUT_DIR, INDEX_FILE)}")
+            print("\nYou can now use these files with an LLM to generate question papers.")
+            print("\nTip: Run with --reparse-pdfs to re-parse local PDFs and update JSON/MD files.")
 
     except KeyboardInterrupt:
-        print("\n\nDownload interrupted by user.")
+        print("\n\nOperation interrupted by user.")
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
         raise

@@ -171,7 +171,7 @@ How many marks are allotted for practicals in the CBSE Class 11 Computer Science
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-Computer-Science-Syllabus-2023-24.pdf ===
+=== PDF: class_11_computer-science_1.pdf ===
 --- Page 1 ---
 Computer Science 
 Class -XI 
