@@ -6,6 +6,12 @@ This script downloads CBSE syllabus from byjus.com for classes 1-12 across
 multiple subjects. The content is saved as markdown files and a JSON index
 for LLM-based question paper generation.
 
+Features:
+- Downloads HTML content from syllabus pages
+- Detects and downloads embedded PDF files
+- Parses PDF content using multiple methods (pymupdf, pdfplumber, PyPDF2)
+- Extracts structured syllabus data for LLM consumption
+
 Usage:
     python download_syllabus.py
 """
@@ -16,12 +22,41 @@ import json
 import time
 import random
 import logging
+import tempfile
+import io
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+
+# PDF parsing libraries - try multiple options for compatibility
+PDF_PARSER_AVAILABLE = False
+PDF_PARSER_NAME = None
+
+try:
+    import fitz  # PyMuPDF - best for complex PDFs
+    PDF_PARSER_AVAILABLE = True
+    PDF_PARSER_NAME = "pymupdf"
+except ImportError:
+    pass
+
+if not PDF_PARSER_AVAILABLE:
+    try:
+        import pdfplumber  # Good alternative
+        PDF_PARSER_AVAILABLE = True
+        PDF_PARSER_NAME = "pdfplumber"
+    except ImportError:
+        pass
+
+if not PDF_PARSER_AVAILABLE:
+    try:
+        import PyPDF2  # Basic fallback
+        PDF_PARSER_AVAILABLE = True
+        PDF_PARSER_NAME = "PyPDF2"
+    except ImportError:
+        pass
 
 # Configure logging
 logging.basicConfig(
@@ -160,9 +195,247 @@ class CBSESyllabusScraper:
         self.session.headers.update(HEADERS)
         self.syllabus_index: Dict[str, dict] = {}
         self.failed_urls: List[str] = []
+        self.pdf_dir = os.path.join(output_dir, "pdfs")
 
-        # Create output directory
+        # Create output directories
         os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(self.pdf_dir, exist_ok=True)
+
+        if PDF_PARSER_AVAILABLE:
+            logger.info(f"PDF parser available: {PDF_PARSER_NAME}")
+        else:
+            logger.warning("No PDF parser available. Install pymupdf, pdfplumber, or PyPDF2")
+
+    def _find_pdf_links(self, soup: BeautifulSoup, base_url: str) -> List[str]:
+        """Find all PDF links on the page"""
+        pdf_links = []
+
+        # Find direct PDF links
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href']
+            if href.lower().endswith('.pdf') or '/pdf/' in href.lower() or 'pdf' in href.lower():
+                full_url = urljoin(base_url, href)
+                if full_url not in pdf_links:
+                    pdf_links.append(full_url)
+
+        # Find PDF links in iframes or embeds
+        for iframe in soup.find_all(['iframe', 'embed', 'object']):
+            src = iframe.get('src') or iframe.get('data')
+            if src and ('.pdf' in src.lower() or '/pdf/' in src.lower()):
+                full_url = urljoin(base_url, src)
+                if full_url not in pdf_links:
+                    pdf_links.append(full_url)
+
+        # Find PDF links in onclick handlers or data attributes
+        for elem in soup.find_all(attrs={'onclick': True}):
+            onclick = elem.get('onclick', '')
+            pdf_match = re.search(r"['\"]([^'\"]*\.pdf[^'\"]*)['\"]", onclick, re.I)
+            if pdf_match:
+                full_url = urljoin(base_url, pdf_match.group(1))
+                if full_url not in pdf_links:
+                    pdf_links.append(full_url)
+
+        # Look for CDN links (byjus uses cdn1.byjus.com for PDFs)
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href']
+            if 'cdn' in href.lower() and ('byjus' in href.lower() or '.pdf' in href.lower()):
+                if href not in pdf_links:
+                    pdf_links.append(href)
+
+        return pdf_links
+
+    def _download_pdf(self, url: str, retries: int = 3) -> Optional[bytes]:
+        """Download PDF content with multiple retry strategies"""
+        headers_options = [
+            # Standard browser headers
+            {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'application/pdf,*/*',
+                'Accept-Language': 'en-US,en;q=0.9',
+            },
+            # PDF-specific headers
+            {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15',
+                'Accept': 'application/pdf',
+            },
+            # Minimal headers
+            {
+                'User-Agent': 'Mozilla/5.0',
+            },
+        ]
+
+        for headers in headers_options:
+            for attempt in range(retries):
+                try:
+                    time.sleep(random.uniform(1, 2))
+                    response = requests.get(url, headers=headers, timeout=60, stream=True)
+
+                    if response.status_code == 200:
+                        content_type = response.headers.get('content-type', '').lower()
+                        if 'pdf' in content_type or url.lower().endswith('.pdf'):
+                            return response.content
+                        # Some servers don't set content-type correctly
+                        content = response.content
+                        if content[:4] == b'%PDF':
+                            return content
+                    elif response.status_code == 403:
+                        logger.debug(f"PDF access forbidden with current headers, trying alternative")
+                        break  # Try next headers
+                    elif response.status_code == 404:
+                        logger.warning(f"PDF not found: {url}")
+                        return None
+
+                except requests.exceptions.RequestException as e:
+                    logger.debug(f"PDF download attempt {attempt + 1} failed: {e}")
+                    time.sleep(2 ** attempt)
+
+        logger.warning(f"Failed to download PDF: {url}")
+        return None
+
+    def _parse_pdf_pymupdf(self, pdf_content: bytes) -> str:
+        """Parse PDF using PyMuPDF (fitz)"""
+        try:
+            import fitz
+            text_parts = []
+
+            with fitz.open(stream=pdf_content, filetype="pdf") as doc:
+                for page_num, page in enumerate(doc):
+                    text = page.get_text()
+                    if text.strip():
+                        text_parts.append(f"--- Page {page_num + 1} ---\n{text}")
+
+            return "\n\n".join(text_parts)
+        except Exception as e:
+            logger.error(f"PyMuPDF parsing error: {e}")
+            return ""
+
+    def _parse_pdf_pdfplumber(self, pdf_content: bytes) -> str:
+        """Parse PDF using pdfplumber"""
+        try:
+            import pdfplumber
+            text_parts = []
+
+            with pdfplumber.open(io.BytesIO(pdf_content)) as pdf:
+                for page_num, page in enumerate(pdf.pages):
+                    text = page.extract_text()
+                    if text and text.strip():
+                        text_parts.append(f"--- Page {page_num + 1} ---\n{text}")
+
+                    # Also try to extract tables
+                    tables = page.extract_tables()
+                    for table in tables:
+                        if table:
+                            table_text = "\n".join([" | ".join([cell or "" for cell in row]) for row in table if row])
+                            if table_text.strip():
+                                text_parts.append(f"[Table]\n{table_text}")
+
+            return "\n\n".join(text_parts)
+        except Exception as e:
+            logger.error(f"pdfplumber parsing error: {e}")
+            return ""
+
+    def _parse_pdf_pypdf2(self, pdf_content: bytes) -> str:
+        """Parse PDF using PyPDF2"""
+        try:
+            import PyPDF2
+            text_parts = []
+
+            reader = PyPDF2.PdfReader(io.BytesIO(pdf_content))
+            for page_num, page in enumerate(reader.pages):
+                text = page.extract_text()
+                if text and text.strip():
+                    text_parts.append(f"--- Page {page_num + 1} ---\n{text}")
+
+            return "\n\n".join(text_parts)
+        except Exception as e:
+            logger.error(f"PyPDF2 parsing error: {e}")
+            return ""
+
+    def _parse_pdf(self, pdf_content: bytes, pdf_url: str) -> str:
+        """Parse PDF content using available parser with fallbacks"""
+        if not PDF_PARSER_AVAILABLE:
+            logger.warning("No PDF parser available")
+            return ""
+
+        text = ""
+
+        # Try parsers in order of preference
+        if PDF_PARSER_NAME == "pymupdf" or not text:
+            try:
+                import fitz
+                text = self._parse_pdf_pymupdf(pdf_content)
+                if text:
+                    logger.debug(f"Successfully parsed PDF with PyMuPDF: {pdf_url}")
+            except ImportError:
+                pass
+
+        if not text:
+            try:
+                import pdfplumber
+                text = self._parse_pdf_pdfplumber(pdf_content)
+                if text:
+                    logger.debug(f"Successfully parsed PDF with pdfplumber: {pdf_url}")
+            except ImportError:
+                pass
+
+        if not text:
+            try:
+                import PyPDF2
+                text = self._parse_pdf_pypdf2(pdf_content)
+                if text:
+                    logger.debug(f"Successfully parsed PDF with PyPDF2: {pdf_url}")
+            except ImportError:
+                pass
+
+        return text
+
+    def _extract_pdf_content(self, soup: BeautifulSoup, url: str, class_num: int, subject: str = None) -> Dict:
+        """Extract content from PDFs linked on the page"""
+        pdf_content = {
+            "pdf_urls": [],
+            "pdf_text": "",
+            "pdf_count": 0
+        }
+
+        if not PDF_PARSER_AVAILABLE:
+            return pdf_content
+
+        pdf_links = self._find_pdf_links(soup, url)
+
+        if pdf_links:
+            logger.info(f"Found {len(pdf_links)} PDF link(s) on {url}")
+
+            all_pdf_text = []
+            for pdf_url in pdf_links:
+                logger.info(f"  Downloading PDF: {pdf_url}")
+                pdf_bytes = self._download_pdf(pdf_url)
+
+                if pdf_bytes:
+                    # Save PDF file
+                    pdf_filename = f"class_{class_num}_{subject or 'overview'}_{len(pdf_content['pdf_urls']) + 1}.pdf"
+                    pdf_path = os.path.join(self.pdf_dir, pdf_filename)
+                    try:
+                        with open(pdf_path, 'wb') as f:
+                            f.write(pdf_bytes)
+                        logger.info(f"  Saved PDF: {pdf_filename}")
+                    except Exception as e:
+                        logger.error(f"  Failed to save PDF: {e}")
+
+                    # Parse PDF
+                    text = self._parse_pdf(pdf_bytes, pdf_url)
+                    if text:
+                        all_pdf_text.append(f"=== PDF: {pdf_url} ===\n{text}")
+                        pdf_content["pdf_urls"].append(pdf_url)
+                        pdf_content["pdf_count"] += 1
+                        logger.info(f"  ✓ Extracted {len(text)} characters from PDF")
+                    else:
+                        logger.warning(f"  Could not extract text from PDF: {pdf_url}")
+                else:
+                    logger.warning(f"  Failed to download PDF: {pdf_url}")
+
+            pdf_content["pdf_text"] = "\n\n".join(all_pdf_text)
+
+        return pdf_content
 
     def _make_request(self, url: str, retries: int = 3) -> Optional[requests.Response]:
         """Make HTTP request with retry logic and rate limiting"""
@@ -196,8 +469,8 @@ class CBSESyllabusScraper:
 
         return None
 
-    def _extract_syllabus_content(self, soup: BeautifulSoup, url: str) -> Dict:
-        """Extract syllabus content from the page"""
+    def _extract_syllabus_content(self, soup: BeautifulSoup, url: str, class_num: int = None, subject: str = None) -> Dict:
+        """Extract syllabus content from the page including PDFs"""
         content = {
             "url": url,
             "title": "",
@@ -207,8 +480,16 @@ class CBSESyllabusScraper:
             "topics": [],
             "marking_scheme": [],
             "raw_content": "",
+            "pdf_content": "",
+            "pdf_urls": [],
             "extracted_at": datetime.now().isoformat(),
         }
+
+        # Extract PDF content first
+        if class_num is not None:
+            pdf_data = self._extract_pdf_content(soup, url, class_num, subject)
+            content["pdf_content"] = pdf_data.get("pdf_text", "")
+            content["pdf_urls"] = pdf_data.get("pdf_urls", [])
 
         # Extract title
         title_elem = soup.find('h1')
@@ -381,6 +662,21 @@ class CBSESyllabusScraper:
             md_lines.append("```")
             md_lines.append("")
 
+        # PDF Content (extracted from syllabus PDFs)
+        if content.get("pdf_content"):
+            md_lines.append("## PDF Syllabus Content\n")
+            if content.get("pdf_urls"):
+                md_lines.append("**Source PDFs:**")
+                for pdf_url in content["pdf_urls"]:
+                    md_lines.append(f"- {pdf_url}")
+                md_lines.append("")
+            md_lines.append("### Extracted Content\n")
+            md_lines.append("```")
+            # Include more PDF content since it's the primary source
+            md_lines.append(content["pdf_content"][:50000])
+            md_lines.append("```")
+            md_lines.append("")
+
         # Footer for LLM
         md_lines.append("---")
         md_lines.append("*This syllabus is formatted for LLM question paper generation.*")
@@ -404,7 +700,7 @@ class CBSESyllabusScraper:
             return False
 
         soup = BeautifulSoup(response.text, 'html.parser')
-        content = self._extract_syllabus_content(soup, url)
+        content = self._extract_syllabus_content(soup, url, class_num=class_num)
 
         # Create class directory
         class_dir = os.path.join(self.output_dir, f"class_{class_num}")
@@ -454,7 +750,7 @@ class CBSESyllabusScraper:
             return False
 
         soup = BeautifulSoup(response.text, 'html.parser')
-        content = self._extract_syllabus_content(soup, url)
+        content = self._extract_syllabus_content(soup, url, class_num=class_num, subject=subject)
 
         # Create class directory
         class_dir = os.path.join(self.output_dir, f"class_{class_num}")
