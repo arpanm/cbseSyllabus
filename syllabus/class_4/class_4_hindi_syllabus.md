@@ -5,7 +5,7 @@
 - **Class**: 4
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-4-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:25.962879
+- **Extracted At**: 2026-01-29T11:00:54.115616
 
 ## Detailed Content
 
@@ -35,6 +35,42 @@ Frequently Asked Questions on CBSE Syllabus for Class 4 Hindi 2023-24
 How many chapters are there in the CBSE Syllabus for Class 4 Hindi?
 Where can I get the up-to-date CBSE Class 4 Syllabus for Hindi?
 Can I depend on the CBSE Syllabus for Class 4 Hindi to score full marks?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 4 Syllabus for Hindi  
+2023-24 
+ 
+पाठ 1: मन के भोले-भाले बादल 
+पाठ 2: जैसा सवाल वैसा जवाब 
+पाठ 3: ककरकमच की गेंद 
+पाठ 4: पापा जब बच्चे थे 
+पाठ 5: दोस्त की पोशाक 
+पाठ 6: नाव बनाओ नाव बनाओ 
+पाठ 7: दान का किसाब 
+पाठ 8: कौन? 
+पाठ 9: स्वतंत्रता की ओर 
+पाठ 10: थप्प रोटी थप्प दाल 
+पाठ 11: पढ़क्कू की सूझ 
+पाठ 12: सुनीता की पकिया कुसी 
+पाठ 13: हुदहुद 
+पाठ 14: मुफ़्त िी मुफ़्त  
+ 
+ 
+
 ```
 
 ---

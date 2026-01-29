@@ -5,7 +5,7 @@
 - **Class**: 5
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-5-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:35.657817
+- **Extracted At**: 2026-01-29T11:01:20.388717
 
 ## Chapters
 
@@ -59,6 +59,63 @@ Frequently Asked Questions on CBSE Class 5 Syllabus for Hindi 2023-24
 How many chapters are given in the CBSE Syllabus for Class 5 Hindi?
 Is the CBSE Class 5 Syllabus for Hindi updated yearly at BYJU’S?
 Can I freely download the CBSE Syllabus for Class 5 Hindi at BYJU’S?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 5 Syllabus for Hindi  
+2023-24 
+ 
+Rimjhim Syllabus 
+ 
+पाठ 1: राख की रस्सी (लोककथा) 
+ 
+पाठ 2: फसलों के त्योहार (लेख) 
+ 
+पाठ 3: खखलौनेवाला (कववता) 
+ 
+पाठ 4: नन्हा फनकार (कहानी) 
+ 
+पाठ 5: जहाँ चाह वहाँ राह (लेख) 
+ 
+पाठ 6: वचट्ठी का सफ़र (लेख) 
+ 
+पाठ 7: डावकए की कहानी, क ाँवरवसोंह की ज बानी (भेंटवाता) 
+ 
+पाठ 8: वे विन भी क्या विन थे (ववज्ञान कथा) 
+ 
+पाठ 9: एक माँ की बेबसी (कववता) 
+ 
+पाठ 10: एक विन की बािशाहत (कहानी) 
+ 
+पाठ 11: चावल की रोवटयाँ (नाटक) 
+ 
+पाठ 12: ग रु और चेला (कववता) 
+ 
+पाठ 13: स्वामी की िािी (कहानी) 
+ 
+पाठ 14: बाघ आया उस रात (कववता) 
+ 
+पाठ 15: वबशन की विलेरी (कहानी) 
+ 
+पाठ 16: पानी रे पानी (लेख) 
+ 
+पाठ 17: छोटी-सी हमारी निी (कववता) 
+ 
+पाठ 18: च नौती वहमालय की (यात्रा वर्ान)  
+
 ```
 
 ---

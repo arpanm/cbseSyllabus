@@ -5,7 +5,7 @@
 - **Class**: 1
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-1-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:03.600118
+- **Extracted At**: 2026-01-29T10:59:53.192281
 
 ## Detailed Content
 
@@ -40,6 +40,54 @@ Frequently Asked Questions on CBSE Class 1 Hindi Syllabus 2023-24
 Why should the CBSE Class 1 Hindi Syllabus be used by students?
 How many chapters are there in the CBSE Class 1 Hindi Syllabus?
 How to score 100 in the Class 1 Hindi exam as per the marks weightage in the CBSE Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 1 Syllabus for Hindi  
+2023-24 
+ 
+CBSE Hindi Syllabus for Class 1 
+ 
+पाठ 1: स्कूल का पहला दिन 
+पाठ 2: आम की कहानी 
+पाठ 3: पत्ते ही पत्ते 
+पाठ 4: पकौड़ी 
+पाठ 5: रसोईघर 
+पाठ 6: चूहो! म्याऊँ सो रही है 
+पाठ 7: बंिर और दिलहरी 
+पाठ 8: पतंि 
+पाठ 9: िेंि-बल्ला 
+पाठ 10: बंिर िया खेत में भाि 
+पाठ 11: एक बुदिया 
+पाठ 12: मैं भी 
+पाठ 13: लालू और पीलू 
+पाठ 14: चकई के चकिुम 
+पाठ 15: छोटी का कमाल 
+पाठ 16: चार चने 
+पाठ 17: भििड़ 
+पाठ 18: हलीम चला चाँि पर 
+पाठ 19: हाथी चल्लम चल्लम 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 ```
 
 ---

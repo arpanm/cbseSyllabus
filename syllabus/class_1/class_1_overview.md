@@ -4,7 +4,7 @@
 
 - **Class**: 1
 - **Source**: https://byjus.com/cbse-class-1-syllabus/
-- **Extracted At**: 2026-01-28T18:28:34.959958
+- **Extracted At**: 2026-01-29T10:59:05.306388
 
 ## Detailed Content
 

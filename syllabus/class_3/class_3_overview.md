@@ -4,7 +4,7 @@
 
 - **Class**: 3
 - **Source**: https://byjus.com/cbse/cbse-syllabus-for-class-3/
-- **Extracted At**: 2026-01-28T18:28:37.709053
+- **Extracted At**: 2026-01-29T10:59:17.467421
 
 ## Detailed Content
 

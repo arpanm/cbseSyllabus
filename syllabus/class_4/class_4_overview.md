@@ -4,7 +4,7 @@
 
 - **Class**: 4
 - **Source**: https://byjus.com/cbse/cbse-syllabus-class-4/
-- **Extracted At**: 2026-01-28T18:28:41.163287
+- **Extracted At**: 2026-01-29T10:59:20.223507
 
 ## Detailed Content
 

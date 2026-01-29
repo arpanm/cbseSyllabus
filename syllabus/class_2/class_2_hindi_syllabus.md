@@ -5,7 +5,7 @@
 - **Class**: 2
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-2-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:10.041529
+- **Extracted At**: 2026-01-29T11:00:14.855354
 
 ## Detailed Content
 
@@ -37,6 +37,54 @@ Frequently Asked Questions on CBSE Class 2 Hindi Syllabus 2023-24
 What are the advantages of the CBSE Class 2 Hindi Syllabus?
 How many chapters are there in the CBSE Class 2 Hindi Syllabus?
 How to score 100% in the Class 2 Hindi exam with the help of the CBSE Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-2-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-2-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 2 Syllabus for Hindi  
+2023-24 
+ 
+CBSE Hindi Syllabus for Class 2 
+ 
+पाठ 1: ऊँट चला 
+पाठ 2: भालू ने खेली फुटबॉल 
+पाठ 3: म्याऊँ, म्याऊँ !! 
+पाठ 4: अधिक बलवान कौन? 
+पाठ 5: दोस्त की मदद 
+पाठ 6: बहुत हुआ 
+पाठ 7: मेरी धकताब 
+पाठ 8: धततली और कली 
+पाठ 9: बुलबुल 
+पाठ 10: मीठी सारंगी 
+पाठ 11: टेसू राजा बीच बाजार 
+पाठ 12: बस के नीचे बाघ 
+पाठ 13: सूरज जल्दी आना जी 
+पाठ 14: नटखट चूहा 
+पाठ 15: एक्की-दोक्की 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 ```
 
 ---

@@ -5,7 +5,7 @@
 - **Class**: 6
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-6-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:42.692306
+- **Extracted At**: 2026-01-29T11:01:35.776868
 
 ## Detailed Content
 
@@ -47,6 +47,67 @@ Frequently Asked Questions on CBSE Class 6 English Syllabus 2023-24
 What are the 2 textbooks for the CBSE Class 6 English Syllabus?
 Is the CBSE Class 6 English Syllabus PDF reliable study material?
 Why should I download the CBSE Class 6 English Syllabus for exam preparation?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 6 Syllabus for English 
+2023-24 
+ 
+CBSE Class 6 English Chapters - Honeysuckle 
+ 
+Chapter 1: Who Did Patrick’s Homework? 
+ House, A Home  
+ 
+Chapter 2: How the Dog Found Himself a New Master!  
+The Kite  
+ 
+Chapter 3: Taro’s Reward  
+The Quarrel  
+ 
+Chapter 4: An Indian – American Woman in Space: Kalpana Chawla 
+ Beauty  
+ 
+Chapter 5: A Different Kind of School 
+Where Do All the Teachers Go?  
+ 
+Chapter 6: Who I Am  
+The Wonderful Words  
+ 
+Chapter 7: Fair Play  
+Vocation 
+ 
+Chapter 8: The Banyan Tree 
+ 
+ 
+CBSE Class 6 English Chapters - A Pact with the Sun 
+ 
+Chapter 1: A Tale of Two Birds  
+ 
+Chapter 2: The Friendly Mongoose  
+ 
+Chapter 3: The Shepherd’s Treasure  
+ 
+Chapter 4: Tansen  
+ 
+Chapter 5: The Monkey and the Crocodile  
+ 
+Chapter 6: The Wonder Called Sleep  
+ 
+Chapter 7:  A Pact with the Sun  
+
 ```
 
 ---

@@ -4,7 +4,7 @@
 
 - **Class**: 8
 - **Source**: https://byjus.com/cbse/cbse-class-8-syllabus/
-- **Extracted At**: 2026-01-28T18:28:47.465546
+- **Extracted At**: 2026-01-29T10:59:29.004842
 
 ## Detailed Content
 

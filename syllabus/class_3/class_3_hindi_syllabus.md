@@ -5,7 +5,7 @@
 - **Class**: 3
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-3-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:16.235022
+- **Extracted At**: 2026-01-29T11:00:33.176576
 
 ## Detailed Content
 
@@ -35,6 +35,53 @@ Frequently Asked Questions on CBSE Class 3 Hindi Syllabus 2023-24
 What are the benefits of using the CBSE Class 3 Hindi Syllabus?
 How many chapters are given in the CBSE Class 3 Hindi Syllabus?
 How to score well in the Class 3 Hindi exam using the CBSE Syllabus at BYJU’S?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-April-20-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-April-20-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 3 Syllabus for Hindi  
+2023-24 
+ 
+CBSE Hindi Syllabus for Class 3 
+ 
+पाठ 1: कक्कू 
+पाठ 2: शेखीबाज़ मक्खी 
+पाठ 3: मन करता है 
+पाठ 4: बहादुर बबत्तो 
+पाठ 5: हमसे सब कहते 
+पाठ 6: बिपबतपवा 
+पाठ 7: बंदर बाँि 
+पाठ 8: कब आऊ 
+पाठ 9: क्ोंजीमल और कैसे कैसबलया 
+पाठ 10: मीरा बहन और बाघ 
+पाठ 11: जब मुझे साँप ने कािा 
+पाठ 12: बमर्च का मजा 
+पाठ 13: सबसे अच्छा पेड़ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 ```
 
 ---

@@ -5,7 +5,7 @@
 - **Class**: 6
 - **Subject**: Hindi
 - **Source**: https://byjus.com/cbse-class-6-hindi-syllabus/
-- **Extracted At**: 2026-01-28T18:29:43.892426
+- **Extracted At**: 2026-01-29T11:01:39.428189
 
 ## Detailed Content
 
@@ -75,6 +75,106 @@ Frequently Asked Questions on CBSE Class 6 Hindi Syllabus 2023-24
 What are the three units in the Class 6 CBSE Hindi Syllabus?
 How many chapters are present in the CBSE Class 6 Hindi Syllabus?
 Why is the CBSE Class 6 Hindi Syllabus at BYJU’S an essential material for students?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Hindi-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Hindi-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 6 Syllabus for Hindi  
+2023-24 
+ 
+CBSE Syllabus for Class 6 Hindi (NCERT Vasant Book) 
+  
+पाठ 1: वह चिच़िया जो (कचवता) 
+पाठ 2: बिपन (संस्मरण) 
+पाठ 3: नादान दोस्त (कहानी) 
+पाठ 4: िाँद से थो़िी-सी गप्पे (कचवता) 
+पाठ 5: साथी हाथ बढाना – एक दौ़ि ऐसी भी (केवल पढने के चलए) 
+पाठ 6: ऐसे - ऐसे (एकांकी) 
+पाठ 7: चिकेि – अलबम (कहानी) 
+पाठ 8: झांसी की रानी (कचवता) 
+पाठ 9: जो देखकर भी नहीं देखते (चनबंध) – छूना और देखना (केवल पढने के चलए) 
+पाठ 10: संसार पुस्तक है (पत्र) 
+पाठ 11: मैं सबसे छोिी होऊं (कचवता) 
+पाठ 12: लोकगीत (चनबंध) – दो हररयाणवी लोक गीत (केवल पढने के चलए) 
+पाठ 13: नोकर (चनबंध) 
+पाठ 14: वन के माग में (कचवता) 
+ 
+CBSE Syllabus for Class 6 Hindi (NCERT Durva Book) 
+ 
+1. कलम 
+2. चकताब 
+3. घर 
+4. पतंग 
+5. भालू 
+6. झरना 
+7. धनुष 
+8. रुमाल 
+9. कक्षा 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+10. गुब्बारा 
+11. पवगत 
+12. हमारा घर 
+13. कपडे की दूकान 
+14. फूल 
+15. बातिीत 
+16. चिलांग से फोन 
+17. चततली 
+18. ईश्वरिन्द्र चवद्यासागर 
+19. प्रदिगनी 
+20. चिट्ठी 
+21. अंगुचलमाल 
+22. यात्रा की तैयारी 
+23. हाथी 
+24. डॉक्टर 
+25. जयपुर से पत्र 
+26. बढे िलो 
+27. व्यथग की िंका 
+28. गधा और चसयार  
+ 
+CBSE Syllabus for Class 6 Hindi (NCERT Bal Ram Katha Book) 
+ 
+पाठ 1: आवध्पुरर मे राम 
+पाठ 2: जंगल और जनकपुर 
+पाठ 3: दो वदागन 
+पाठ 4: राम का वन-गमन 
+पाठ 5: चित्रकूि में भरत 
+पाठ 6: दंडक वन में दस वषग 
+पाठ 7: सोन॓ का चहरण 
+पाठ 8: सीता की खोज 
+पाठ 9: राम और सुग्रीव 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+पाठ 10: लंका में हनुमान 
+पाठ 11: लंका चवजय 
+पाठ 12: राम का राज्याचभिेक  
+ 
+ 
+ 
+ 
+
 ```
 
 ---

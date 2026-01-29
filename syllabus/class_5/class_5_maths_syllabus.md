@@ -5,7 +5,7 @@
 - **Class**: 5
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-5-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:29:30.907007
+- **Extracted At**: 2026-01-29T11:01:08.154085
 
 ## Syllabus Structure
 
@@ -125,6 +125,117 @@ Frequently Asked Questions on CBSE Syllabus for Class 5 Maths 2023-24
 How many chapters are covered in the CBSE Syllabus for Class 5 Maths?
 What will I learn from the Class 5 Maths as per CBSE Syllabus?
 How to score well in the CBSE Syllabus for Class 5 Maths?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Maths-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 5 Syllabus for Maths 
+2023-24 
+Geometry (16 hrs.) 
+ 
+SHAPES & SPATIAL UNDERSTANDING  
+ 
+• Gets the feel of perspective while drawing a 3-D object in 2-D. 
+  
+• Gets the feel of an angle through observation and paper folding.  
+ 
+• Identifies right angles in the environment.  
+ 
+• Classifies angles into right, acute and obtuse angles.  
+ 
+• Represents right angle, acute angle and obtuse angle by drawing and tracing.  
+ 
+• Explores intuitively rotations and reflections of familiar 2-D shapes.  
+ 
+• Explores intuitively symmetry in familiar 3-D shapes.  
+ 
+• Makes the shapes of cubes, cylinders and cones using nets especially designed for this purpose. 
+ 
+Numbers (40 hrs.) 
+ 
+NUMBERS AND OPERATIONS 
+  
+• Finds place value in numbers beyond 1000.  
+ 
+• Appreciates the role of place value in addition, subtraction and multiplication algorithms. 
+ 
+• Uses informal and standard division algorithms.  
+ 
+• Explains the meaning of factors and multiples. 
+ 
+MENTAL ARITHMETIC  
+• Estimates sums, differences, products and quotients and verifies using approximation.  
+ 
+FRACTIONAL NUMBERS  
+ 
+• Finds the fractional part of a collection.  
+ 
+• Compares fractions.  
+ 
+• Identifies equivalent fractions.  
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+• Estimates the degree of closeness of a fraction to known fractions. 
+ 
+• Uses decimal fractions in the context of units of length and money.  
+ 
+• Expresses a given fraction in decimal notation and vice versa 
+ 
+Money (5 hrs.) 
+ 
+• Applies the four operations in solving problems involving money 
+ 
+Measurement (26 hrs.)  
+ 
+LENGTH 
+ 
+• Determines area and perimeter of simple geometrical figures. 
+ 
+• Applies the four operations in solving problems involving length, weight and volume.  
+ 
+• Relates commonly used larger and smaller units of length, weight and volume and converts one to the 
+other.  
+ 
+• Applies simple fractions to quantities.  
+ 
+• Converts fractional larger unit into complete smaller units.  
+ 
+• Appreciates volume of a solid body: intuitively and also by informal measurement.  
+ 
+• Uses addition and subtraction in finding time intervals in simple cases. 
+ 
+Data Handling (6 hrs.)  
+ 
+• Collects two-dimensional quantitative data. represents the data in the form of a table.  
+ 
+• Draws a bar graph or a pictograph to present a data. 
+ 
+Patterns (6 hrs.)  
+ 
+• Identifies patterns in square numbers, triangular numbers.  
+ 
+• Relates sequences of odd numbers between consecutive square numbers. 
+  
+• Makes border strip and tiling patterns. 
+
 ```
 
 ---

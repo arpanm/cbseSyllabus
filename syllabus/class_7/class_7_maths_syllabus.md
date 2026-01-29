@@ -5,7 +5,7 @@
 - **Class**: 7
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-7-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:29:49.893566
+- **Extracted At**: 2026-01-29T11:02:00.853856
 
 ## Syllabus Structure
 
@@ -118,6 +118,205 @@ Frequently Asked Questions on CBSE Class 7 Maths Syllabus 2023-24
 What are the chapters present in the CBSE Class 7 Maths Syllabus?
 What are the main concepts discussed in the CBSE Class 7 Maths Syllabus for 2023-24?
 Can I rely on the CBSE Class 7 Maths Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Maths-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 7 Syllabus for Maths  
+2023-24 
+ 
+Number System (50 hrs) 
+ 
+1. Knowing our Numbers: Integers 
+ 
+• Multiplication and division of integers (through patterns). Division by zero is meaningless  
+ 
+• Properties of integers (including identities for addition & multiplication, commutative, associative, 
+distributive) (through patterns). These would include examples from whole numbers as well. Involve 
+expressing commutative and associative properties in a general form. Construction of 
+counterexamples, including some by children. Counter examples like subtraction is not 
+commutative.  
+ 
+• Word problems including integers (all operations) 
+ 
+2. Fractions and rational numbers 
+• Multiplication of fractions  
+ 
+• Fraction as an operator  
+ 
+• Reciprocal of a fraction  
+ 
+• Division of fractions  
+ 
+• Word problems involving mixed fractions  
+ 
+• Introduction to rational numbers (with representation on number line)  
+ 
+• Operations on rational numbers (all operations) 
+ 
+• Representation of rational number as a decimal.  
+ 
+• Word problems on rational numbers (all operations)  
+ 
+• Multiplication and division of decimal fractions  
+ 
+• Conversion of units (length & mass)  
+ 
+• Word problems (including all operations) 
+ 
+3. Powers 
+• Exponents only natural numbers. • Laws of exponents (through observing patterns to arrive at 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+generalisation.) 
+ 
+ 
+Algebra (20 hrs)  
+1. ALGEBRAIC EXPRESSIONS 
+ 
+• Generate algebraic expressions (simple) involving one or two variables  
+ 
+• Identifying constants, coefficient, powers  
+ 
+• Like and unlike terms, degree of expressions e.g., x y 2 etc. (exponent≤ 3, number of variables) 
+ 
+ • Addition, subtraction of algebraic expressions (coefficients should be integers).  
+ 
+• Simple linear equations in one variable (in contextual problems) with two operations (avoid 
+complicated coefficients) 
+ 
+ 
+2. Ratio and Proportion (20 hrs) 
+• Ratio and proportion (revision)  
+ 
+• Unitary method continued, consolidation, general expression.  
+ 
+• Percentage- an introduction.  
+ 
+• Understanding percentage as a fraction with denominator 100  
+ 
+• Converting fractions and decimals into percentage and vice-versa.  
+ 
+• Application to profit and loss (single transaction only)  
+ 
+• Application to simple interest (time period in complete years). 
+ 
+ 
+Geometry (60 hrs) 
+1. Understanding shapes:  
+ 
+•Pairs of angles (linear, supplementary, complementary, adjacent, vertically opposite) 
+(verification and simple proof of vertically opposite angles)  
+ 
+• Properties of parallel lines with transversal (alternate, corresponding, interior, exterior angles) 
+ 
+2. Properties of triangles: 
+ 
+• Angle sum property (with notions of proof & verification through paper folding, proofs using 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+property of parallel lines, difference between proof and verification.)  
+• Exterior angle property • Sum of two sides of a it’s third side  
+ 
+• Pythagoras Theorem (Verification only) 
+ 
+3. Symmetry 
+• Recalling reflection symmetry  
+ 
+• Idea of rotational symmetry, observations of rotational symmetry of 2-D objects. (900, 1200, 
+1800)  
+ 
+• Operation of rotation through 900 and 1800 of simple figures.  
+ 
+• Examples of figures with both rotation and reflection symmetry (both operations)  
+ 
+• Examples of figures that have reflection and rotation symmetry and vice-versa 
+ 
+ 
+4. Representing 3-D in 2-D 
+• Drawing 3-D figures in 2-D showing hidden faces.  
+ 
+• Identification and counting of vertices, edges, faces, nets (for cubes cuboids, and cylinders, 
+cones).  
+ 
+• Matching pictures with objects (Identifying names) 
+ 
+• Mapping the space around approximately through visual estimation. 
+ 
+ 
+5. Congruence 
+• Congruence through superposition (examples, blades, stamps, etc.) 
+ 
+• Extend congruence to simple geometrical shapes e.g. triangles, circles.  
+ 
+• Criteria of congruence (by verification) SSS, SAS, ASA, RHS 
+ 
+ 
+6. Construction (Using scale, protractor, compass) 
+ 
+• Construction of a line parallel to a given line from a point outside it (Simple proof as remark 
+with the reasoning of alternate angles)  
+ 
+• Construction of simple triangles. Like given three sides, given a side and two angles on it, 
+given two sides and the angle between them. 
+ 
+ 
+
+
+--- Page 4 ---
+ 
+ 
+ 
+ 
+ 
+Mensuration (15 hrs) 
+ 
+• Revision of perimeter, Idea of , Circumference of Circle 
+ 
+Area  
+Concept of measurement using a basic unit area of a square, rectangle, triangle, parallelogram 
+and circle, area between two rectangles and two concentric circles 
+ 
+ 
+Data handling (15 hrs) 
+i) 
+Collection and organisation of data – choosing the data to collect for a hypothesis testing.  
+ 
+ii) 
+Mean, median and mode of ungrouped data – understanding what they represent.  
+ 
+iii) 
+Constructing bargraphs  
+ 
+iv) 
+Feel of probability using data through experiments. Notion of chance in events like 
+tossing coins, dice etc. Tabulating and counting occurrences of 1 through 6 in a number 
+of throws. Comparing the observation with that for a coin. Observing strings of throws, 
+notion of randomness. 
+ 
+
 ```
 
 ---

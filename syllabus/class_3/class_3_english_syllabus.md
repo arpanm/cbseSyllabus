@@ -5,7 +5,7 @@
 - **Class**: 3
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-3-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:14.031035
+- **Extracted At**: 2026-01-29T11:00:29.104214
 
 ## Detailed Content
 
@@ -42,6 +42,47 @@ Frequently Asked Questions on CBSE Class 3 English Syllabus 2023-24
 Which textbook is used for Class 3 English as per CBSE Syllabus?
 How many chapters will I learn in Class 3 English according to CBSE Syllabus?
 Why should I depend on the CBSE Class 3 English Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 3 Syllabus for English 
+2023-24 
+ 
+CBSE Class 3 English Syllabus Chapter Name 
+Unit 1: Good Morning 
+The Magic Garden 
+Unit 2: Bird Talk 
+Nina and the Baby Sparrows 
+Unit 3: Little by Little 
+The Enormous Turnip 
+Unit 4: Sea Song 
+A Little Fish Story 
+Unit 5: The Balloon Man 
+The Yellow Butterfly 
+Unit 6: Trains 
+The Story of the Road 
+Unit 7: Puppy and I 
+Little Tiger, Big Tiger 
+Unit 8: What’s in the Mailbox? 
+My Silly Sister 
+Unit 9: Don’t Tell 
+He is My Brother 
+Unit 10: How Creatures Move 
+The Ship of the Desert  
+
 ```
 
 ---

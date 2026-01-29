@@ -5,7 +5,7 @@
 - **Class**: 1
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse-class-1-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:28:59.685328
+- **Extracted At**: 2026-01-29T10:59:41.828936
 
 ## Topics
 
@@ -131,6 +131,107 @@ Frequently Asked Questions on CBSE Class 1 Maths Syllabus 2023-24
 What concepts are explained in the CBSE Class 1 Maths Syllabus?
 Why is the CBSE Class 1 Maths Syllabus for 2023-24 essential for the students?
 How to score 100 marks in the Class 1 Maths exam using the CBSE Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Maths-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 1 Syllabus for Maths 
+2023-24 
+ 
+Geometry (10 hrs.)  
+SHAPES & SPATIAL UNDERSTANDING  
+• Develops and uses vocabulary of spatial relationship (Top, Bottom, On, Under, Inside, Outside, 
+Above, Below, Near, Far, Before, After) SOLIDS AROUND US  
+• Collects objects from the surroundings having different sizes and shapes like pebbles, boxes, balls, 
+cones, pipes, etc.  
+• Sorts, Classifies and describes the objects on the basis of shapes, and other observable properties.  
+• Observes and describes the way shapes affect movements like rolling and sliding.  
+• Sorts 2 - D shapes such as flat objects made of card etc 
+ 
+Numbers (46 hrs.)  
+DEVELOPING A SENSE OF NUMBERNESS, COUNTING AND OPERATIONS OF 
+NUMBERS 1 - 9 AND ZERO  
+• Observes object and makes collections of objects.  
+• Arranges the collection of objects in order by – Matching and – One to one correspondence  
+• Counts the number of objects in a collection.  
+• Makes collection of objects corresponding to a specific number.  
+• Recognises and speaks numbers from 1 to 9.  
+• Uses numbers from 1 to 9 in counting and comparison. (Real objects and repeated events like clapping 
+to be used for counting)  
+• Reads and writes numerals from 1 to 9.  
+• Adds and subtracts using real objects and pictures. 
+• Adds and subtracts the numbers using symbols ‘+’ and ‘-’. • Approaches zero through the subtraction 
+pattern (such as 3 – 1 = 2, 3 – 2 = 1, 3 – 3 = 0). 
+ 
+NUMBERS FROM (10 - 20)  
+• Forms Number sequence from 10 to 20.  
+• Counts objects using these numbers.  
+• Groups objects into a group of 10s and single objects.  
+• Develops the vocabulary of group of ‘tens’ and ‘ones’.  
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+• Shows the group of tens and ones by drawing.  
+• Counts the number of tens and ones in a given number.  
+• Writes the numerals for eleven to nineteen.  
+• Writes numerals for ten and twenty.  
+• Compares numbers upto 20. ADDITION AND SUBTRACTION (UPTO 20)  
+• Adds and subtracts numbers upto 20. NUMBERS FROM 21 - 99  
+• Writes numerals for Twenty-one to Ninety nine.· Groups objects into tens and ones.  
+• Draws representation for groups of ten and ones.  
+• Groups a number orally into tens and ones. 
+ 
+MENTAL ARITHMETIC  
+• Adds two single digit numbers mentally. 
+ 
+ Money (3 hrs.)  
+• Identifies common currency notes and coins.  
+• Puts together small amounts of money. 
+ 
+Measurement (13 hrs.)  
+LENGTH  
+• Distinguishes between near, far, thin, thick, longer/taller, shorter, high, low.  
+• Seriates objects by comparing their length. 
+• Measures short lengths in terms of non-uniform units (in the context of games e.g. ‘Gilli Danda’ and 
+‘marblegames’).  
+• Estimates distance and length, and verifies using nonuniform units (e.g. hand span etc.) WEIGHT  
+• Compares between heavy and light objects. Time  
+• Distinguishes between events occurring in time using terms -earlier and later.  
+• Gets the qualitative feel of long & short duration, of school days v/s holidays.  
+• Narrates the sequence of events in a day. 
+ 
+Data Handling (6 hrs.)  
+• Collects, represents and interprets simple data such as measuring the arm length or circumference of 
+the head using a paper strip. 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+ Patterns (10 hrs.)  
+• Describes sequences of simple patterns found in shapes in the surroundings and in numbers, e.g. 
+stamping activity using fingers and thumb.  
+• Completes a given sequence of simple patterns found in shapes in the surroundings and in numbers. 
+ 
+
 ```
 
 ---

@@ -5,7 +5,7 @@
 - **Class**: 8
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-8-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:29:58.282957
+- **Extracted At**: 2026-01-29T11:02:27.461073
 
 ## Syllabus Structure
 
@@ -105,6 +105,184 @@ Chapter 9:Mensuration11.1Introduction11.2Let us Recall11.3Area of Trapezium11.4A
 Chapter 9:Mensuration
 11.1Introduction11.2Let us Recall11.3Area of Trapezium11.4Area of General Quadrilateral11.5Area of Polygons11.6Solid Shapes11.7Surface Area of Cube, Cuboid and Cylinder11.8Volume of Cube, Cuboid and Cylinder11.9Volume and Capacity
 Chapter 10:Exponents and Powers12.1Introduction12.2Powers with Negative Exponents12.3Laws of Exponents12.4Use of Exponents to Express Small N
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-April-12-Class-8-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-April-12-Class-8-Maths-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 8 Syllabus for Maths 2023-24 
+ 
+Unit I: Number System (50 hrs)  
+ 
+(i) Rational Numbers: 
+• Properties of rational numbers. (including identities). Using general form of expression to describe 
+properties  
+ 
+• Consolidation of operations on rational numbers.  
+ 
+• Representation of rational numbers on the number line  
+ 
+• Between any two rational numbers there lies another rational number (Making children see that if we 
+take two rational numbers then unlike for whole numbers, in this case you can keep finding more and 
+more numbers that lie between them.)  
+ 
+• Word problem (higher logic, two operations, including ideas like area) 
+ 
+(ii) Powers 
+ • Integers as exponents.  
+ 
+• Laws of exponents with integral powers 
+ 
+(iii) Squares, Square roots, Cubes, Cube roots.  
+• Square and Square roots  
+ 
+• Square roots using factor method and division method for numbers containing (a) no more than total 4 
+digits and (b) no more than 2 decimal places 
+ 
+• Cubes and cubes roots (only factor method for numbers containing at most 3 digits)  
+ 
+• Estimating square roots and cube roots. Learning the process of moving nearer to the required number. 
+ 
+(iv) Playing with numbers  
+• Writing and understanding a 2 and 3 digit number in generalized form (100a + 10b + c , where a, b, c 
+can be only digit 0-9) and engaging with various puzzles concerning this. (Like finding the missing 
+numerals represented by alphabets in sums involving any of the four operations.) Children to solve and 
+create problems and puzzles.  
+ 
+• Number puzzles and games  
+ 
+• Deducing the divisibility test rules of 2, 3, 5, 9, 10 for a two or three-digit number expressed in the 
+general form. 
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+Unit II: Algebra (20 hrs) 
+ 
+(i) Algebraic Expressions  
+• Multiplication and division of algebraic exp.(Coefficient should be integers)  
+ 
+• Some common errors (e.g. 2 + x ≠ 2x, 7x + y ≠ 7xy )  
+ 
+• Identities (a ± b) 2 = a 2 ± 2ab + b2 , a2 – b2 = (a – b) (a + b) Factorisation (simple cases only) as 
+examples the following types a(x + y), (x ± y)2 , a2 – b2 , (x + a).(x + b) 
+ 
+• Solving linear equations in one variable in contextual problems involving multiplication and division 
+(word problems) (avoid complex coefficient in the equations) 
+ 
+Unit III: Ratio and Proportion (25 hrs) 
+ 
+• Slightly advanced problems involving applications on percentages, profit & loss, overhead expenses, 
+Discount, tax.  
+ 
+• Difference between simple and compound interest (compounded yearly up to 3 years or half-yearly up 
+to 3 steps only), Arriving at the formula for compound interest through patterns and using it for simple 
+problems.  
+ 
+• Direct variation – Simple and direct word problems  
+ 
+• Inverse variation – Simple and direct word problems  
+ 
+• Time & work problems– Simple and direct word problems 
+ 
+Unit IV: Geometry (40 hrs) 
+ 
+(i) Understanding shapes:  
+• Properties of quadrilaterals – Sum of angles of a quadrilateral is equal to 3600 (By verification)  
+ 
+• Properties of parallelogram (By verification)  
+(i) Opposite sides of a parallelogram are equal, 
+ 
+(ii) Opposite angles of a parallelogram are equal,  
+ 
+(iii) Diagonals of a parallelogram bisect each other. [Why (iv), (v) and (vi) follow from (ii)] 
+ 
+(iv) Diagonals of a rectangle are equal and bisect each other.  
+ 
+(v) Diagonals of a rhombus bisect each other at right angles.  
+ 
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+(vi) Diagonals of a square are equal and bisect each other at right angles. 
+ 
+(ii) Representing 3-D in 2-D  
+• Identify and Match pictures with objects [more complicated e.g. nested, joint 2-D and 3-D shapes (not 
+more than 2)].  
+ 
+• Drawing 2-D representation of 3-D objects (Continued and extended)  
+ 
+• Counting vertices, edges & faces & verifying Euler’s relation for 3-D figures with flat faces (cubes, 
+cuboids, tetrahedrons, prisms and pyramids) 
+ 
+(iii) Construction:  
+Construction of Quadrilaterals:  
+• Given four sides and one diagonal  
+ 
+• Three sides and two diagonals  
+ 
+• Three sides and two included angles  
+ 
+• Two adjacent sides and three angles 
+ 
+Unit V: Mensuration (15 hrs)  
+(i) Area of a trapezium and a polygon. 
+ 
+(ii) Concept of volume, measurement of volume using a basic unit, volume of a cube, cuboid and cylinder  
+ 
+(iii) Volume and capacity (measurement of capacity)  
+ 
+(iv) Surface area of a cube, cuboid, cylinder. 
+ 
+Unit VI: Data handling (15 hrs)  
+(i) Reading bar-graphs, ungrouped data, arranging it into groups, representation of grouped data through 
+bar-graphs, constructing and interpreting bar-graphs.  
+ 
+(ii) Simple Pie charts with reasonable data numbers  
+ 
+(iii) Consolidating and generalising the notion of chance in events like tossing coins, dice etc. Relating it 
+to chance in life events. Visual representation of frequency outcomes of repeated throws of the same kind 
+of coins or dice. Throwing a large number of identical dice/coins together and aggregating the result of 
+the throws to get large number of individual events. Observing the aggregating numbers over a large 
+number of repeated events. Comparing with the data for a coin. Observing strings of throws, notion of 
+randomness 
+ 
+Unit VII: Introduction to graphs (15 hrs) 
+ 
+
+
+--- Page 4 ---
+ 
+ 
+ 
+ 
+PRELIMINARIES:  
+(i) Axes (Same units), Cartesian Plane  
+ 
+(ii) Plotting points for different kind of situations (perimeter vs length for squares, area as a function of 
+side of a square, plotting of multiples of different numbers, simple interest vs number of years etc.)  
+ 
+(iii) Reading off from the graphs • Reading of linear graphs • Reading of distance vs time graph 
+
 ```
 
 ---

@@ -5,7 +5,7 @@
 - **Class**: 7
 - **Subject**: Science
 - **Source**: https://byjus.com/cbse/cbse-class-7-science-syllabus/
-- **Extracted At**: 2026-01-28T18:29:54.083767
+- **Extracted At**: 2026-01-29T11:02:08.081109
 
 ## Syllabus Structure
 
@@ -84,6 +84,573 @@ Frequently Asked Questions on CBSE Class 7 Science Syllabus 2023-24
 What are the main topics explained in the CBSE Class 7 Science Syllabus?
 How many chapters are covered in the CBSE Class 7 Science Syllabus for 2023-24?
 Why is the CBSE Class 7 Science Syllabus important for the students?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Science-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Science-2023-24.pdf ===
+--- Page 1 ---
+146
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+1. Food
+Food from where
+How do plants get their
+food?
+Utilisation of food
+How do plants and
+animals utilise their food?
+2. Materials
+Materials of daily use
+Do some of our clothes
+come 
+from 
+animal
+sources?
+Which are these animals?
+Who rears them?
+Which parts of the animals
+yield the yarn? How is the
+yarn extracted?
+What kinds of clothes help
+us to keep warm?
+What is heat?
+What is the meaning of
+‘cool’/‘cold’ and ‘warm’ ‘hot’?
+Autotrophic and
+heterotrophic nutrition;
+parasites, saprophytes;
+photosynthesis.
+Types of nutrition,
+nutrition in amoeba and
+human beings, Digestive
+system – human,
+ruminants; types of
+teeth; link with transport
+and respiration.
+Wool, silk – animal fibres.
+Process of extraction of
+silk; associated health
+problems.
+Heat flow; temperature.
+Coleus or any other plant
+with variegated leaves,
+alcohol, iodine solution, kit
+materials.
+Model of human teeth,
+charts of alimentary canal,
+types of nutrition etc.,
+chart and model of
+amoeba. The story of the
+stomach with a hole.
+Samples of wool and silk;
+brief 
+account 
+of
+silkworm rearing and
+sheep breeding.
+Potassium permanganate,
+metal strip or rod, wax,
+common pins, spirit lamp,
+matches, 
+tumblers,
+Thermometer etc.
+(Periods - 22)
+Need for light, green
+leaf for photosynthesis,
+looking at any
+saprophyte/parasite and
+noting differences from
+a green plant.
+Effect of saliva on starch,
+permanent 
+slide 
+of
+Amoeba.
+Role play with children.
+(Periods - 38)
+Collection of different
+samples of woollen and
+silk cloth. Activities to
+differentiate natural silk
+and wool from artificial
+fibres.
+Discussion.
+Experiment to show that
+‘hot’ and ‘cold’ are relative.
+Experiments to show
+conduction, convection
+and radiation.
+CBSE Class 7 Syllabus for Science 
+2023-24
+
+
+--- Page 2 ---
+147
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+How does heat flow
+from/to our body to/
+from the surroundings?
+Different kinds of
+materials
+Why does turmeric stain
+become red on applying
+soap?
+How things change/
+react with one another
+What gets deposited on a
+tawa/khurpi /kudal if left
+in a moist state?
+Why does the exposed
+surface of a cut brinjal
+become black?
+Why is seawater salty? Is it
+possible to separate salt
+from seawater?
+Classification of
+substances into acidic,
+basic and neutral;
+indicators.
+Chemical substances; in a
+chemical reaction a new
+substance is formed.
+Substances can be
+separated by
+crystallisation.
+Common substances like
+sugar, salt, vinegar etc, test
+tubes, plastic vials,
+droppers, etc.
+Test tubes, droppers,
+common pins, vinegar,
+baking powder, CuSO4,
+etc.
+Urea, copper sulphate,
+alum etc, beaker, spirit
+lamp, watch glass, plate,
+petridish etc.
+Reading a thermometer.
+Testing solutions of
+common substances like
+sugar, salt, vinegar, lime
+juice etc. with turmeric,
+litmus, china rose.
+Activity to show
+neutralisation.
+Experiments involving
+chemical reactions like
+rusting of iron, neutralisation
+(vinegar and baking soda),
+displacement of Cu from
+CuSO4 etc.
+Introduce chemical formulae
+without explaining them.
+Making crystals of easily
+available substances like
+urea, 
+alum, 
+copper
+sulphate 
+etc. 
+using
+supersaturated solutions
+and evaporation.
+
+
+--- Page 3 ---
+148
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+3. The World of  the
+Living
+Surroundings affect the
+living
+Why are nights cooler?
+How does having winters
+and summers affect soil?
+Are all soils similar? Can
+we make a pot with sand?
+Is soil similar when you
+dig into the ground? What
+happens to water when it
+falls on the cemented/
+bare ground?
+The breath of life
+Why do we/animals
+breathe? Do plants also
+breathe? Do they also
+respire? How do plants/
+animals live in water?
+Movement of
+substances
+How does water move in
+plants? How is food
+transported in plants?
+Why do animals drink
+water? Why do we sweat?
+Why and how is there
+blood in all parts of the
+Climate, soil types, soil
+profile, absorption of
+water in soil, suitability for
+crops, adaptation of
+animals to different
+climates.
+Respiration in plants and
+animals.
+Herbs, shrubs, trees;
+Transport of  food and
+water in plants; circulatory
+and excretion system in
+animals; sweating.
+Data on earth, sun – size,
+distance etc, daily changes
+in temperature, humidity
+from the newspaper,
+sunrise, sunset etc.
+Lime water, germinating
+seeds, kit materials.
+Twig, stain; improvised
+stethoscope; plastic bags,
+plants, egg, sugar, salt,
+starch, Benedicts solution,
+AgNO3 solution.
+(Periods - 42)
+Graph for daily changes in
+temperature, day length,
+humidity etc.; texture of
+various soils by wetting
+and rolling; absorption /
+percolation of water in
+different soils, which soil
+can hold more water.
+Experiment to show
+plants and animals respire;
+rate of breathing; what do
+we breathe out? What do
+plants ‘breathe’ out?
+Respiration in seeds; heat
+release due to respiration.
+Anaerobic respiration,
+root respiration.
+Translocation of water in
+stems, demonstration of
+transpiration, measurement
+of pulse rate, heartbeat;after
+exercise etc.
+Discussion on dialysis,
+importance; experiment
+
+
+--- Page 4 ---
+149
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+body? Why is blood red?
+Do all animals have blood?
+What is there in urine?
+Multiplication in plants
+Why are some plant parts
+like potato, onion swollen
+– are they of any use to
+the plants? What is the
+function of flowers?
+How are fruits and seeds
+formed? How are they
+dispersed?
+4. Moving 
+Things,
+People and Ideas
+Moving objects
+Why do people feel the
+need to measure time?
+How do we know how
+fast something is moving?
+Vegetative, asexual and
+sexual reproduction in
+plants, pollination - cross,
+self pollination;
+pollinators, fertilisation,
+fruit, seed.
+Appreciation of idea of
+time and need to
+measure it.
+Measurement of time
+using periodic events.
+Idea of speed of moving
+objects – slow and fast
+motion along a straight line.
+Bryophyllum leaves, potato,
+onion etc.; yeast powder,
+sugar.
+Daily-life experience;
+metre scale, wrist watch/
+stop watch, string etc.
+on dialysis using egg
+membrane.
+Study of tuber, corm, bulb
+etc; budding in yeast; T.S./
+L.S. ovaries, w.m.pollen
+grains; comparison of
+wind 
+pollinated 
+and
+insect pollinated flowers;
+observing fruit and seed
+development in some plants;
+collection and discussion of
+fruits/seeds dispersed by
+different means.
+(Periods - 16)
+Observing and analysing
+motion (slow or fast) of
+common objects on land,
+in air, water and space.
+Measuring the distance
+covered by objects moving
+on a road in a given time
+and calculating their speeds.
+Plotting distance vs. time
+graphs for uniform motion.
+Measuring the time taken
+by moving objects to
+cover a given distance and
+calculating their speeds.
+Constancy of time period
+of a pendulum.
+
+
+--- Page 5 ---
+150
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+5. How Things Work
+Electric current and
+circuits
+How can we conveniently
+represent an electric
+circuit?
+Why does a bulb get hot?
+How does a fuse work?
+How does the current in
+a wire affect the direction
+of a compass needle?
+What is an electromagnet?
+How does an electric bell
+work?
+6. Natural Phenomena
+Rain, thunder and
+lightning
+What causes storms? What
+are the effects of storms?
+Why are roofs blown off?
+Light
+Can we see a source of
+light through a bent tube?
+Electric circuit symbols for
+different elements of
+circuit.
+Heating effect of current.
+Principle of fuse.
+A current-carrying wire has
+an effect on a magnet.
+A current-carrying coil
+behaves like a magnet.
+Working of an electric bell.
+High-speed winds and
+heavy 
+rainfall 
+have
+disastrous consequences
+for human and other life.
+Rectilinear propagation of
+light.
+Recollection of earlier
+activities. Pencil and paper.
+Cells, wire, bulb.
+Cells, wire, bulb or LED,
+aluminium foil.
+Wire, compass, battery.
+Coil, battery, iron nail.
+Electric bell.
+Experience; newspaper
+reports.
+Narratives/stories.
+Rubber/plastic tube/
+straw, any source of light.
+Drawing circuit diagrams.
+Activities to show the
+heating effect of electric
+current.
+Making a fuse.
+Activity to show that a
+current-carrying wire has
+an effect on a magnet.
+Making a simple electro-
+magnet.
+Identifying situations
+in daily life where
+electromagnets are used.
+Demonstration of working
+of an electric bell.
+(Periods - 24)
+Making wind speed and
+wind direction indicators.
+Activity to show “lift” due
+to moving air.
+Discussion on effects of
+storms and possible safety
+measures.
+Observation of the source
+of light through a straight
+tube, a bent tube.
+
+
+--- Page 6 ---
+151
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+How can we throw
+sunlight on a wall?
+What things give images
+that are magnified or
+diminished in size?
+How can we make a
+coloured disc appear
+white?
+7. Natural Resources
+Scarcity of water
+Where and how do you
+get water for your
+domestic needs? Is it
+enough?  Is there enough
+water for agricultural
+needs?  What happens to
+plants when there is not
+enough water for plants?
+Where does a plant go
+when it dies?
+Reflection, certain surfaces
+reflect light.
+Real and virtual images.
+White light is composed
+of many colours.
+Water exists in various
+forms in nature.
+Scarcity of water and its
+effect on life.
+Glass/metal sheet/metal
+foil, white paper.
+Convex/concave lenses
+and mirrors.
+Newton’s disc.
+Experience; media
+reports; case material.
+Observing reflection of
+light on wall or white
+paper screen.
+Open ended activities
+allowing children to
+explore images made by
+different objects, and
+recording observations.
+Focussed discussions on
+real and virtual images.
+Making the disc and
+rotating it.
+Discussions.
+Case study of people
+living in conditions of
+extreme scarcity of water,
+how they use water in a
+judicious way.
+Projects exploring various
+kinds of water resources
+that exist in nature in
+different regions in India;
+variations 
+of 
+water
+availability in different
+regions.
+
+
+--- Page 7 ---
+Questions
+Key Concepts
+Resources
+Activities/
+Processes
+Forest products
+What are the products we
+get from forests? Do
+other animals also benefit
+from forests? What will
+happen 
+if 
+forests
+disappear?
+Waste Management
+Where does dirty water
+from your house go?
+Have you seen a drain?
+Does the water stand in it
+sometimes? Does this
+have any harmful effect?
+Interdependence of plants
+and animals in forests.
+Forests contribute to
+purification of air and
+water.
+Sewage; 
+need 
+for
+drainage/sewer systems
+that are closed.
+Case material on forests.
+Observation and
+experience; photographs.
+Case study of forests.
+Survey of the
+neighbourhood,
+identifying locations with
+open drains, stagnant
+water, and possible
+contamination of
+ground water by sewage.
+Tracing the route of
+sewage in your building,
+and trying to understand
+whether there are any
+problems in sewage
+disposal.
+152
+
 ```
 
 ---

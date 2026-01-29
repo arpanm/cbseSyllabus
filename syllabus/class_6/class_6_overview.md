@@ -4,7 +4,7 @@
 
 - **Class**: 6
 - **Source**: https://byjus.com/cbse/cbse-class-6-syllabus/
-- **Extracted At**: 2026-01-28T18:28:44.670419
+- **Extracted At**: 2026-01-29T10:59:24.924861
 
 ## Detailed Content
 

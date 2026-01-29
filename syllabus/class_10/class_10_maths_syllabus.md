@@ -5,7 +5,7 @@
 - **Class**: 10
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-10-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:30:14.018123
+- **Extracted At**: 2026-01-29T11:03:59.011147
 
 ## Marking Scheme
 
@@ -138,6 +138,270 @@ Frequently Asked Questions on CBSE Syllabus of Class 10 Maths 2023-24
 How much time will it take to complete the CBSE Class 10 Maths Syllabus?
 How many units are present in the CBSE Class 10 Maths Syllabus?
 How many marks are allotted for the internal assessment as per the CBSE Maths Syllabus of Class 10?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-10-April-11-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-10-April-11-Maths-2023-24.pdf ===
+--- Page 1 ---
+6 
+CBSE Class 10 Syllabus for Maths 2023-24 
+Units 
+Unit Name 
+Marks 
+I 
+NUMBER SYSTEMS 
+06 
+II 
+ALGEBRA 
+20 
+III 
+COORDINATE GEOMETRY 
+06 
+IV 
+GEOMETRY 
+15 
+V 
+TRIGONOMETRY 
+12 
+VI 
+MENSURATION 
+10 
+VII 
+STATISTICS & PROBABILTY 
+11 
+Total 
+80 
+UNIT I: NUMBER SYSTEMS 
+1. REAL NUMBER
+(15) Periods
+Fundamental Theorem of Arithmetic - statements after reviewing work done earlier and 
+after illustrating and motivating through examples, Proofs of irrationality of 
+UNIT II: ALGEBRA 
+1.
+POLYNOMIALS                                                                                (8) Periods
+Zeros of a polynomial. Relationship between zeros and coefficients of quadratic
+polynomials.
+2.
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES                                      (15) Periods
+Pair of linear 
+equations 
+in two 
+variables 
+and 
+graphical 
+method of their
+solution, consistency/inconsistency.
+Algebraic conditions for number of solutions. Solution of a pair of linear equations in two
+variables algebraically - by substitution, by elimination. Simple situational problems.
+3.
+QUADRATIC EQUATIONS                                                                                          (15) Periods
+Standard form of a quadratic equation ax2 + bx + c = 0, (a ≠ 0). Solutions of quadratic
+equations (only real roots) by factorization, and by using quadratic formula. Relationship
+between discriminant and nature of roots.
+Situational problems based on quadratic equations related to day to day activities to be
+incorporated.
+
+
+--- Page 2 ---
+7 
+4.
+ARITHMETIC PROGRESSIONS 
+                                                                      (10) Periods
+Motivation for studying Arithmetic Progression Derivation of the nth term and sum of the
+first n terms of A.P. and their application in solving daily life problems.
+UNIT III: COORDINATE GEOMETRY 
+        Coordinate Geometry    
+(15) Periods
+Review: Concepts of coordinate geometry, graphs of linear equations. Distance formula. 
+Section formula (internal division).  
+UNIT IV: GEOMETRY 
+1.
+TRIANGLES
+(15) Periods
+Definitions, examples, counter examples of similar triangles.
+1. (Prove) If a line is drawn parallel to one side of a triangle to intersect the other two
+sides in distinct points, the other two sides are divided in the same ratio.
+2. (Motivate) If a line divides two sides of a triangle in the same ratio, the line is parallel
+to the third side.
+3. (Motivate) If in two triangles, the corresponding angles are equal, their corresponding
+sides are proportional and the triangles are similar.
+4. (Motivate) If the corresponding sides of two triangles are proportional, their
+corresponding angles are equal and the two triangles are similar.
+5. (Motivate) If one angle of a triangle is equal to one angle of another triangle and the
+sides including these angles are proportional, the two triangles are similar.
+2.
+CIRCLES
+(10) Periods
+Tangent to a circle at, point of contact
+1. (Prove) The tangent at any point of a circle is perpendicular to the radius through the
+point of contact.
+2. (Prove) The lengths of tangents drawn from an external point to a circle are equal.
+
+
+--- Page 3 ---
+8 
+UNIT V: TRIGONOMETRY 
+1.
+INTRODUCTION TO TRIGONOMETRY                                                                        (10) Periods
+Trigonometric ratios of an acute angle of a right-angled triangle. Proof of their
+existence (well defined); motivate the ratios whichever are defined at 0o and 90o. Values
+of the trigonometric ratios of 300, 450 and 600. Relationships between the ratios.
+2.
+TRIGONOMETRIC IDENTITIES                                                                                        (15) Periods
+Proof and applications of the identity sin2A + cos2A = 1. Only simple identities to be
+given.
+3.
+HEIGHTS AND DISTANCES: Angle of elevation, Angle of Depression. (10)Periods
+Simple problems on heights and distances. Problems should not involve more than two
+right triangles. Angles of elevation / depression should be only 30°, 45°, and 60°.
+UNIT VI: MENSURATION 
+1.
+AREAS RELATED TO CIRCLES                                                                                       (12) Periods
+Area of sectors and segments of a circle. Problems based on areas and perimeter /
+circumference of the above said plane figures. (In calculating area of segment of a
+circle, problems should be restricted to central angle of 60°, 90° and 120° only.
+2.
+SURFACE AREAS AND VOLUMES                                                                                 (12) Periods
+Surface areas and volumes of combinations of any two of the following: cubes, cuboids,
+spheres, hemispheres and right circular cylinders/cones.
+UNIT VII: STATISTICS AND PROBABILITY 
+1.
+STATISTICS
+(18) Periods
+Mean, median and mode of grouped data (bimodal situation to be avoided).
+2.
+PROBABILITY                                                                                    (10) Periods
+Classical definition of probability. Simple problems on finding the probability of an
+event.
+
+
+--- Page 4 ---
+9 
+MATHEMATICS-Standard   
+QUESTION PAPER DESIGN 
+CLASS – X (2023-24)  
+Time: 3 Hours 
+  Max. Marks: 80
+S. 
+No. 
+Typology of Questions 
+Total 
+Marks 
+% 
+Weightage 
+(approx.) 
+1 
+Remembering: Exhibit memory of previously learned material by 
+recalling facts, terms, basic concepts, and answers. 
+Understanding: Demonstrate understanding of facts and ideas by 
+organizing, comparing, translating, interpreting, giving descriptions, and 
+stating main ideas 
+43 
+54 
+2 
+Applying: Solve problems to new situations by applying acquired 
+knowledge, facts, techniques and rules in a different way. 
+19 
+24 
+3 
+Analysing : 
+Examine and break information into parts by identifying motives or 
+causes. Make inferences and find evidence to support generalizations 
+Evaluating: 
+Present and defend opinions by making judgments about information, 
+validity of ideas, or quality of work based on a set of criteria. 
+Creating:  
+Compile information together in a different way by combining elements 
+in a new pattern or proposing alternative solutions 
+18 
+22 
+Total 
+80 
+100 
+INTERNAL ASSESSMENT 
+20 MARKS 
+Pen Paper Test and Multiple Assessment  (5+5) 
+    10 Marks 
+Portfolio  
+    05 Marks 
+Lab Practical (Lab activities to be done from the prescribed books) 
+    05 Marks 
+
+
+--- Page 5 ---
+10 
+MATHEMATICS-Basic 
+QUESTION PAPER DESIGN 
+CLASS – X (2023-24)  
+Time: 3Hours 
+ Max. Marks: 80
+S. 
+No. 
+Typology of Questions 
+Total 
+Marks 
+% 
+Weightage 
+(approx.) 
+1 
+Remembering: Exhibit memory of previously learned material by 
+recalling facts, terms, basic concepts, and answers. 
+Understanding: Demonstrate understanding of facts and ideas by 
+organizing, comparing, translating, interpreting, giving descriptions, and 
+stating main ideas 
+60 
+75 
+2 
+Applying: Solve problems to new situations by applying acquired 
+knowledge, facts, techniques and rules in a different way. 
+12 
+15 
+3 
+Analysing : 
+Examine and break information into parts by identifying motives or 
+causes. Make inferences and find evidence to support generalizations 
+Evaluating: 
+Present and defend opinions by making judgments about information, 
+validity of ideas, or quality of work based on a set of criteria. 
+Creating:  
+Compile information together in a different way by combining elements 
+in a new pattern or proposing alternative solutions 
+8 
+10 
+Total 
+80 
+100 
+PRESCRIBED BOOKS: 
+1.
+Mathematics - Textbook for class IX - NCERT Publication
+2.
+Mathematics - Textbook for class X - NCERT Publication
+3.
+Guidelines for Mathematics Laboratory in Schools, class IX - CBSE Publication
+4.
+Guidelines for Mathematics Laboratory in Schools, class X - CBSE Publication
+5.
+Laboratory Manual - Mathematics, secondary stage - NCERT Publication
+6.
+Mathematics exemplar problems for class IX, NCERT publication.
+7.
+Mathematics exemplar problems for class X, NCERT publication.
+INTERNAL ASSESSMENT 
+20 MARKS 
+Pen Paper Test and Multiple Assessment  (5+5) 
+    10 Marks 
+Portfolio  
+    05 Marks 
+Lab Practical (Lab activities to be done from the prescribed books) 
+    05 Marks 
+
 ```
 
 ---

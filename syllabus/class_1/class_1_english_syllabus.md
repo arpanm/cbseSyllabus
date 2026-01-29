@@ -5,7 +5,7 @@
 - **Class**: 1
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-1-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:01.216590
+- **Extracted At**: 2026-01-29T10:59:45.664345
 
 ## Detailed Content
 
@@ -62,6 +62,76 @@ Frequently Asked Questions on CBSE Class 1 English Syllabus 2023-24
 What are the textbooks used for Class 1 English in the CBSE Syllabus?
 How many chapters are there in Class 1 English according to CBSE Syllabus?
 Is the CBSE Class 1 English Syllabus available for free?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 1 Syllabus for English 
+2023-24 
+ 
+CBSE Class 1 English Marigold Syllabus Chapter Name 
+Unit 1: A Happy Child 
+Three Little Pigs 
+Unit 2: After a Bath 
+The Bubble, the Straw and the Shoe 
+Unit 3: One Little Kitten 
+Lalu and Peelu 
+Unit 4: Once I Saw a Little Bird 
+Mittu and the Yellow Mango 
+Unit 5: Merry-Go-Round 
+Circle 
+Unit 6: If I Were an Apple 
+Our Tree 
+Unit 7: A Kite 
+Sundari 
+Unit 8: A Little Turtle 
+The Tiger and the Mosquito 
+Unit 9: Clouds 
+Anandi’s Rainbow 
+Unit 10: Flying Man 
+The Tailor and his Friend 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+ 
+CBSE Class 1 English Raindrops Syllabus Chapter Name 
+Chapter 1: Clap, Clap, Clap 
+Chapter 2: One, Two 
+Chapter 3: The Little Bird 
+Chapter 4: Bubbles 
+Chapter 5: Chhotu 
+Chapter 6: Animals and Birds 
+Chapter 7: Fruits and Vegetables 
+Chapter 8: Who Am I? 
+Chapter 9: Hide and Seek 
+Chapter 10: Fun with Numbers 
+Chapter 11: Shapes 
+Chapter 12: Cats 
+Chapter 13: Colours 
+Chapter 14: Actions We Do 
+Chapter 15: Left and Right 
+Chapter 16: The Lion and the Mouse 
+Chapter 17: Morning and Evening 
+Chapter 18: May I Come In? 
+Chapter 19: Action Song 
+ 
+
 ```
 
 ---

@@ -5,7 +5,7 @@
 - **Class**: 4
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-4-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:23.193418
+- **Extracted At**: 2026-01-29T11:00:46.186130
 
 ## Detailed Content
 
@@ -43,6 +43,47 @@ Frequently Asked Questions on CBSE Syllabus for Class 4 English 2023-24
 How many units are there in the CBSE Syllabus for Class 4 English?
 Why should I focus on English in the CBSE Class 4 Syllabus?
 How to attain good marks in the Class 4 English exam using the CBSE Syllabus?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 4 Syllabus for English 
+2023-24 
+ 
+CBSE Class 4 English Syllabus Chapter Name 
+Unit 1: Wake Up! 
+Neha’s Alarm Clock 
+Unit 2: Noses 
+The Little Fir Tree 
+Unit 3: Run! 
+Nasruddin’s Aim 
+Unit 4: Why? 
+Alice in Wonderland 
+Unit 5: Don’t be Afraid of the Dark 
+Helen Keller 
+Unit 6: Hiawatha 
+The Scholar’s Mother Tongue 
+Unit 7: A Watering Rhyme 
+The Giving Tree 
+The Donkey 
+Unit 8: Books 
+Going to Buy a Book 
+Unit 9: The Naughty Boy 
+Pinocchio 
+  
+
 ```
 
 ---

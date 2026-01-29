@@ -5,7 +5,7 @@
 - **Class**: 6
 - **Subject**: Maths
 - **Source**: https://byjus.com/cbse/class-6-maths-syllabus/
-- **Extracted At**: 2026-01-28T18:29:41.092355
+- **Extracted At**: 2026-01-29T11:01:29.721644
 
 ## Syllabus Structure
 
@@ -116,6 +116,163 @@ Chapter 12: Ratio and Proportion12.1Introduction12.2Ratio12.3Proportion12.4Unita
 Chapter 12: Ratio and Proportion
 12.1Introduction12.2Ratio12.3Proportion12.4Unitary Method
 W
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Maths-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Maths-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 6 Syllabus for Maths 
+2023-24 
+ 
+Number System (60 hrs) 
+ 
+1. Knowing our Numbers:  
+Consolidating the sense of numberness up to 5 digits, Size, estimation of numbers, identifying 
+smaller, larger, etc. Place value (recapitulation and extension), connectives: use of symbols =, 
+and use of brackets, word problems on number operations involving large numbers up to a 
+maximum of 5 digits in the answer after all operations. This would include conversions of units 
+of length & mass (from the larger to the smaller units), estimation of outcome of number 
+operations. Introduction to a sense of the largeness of, and initial familiarity with, large numbers 
+up to 8 digits and approximation of large numbers) 
+ 
+2. Playing with Numbers: 
+Simplification of brackets, Multiples and factors, divisibility rule of 2, 3, 4, 5, 6, 8, 9, 10, 11. (All 
+these through observing patterns. Children would be helped in deducing some and then asked to 
+derive some that are a combination of the basic patterns of divisibility.) Even/odd and 
+prime/composite numbers, Co-prime numbers, prime factorisation, every number can be written 
+as products of prime factors. HCF and LCM, prime factorization and division method for HCF 
+and LCM, the property LCM × HCF = product of two numbers. All this is to be embedded in 
+contexts that bring out the significance and provide motivation to the child for learning these 
+ideas. 
+ 
+3. Whole numbers: 
+Natural numbers, whole numbers, properties of numbers (commutative, associative, distributive, 
+additive identity, multiplicative identity), number line. Seeing patterns, identifying and 
+formulating rules to be done by children. (As familiarity with algebra grows, the child can 
+express the generic pattern.) 
+ 
+4. Negative Numbers and Integers: 
+How negative numbers arise, models of negative numbers, connection to daily life, ordering of 
+negative numbers, representation of negative numbers on number line. Children to see patterns, 
+identify and formulate rules. What are integers, identification of integers on the number line, 
+operation of addition and subtraction of integers, showing the operations on the number line 
+(addition of negative integer reduces the value of the number) comparison of integers, ordering 
+of integers. 
+ 
+5. Fractions: 
+Revision of what a fraction is, Fraction as a part of whole, Representation of fractions 
+(pictorially and on number line), fraction as a division, proper, improper & mixed fractions, 
+equivalent fractions, comparison of fractions, addition and subtraction of fractions (Avoid large 
+and complicated unnecessary tasks). (Moving towards abstraction in fractions)  
+ 
+
+
+--- Page 2 ---
+ 
+ 
+ 
+ 
+Review of the idea of a decimal fraction, place value in the context of decimal fraction, inter 
+conversion of fractions and decimal fractions (avoid recurring decimals at this stage), word 
+problems involving addition and subtraction of decimals (two operations together on money, 
+mass, length and temperature) 
+ 
+Algebra (15 hrs) 
+ 
+INTRODUCTION TO ALGEBRA  
+• Introduction to variable through patterns and through appropriate word problems and 
+generalisations (example 5 × 1 = 5 etc.)  
+• Generate such patterns with more examples.  
+• Introduction to unknowns through examples with simple contexts (single operations) 
+ 
+Ratio and Proportion (15 hrs) 
+• Concept of Ratio  
+• Proportion as equality of two ratios  
+• Unitary method (with only direct variation implied)  
+• Word problems 
+ 
+ 
+Geometry (65 hrs) 
+1. Basic geometrical ideas (2 -D) 
+Introduction to geometry. Its linkage with and reflection in everyday experience.  
+• Line, line segment, ray.  
+• Open and closed figures.  
+• Interior and exterior of closed figures. 
+• Curvilinear and linear boundaries  
+• Angle — Vertex, arm, interior and exterior,  
+• Triangle — vertices, sides, angles, interior and exterior, altitude and median  
+• Quadrilateral — Sides, vertices, angles, diagonals, adjacent sides and opposite sides (only 
+convex quadrilateral are to be discussed), interior and exterior of a quadrilateral.  
+• Circle — Centre, radius, diameter, arc, sector, chord, segment, semicircle, circumference, 
+interior and exterior. 
+ 
+2. Understanding Elementary Shapes (2-D and 3-D) 
+• Measure of Line segment  
+• Measure of angles  
+• Pair of lines – Intersecting and perpendicular lines – Parallel lines  
+• Types of angles- acute, obtuse, right, straight, reflex, complete and zero angle  
+• Classification of triangles (on the basis of sides, and of angles)  
+• Types of quadrilaterals – Trapezium, parallelogram, rectangle, square, rhombus.  
+• Simple polygons (introduction) (Upto octagons regulars as well as non regular).  
+• Identification of 3-D shapes: Cubes, Cuboids, cylinder, sphere, cone, prism (triangular), 
+pyramid (triangular and square) Identification and locating in the surroundings 
+• Elements of 3-D figures. (Faces, Edges and vertices)  
+
+
+--- Page 3 ---
+ 
+ 
+ 
+ 
+• Nets for cube, cuboids, cylinders, cones and tetrahedrons 
+ 
+3. Symmetry: (reflection) 
+• Observation and identification of 2-D symmetrical objects for reflection symmetry  
+• Operation of reflection (taking mirror images) of simple 2-D objects  
+• Recognising reflection symmetry (identifying axes) 
+ 
+4. Constructions (using Straight edge Scale, protractor, compasses) 
+• Drawing of a line segment  
+• Construction of circle  
+• Perpendicular bisector  
+• Construction of angles (using protractor)  
+• Angle 60°, 120° (Using Compasses)  
+• Angle bisector- making angles of 30°, 45°, 90° etc. (using compasses)  
+• Angle equal to a given angle (using compass)  
+• Drawing a line perpendicular to a given line from a point a) on the line b) outside the line. 
+ 
+Mensuration (15 hrs) 
+ 
+CONCEPT OF PERIMETER AND INTRODUCTION TO AREA  
+Introduction and general understanding of perimeter using many shapes. Shapes of different 
+kinds with the same perimeter. Concept of area, Area of a rectangle and a square Counter 
+examples to different misconcepts related to perimeter and area.  
+ 
+Perimeter of a rectangle – and its special case – a square. Deducing the formula of the 
+perimeter for a rectangle and then a square through pattern and generalisation. 
+ 
+Data handling (10 hrs) 
+(i) 
+What is data - choosing data to examine a hypothesis?  
+(ii) 
+Collection and organisation of data - examples of organising it in tally bars and a 
+table.  
+(iii) 
+Pictograph- Need for scaling in pictographs interpretation & construction.  
+(iv) 
+Making bar graphs for given data interpreting bar graphs+. 
+
 ```
 
 ---

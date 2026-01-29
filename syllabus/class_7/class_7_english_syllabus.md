@@ -5,7 +5,7 @@
 - **Class**: 7
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-7-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:51.964603
+- **Extracted At**: 2026-01-29T11:02:04.104579
 
 ## Detailed Content
 
@@ -39,6 +39,46 @@ Frequently Asked Questions on CBSE Class 7 English Syllabus 2023-24
 What are the textbooks prescribed for the Class 7 CBSE English Syllabus?
 In the CBSE Class 7 English Syllabus, how many chapters are covered?
 Why is the CBSE Class 7 English Syllabus the best study material?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ CBSE Class 7 Syllabus for English  
+2023-24  
+English:  
+Honeycomb:  
+ Chapter 1: Three Questions & The Squirrel  
+ Chapter 2: A Gift of Chappals & The Rebel 
+ Chapter 3: Gopal and the Hilsa Fish & The Shed  
+ Chapter 4: The Ashes That Made Trees Bloom & Chivvy  
+ Chapter 5: Quality & Trees  
+ Chapter 6: Expert Detectives & Mystery of the Talking Fan  
+ Chapter 7: The Invention of Vita-Wonk, Dad and the Cat and the Tree, Garden Snake  
+ Chapter 8: A Homage to Our Brave Soldiers & Meadow Surprises  
+ 
+The Alien Hand:  
+ Chapter 1: The Tiny Teacher  
+ Chapter 2: Bringing Up Kari  
+ Chapter 3: Golu Grows a Nose  
+ Chapter 4: Chandni  
+ Chapter 5: The Bear Story  
+ Chapter 6: A Tiger in the House  
+ Chapter 7: An Alien Hand 
+ 
+
 ```
 
 ---

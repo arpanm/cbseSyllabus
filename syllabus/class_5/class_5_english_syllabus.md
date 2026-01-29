@@ -5,7 +5,7 @@
 - **Class**: 5
 - **Subject**: English
 - **Source**: https://byjus.com/cbse-class-5-english-syllabus/
-- **Extracted At**: 2026-01-28T18:29:33.664314
+- **Extracted At**: 2026-01-29T11:01:13.318688
 
 ## Detailed Content
 
@@ -39,6 +39,56 @@ Frequently Asked Questions on CBSE Syllabus for Class 5 English 2023-24
 How many chapters are there in the CBSE Syllabus for Class 5 English?
 Why is English an important subject in the CBSE Class 5 Syllabus?
 How to focus on the CBSE Syllabus for Class 5 English?
+```
+
+## PDF Syllabus Content
+
+**Source PDFs:**
+- https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-English-2023-24.pdf
+
+### Extracted Content
+
+```
+=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-English-2023-24.pdf ===
+--- Page 1 ---
+ 
+ 
+ 
+ 
+CBSE Class 5 Syllabus for English 
+2023-24 
+ 
+CBSE Class 5 English Chapters 
+ 
+Chapter 1: Ice Cream Man 
+Wonderful Taste 
+ 
+Chapter 2: Team Work  
+Flying Together 
+ 
+Chapter 3: My Shadow 
+Robinson Crusoe Discovers a footprint 
+ 
+Chapter 4: Crying 
+My Elder Brother 
+ 
+Chapter 5: Rip Van Winkle 
+ 
+Chapter 6: Class Discussion 
+The Talkative Barber 
+ 
+Chapter 7: Topsy-turvy Land 
+Gulliver’s Travels  
+ 
+Chapter 8: Nobody’s Friend 
+The Little Bully 
+ 
+Chapter 9: Sing a Song of People 
+ 
+Chapter 10: Malu Bhalu 
+Who Will be Ningthou? 
+ 
+
 ```
 
 ---
