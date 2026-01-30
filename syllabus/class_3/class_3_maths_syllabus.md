@@ -87,7 +87,7 @@ How to score full marks using the CBSE Class 3 Maths Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-April-20-Class-3-Maths-2023-24.pdf ===
+=== PDF: class_3_maths_1.pdf ===
 --- Page 1 ---
  
  

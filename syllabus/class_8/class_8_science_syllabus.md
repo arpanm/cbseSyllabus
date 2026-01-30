@@ -98,7 +98,7 @@ Why should I use the CBSE Class 8 Science Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-8-Science-2023-24.pdf ===
+=== PDF: class_8_science_1.pdf ===
 --- Page 1 ---
 Questions
 Key Concepts

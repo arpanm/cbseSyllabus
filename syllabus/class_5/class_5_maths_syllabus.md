@@ -135,7 +135,7 @@ How to score well in the CBSE Syllabus for Class 5 Maths?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-Maths-2023-24.pdf ===
+=== PDF: class_5_maths_1.pdf ===
 --- Page 1 ---
  
  

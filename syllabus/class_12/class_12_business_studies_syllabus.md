@@ -259,7 +259,7 @@ Class 12 Business Studies Syllabus provides a broad degree of illustrative examp
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-April12-Business-Studies-Syllabus-2023-24.pdf ===
+=== PDF: class_12_business-studies_1.pdf ===
 --- Page 1 ---
 Business Studies 
 CLASS–XII (2023-24) 
@@ -1841,7 +1841,7 @@ Total
  
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2022/04/CBSE-Class-12-Business-Studies-Syllabus-2022-23.pdf ===
+=== PDF: class_12_business-studies_2.pdf ===
 --- Page 1 ---
 Business Studies 
 CLASS–XII (2022-23) 
@@ -2040,7 +2040,20 @@ budget and Programme
 Develop an understanding of single 
 use and standing plans  
  
-Describe objectives
+Describe objectives, policies, 
+strategy, procedure, method, rule, 
+budget and programme as types of 
+plans. 
+ 
+Unit 5: Organising   
+ 
+ 
+ 
+ 
+ 
+        
+ 
+Concept and 
 ```
 
 ---

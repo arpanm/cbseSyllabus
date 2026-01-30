@@ -141,7 +141,7 @@ How to score 100 marks in the Class 1 Maths exam using the CBSE Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Maths-2023-24.pdf ===
+=== PDF: class_1_maths_1.pdf ===
 --- Page 1 ---
  
  

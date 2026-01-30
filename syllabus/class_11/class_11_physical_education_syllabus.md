@@ -156,7 +156,7 @@ How to score full marks in the CBSE Class 11 Physical Education exam using the S
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-Physical-Education-Syllabus-2023-24.pdf ===
+=== PDF: class_11_physical-education_1.pdf ===
 --- Page 1 ---
 5 
 Physical Education Syllabus 2023-24 

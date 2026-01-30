@@ -45,7 +45,7 @@ Can I depend on the CBSE Syllabus for Class 4 Hindi to score full marks?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-4-Hindi-2023-24.pdf ===
+=== PDF: class_4_hindi_1.pdf ===
 --- Page 1 ---
  
  

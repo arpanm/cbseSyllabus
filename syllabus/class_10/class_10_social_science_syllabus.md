@@ -180,7 +180,7 @@ Learn Maths & Science in an interactive & fun-loving way with BYJU’S App/Table
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/05/CBSE-Syllabus-for-Class-10-Social-Science-2023-24.pdf ===
+=== PDF: class_10_social-science_1.pdf ===
 --- Page 1 ---
 Page 20 of 60 
  Social Science Syllabus Class X 2023-24 

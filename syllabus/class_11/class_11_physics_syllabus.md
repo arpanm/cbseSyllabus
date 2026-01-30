@@ -197,7 +197,7 @@ Students can also access the syllabus for o
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-11-Physics-2023-24.pdf ===
+=== PDF: class_11_physics_1.pdf ===
 --- Page 1 ---
  PHYSICS (Code No. 042) 
  COURSE STRUCTURE 

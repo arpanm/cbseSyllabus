@@ -135,7 +135,7 @@ What are the benefits of referring to the CBSE Syllabus for Class 9 Science?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-9-April-11-Science-2023-24.pdf ===
+=== PDF: class_9_science_1.pdf ===
 --- Page 1 ---
 CBSE Class 9 Syllabus for Science 2023-24
 Marks: 80 

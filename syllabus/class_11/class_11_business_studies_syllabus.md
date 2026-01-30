@@ -171,7 +171,7 @@ Which unit is allotted more marks in the CBSE Class 11 Business Studies Syllabus
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-Business-Studies-Syllabus-2023-24.pdf ===
+=== PDF: class_11_business-studies_1.pdf ===
 --- Page 1 ---
 BUSINESS STUDIES (Code No. 054) 
 CLASS–XI (2023-24) 

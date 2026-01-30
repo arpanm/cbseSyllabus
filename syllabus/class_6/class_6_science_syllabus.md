@@ -135,7 +135,7 @@ Can I score full marks using the CBSE Class 6 Science Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-6-Science-2023-24.pdf ===
+=== PDF: class_6_science_1.pdf ===
 --- Page 1 ---
 138
 Questions

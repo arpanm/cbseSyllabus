@@ -50,7 +50,7 @@ How to score 100 in the Class 1 Hindi exam as per the marks weightage in the CBS
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-Hindi-2023-24.pdf ===
+=== PDF: class_1_hindi_1.pdf ===
 --- Page 1 ---
  
  

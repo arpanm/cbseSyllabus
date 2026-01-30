@@ -157,7 +157,7 @@ Comparing the pH of solutions o
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-11-Chemistry-2023-24.pdf ===
+=== PDF: class_11_chemistry_1.pdf ===
 --- Page 1 ---
  COURSE STRUCTURE  
 CLASS–XI (THEORY) (2023-24) 

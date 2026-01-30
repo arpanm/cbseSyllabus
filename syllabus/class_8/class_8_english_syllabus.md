@@ -79,7 +79,7 @@ In the CBSE Class 8 English Syllabus, how many chapters are present in the Honey
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-8-April-18-English-2023-24.pdf ===
+=== PDF: class_8_english_1.pdf ===
 --- Page 1 ---
  
  

@@ -15,7 +15,7 @@
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2019/09/CBSE-Class-2-Maths-Syllabus.pdf ===
+=== PDF: class_2_maths_1.pdf ===
 --- Page 1 ---
 https://byjus.com 
 CBSE Class 2 Maths Syllabus 

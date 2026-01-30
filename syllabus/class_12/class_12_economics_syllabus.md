@@ -254,7 +254,7 @@ Micro and Small Scale IndustriesFood Supply Channel in IndiaContemporary Employm
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Economics-Syllabus-2023-24.pdf ===
+=== PDF: class_12_economics_1.pdf ===
 --- Page 1 ---
 6
 ECONOMICS 
@@ -721,7 +721,7 @@ evaluation on basis of economic principles
 Any other topic
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2022/04/CBSE-Class-12-Economics-Syllabus-2022-23.pdf ===
+=== PDF: class_12_economics_2.pdf ===
 --- Page 1 ---
 6
 ECONOMICS 
@@ -1198,7 +1198,7 @@ Any other topic
  
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2021/08/CBSE-Class-12-Term-Wise-Economics-Syllabus-2021-22.pdf ===
+=== PDF: class_12_economics_3.pdf ===
 --- Page 1 ---
 5 
 ECONOMICS (Code No. 030) 

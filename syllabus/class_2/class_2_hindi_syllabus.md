@@ -47,7 +47,7 @@ How to score 100% in the Class 2 Hindi exam with the help of the CBSE Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-2-Hindi-2023-24.pdf ===
+=== PDF: class_2_hindi_1.pdf ===
 --- Page 1 ---
  
  

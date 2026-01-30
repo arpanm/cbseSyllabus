@@ -137,7 +137,7 @@ Is the BYJU’S CBSE Class 7 Social Science Syllabus available for free?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-History-2023-24.pdf ===
+=== PDF: class_7_social-science_1.pdf ===
 --- Page 1 ---
 167
 CBSE Class 7 Syllabus for History 
@@ -302,7 +302,7 @@ of control.
 can be used to reconstruct history.
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Social-and-Political-Life-2023-24.pdf ===
+=== PDF: class_7_social-science_2.pdf ===
 --- Page 1 ---
 181
 DEMOCRACY AND EQUALITY
@@ -526,7 +526,7 @@ scattered producers and consumers,
 184
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-7-Geography-2023-24.pdf ===
+=== PDF: class_7_social-science_3.pdf ===
 --- Page 1 ---
 174
 Topics

@@ -175,7 +175,7 @@ What is the marks distribution in the Class 11 Accountancy Syllabus for CBSE?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-Accountancy-Syllabus-2023-24.pdf ===
+=== PDF: class_11_accountancy_1.pdf ===
 --- Page 1 ---
 Accountancy (Code No.055) 
 Course Structure 

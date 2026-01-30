@@ -115,7 +115,7 @@ What type of questions can be expected in the CBSE Class 11 Economics exam as pe
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-11-Economics-Syllabus-2023-24.pdf ===
+=== PDF: class_11_economics_1.pdf ===
 --- Page 1 ---
 2
 ECONOMICS (030) 

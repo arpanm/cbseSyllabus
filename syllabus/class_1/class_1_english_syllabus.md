@@ -72,7 +72,7 @@ Is the CBSE Class 1 English Syllabus available for free?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-1-English-2023-24.pdf ===
+=== PDF: class_1_english_1.pdf ===
 --- Page 1 ---
  
  

@@ -54,7 +54,7 @@ Where can I download the Class 5 CBSE Syllabus for EVS for 2023-24?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-5-EVS-2023-24.pdf ===
+=== PDF: class_5_evs_1.pdf ===
 --- Page 1 ---
 122
 Questions

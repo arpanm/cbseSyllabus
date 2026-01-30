@@ -70,7 +70,7 @@ How are the marks distributed for the Elective paper in the CBSE Syllabus for Cl
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-English-Core-Syllabus-2023-24.pdf ===
+=== PDF: class_12_english_1.pdf ===
 --- Page 1 ---
 ENGLISH CORE 
 CODE NO. 301 
@@ -966,7 +966,7 @@ creative &
 exceptional 
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-English-Elective-Syllabus-2023-24.pdf ===
+=== PDF: class_12_english_2.pdf ===
 --- Page 1 ---
 ENGLISH ELECTIVE 
 CLASS-XII 

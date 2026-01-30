@@ -192,7 +192,7 @@ Frequently Asked Questions o
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Physical-Education-Syllabus-2023-24.pdf ===
+=== PDF: class_12_physical-education_1.pdf ===
 --- Page 1 ---
 15 
 Physical Education Syllabus 2023-24 

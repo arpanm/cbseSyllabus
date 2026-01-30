@@ -114,7 +114,7 @@ How many marks are allotted for internals in the CBSE Class 12 Maths syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Maths-Syllabus-2023-24.pdf ===
+=== PDF: class_12_maths_1.pdf ===
 --- Page 1 ---
 CLASS-XII (2023-24) 
 One Paper 

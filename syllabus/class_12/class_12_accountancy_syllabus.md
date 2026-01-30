@@ -203,7 +203,7 @@ For more solutions, theCBSE syllabusand study materials for Class 12 Accountancy
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Class-12-Accountancy-Syllabus-2023-24.pdf ===
+=== PDF: class_12_accountancy_1.pdf ===
 --- Page 1 ---
 Accountancy (Code No. 055) 
 Class-XII (2023-24)  
@@ -829,7 +829,7 @@ TOTAL
   
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2022/04/CBSE-Class-12-Accountancy-Syllabus-2022-23.pdf ===
+=== PDF: class_12_accountancy_2.pdf ===
 --- Page 1 ---
 Accountancy (Code No. 055) 
 Class-XII (2022-23) 
@@ -1453,7 +1453,7 @@ TOTAL
   
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2021/08/CBSE-Class-12-Term-Wise-Accountancy-Syllabus-2021-22.pdf ===
+=== PDF: class_12_accountancy_3.pdf ===
 --- Page 1 ---
 Accountancy (Code No. 055) 
 (2021-22) 

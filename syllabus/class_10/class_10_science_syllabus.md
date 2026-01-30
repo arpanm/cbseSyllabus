@@ -186,7 +186,7 @@ How many experiments are there in the CBSE Science Syllabus of Class 10?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-10-Science-2023-24.pdf ===
+=== PDF: class_10_science_1.pdf ===
 --- Page 1 ---
 CBSE CLASS 10 Syllabus for Science 2023-24 
 Marks: 80 

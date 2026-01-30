@@ -126,7 +126,7 @@ How many chapters of Mathematics are there in CBSE Class 9?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-9-April-11-Maths-2023-24.pdf ===
+=== PDF: class_9_maths_1.pdf ===
 --- Page 1 ---
 2 
 CBSE Class 9 Syllabus for Maths 2023-24

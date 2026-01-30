@@ -52,7 +52,7 @@ Why should I depend on the CBSE Class 3 English Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-3-English-2023-24.pdf ===
+=== PDF: class_3_english_1.pdf ===
 --- Page 1 ---
  
  

@@ -101,7 +101,7 @@ What are the parts in the CBSE Class 8 Social Science Syllabus?
 ### Extracted Content
 
 ```
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-8-History-2023-24.pdf ===
+=== PDF: class_8_social-science_1.pdf ===
 --- Page 1 ---
 170
 CBSE Class 8 Syllabus for History 
@@ -291,7 +291,7 @@ democracy in the last fifty years.
 be used to understand contemporary history.
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-8-Social-and-Political-Life-2023-24.pdf ===
+=== PDF: class_8_social-science_2.pdf ===
 --- Page 1 ---
 Themes
 Themes
@@ -467,7 +467,7 @@ and role of government.
 187
 
 
-=== PDF: https://cdn1.byjus.com/wp-content/uploads/2023/04/CBSE-Syllabus-for-Class-8-Geography-2023-24.pdf ===
+=== PDF: class_8_social-science_3.pdf ===
 --- Page 1 ---
 176
 Topics
